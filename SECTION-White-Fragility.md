@@ -1,0 +1,3 @@
+231) Mitchell Verter I can't even tell you how much I despise this idea. All of my politics and writing are focused on human vulnerability and trauma. Criticizing someone because they are "fragile" or because they shed "tears" is the most bullying kind of politics around. It is an adaptation of macho sadism to left politics and it is completely grotesque. It is an active encouragement of emotional abuse as a political strategy.
+*     232) https://newrepublic.com/article/156032/diversity-training-isnt-enough-pamela-newkirk-robin-diangelo-books-reviews?fbclid=IwAR3TtcnHNH0FkToY5GlrI4mn5No5gZ8SimbhqM56K5lVX-ZSwPJGR68V1K0 
+* 

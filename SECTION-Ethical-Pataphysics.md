@@ -1,0 +1,4 @@
+        e) An Ethical ‘Pataphysics
+*             i) Pataphysics is the science of that which is superinduced upon metaphysics, whether within or beyond the latter's limitations, extending as far beyond metaphysics as the latter extends beyond physics. ... 'Pataphysics will be, above all, the science of the particular, despite the common opinion that the only science is that of the general. 'Pataphysics will examine the laws governing exceptions, and will explain the universe supplementary to this one.[3]
+*             ii) The ex-ception, each person is exceptional in their own way, ex-cendence, etc
+* 

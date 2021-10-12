@@ -1,0 +1,4 @@
+# Chapter:  Levinasian Perspectivism
+
+1. This is honestly a topic I have been writing about since 1995.  In short, “ethics itself is an optics” (TI 23).  He does not abandon visuality, but instead warps it, perverts it.[11]  “The differences between the Other and me … are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself’ towards ‘the Other.’  The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work” (TI 215).[12] 
+2. Nietzsche is typically characterized as a perspectivist because he “sees with many eyes” in contrast to monocular Kant, etc.  There is a different perspectivism that emerges in Levinas:  in each stage of the Self-Other dynamic, new perspectives emerge.  The phenomenological experience is an ontological transformation because of these perspectival shifts 

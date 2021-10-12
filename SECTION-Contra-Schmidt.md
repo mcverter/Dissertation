@@ -1,0 +1,6 @@
+
+*     16) Against Militarism
+*         a) Carl Schmidt friend-enemy distinction
+*         b) The logic of militarism prevails not only within mainstream conceptions of politics, but also within various strands of radical thinking, from Marx’s belief that class struggle is the engine of history to Badiou’s celebration of the militant as a model for political subjectivity. Most alarming is the way that such militarism runs throughout the writings of the French Tiqqun group. Within these texts, we find the standard masculinist warnings against the way one is ‘castrated’ (Tiqqun, 2010b, p. 18) by mass society, as well as a hostile denunciation of the figure of the ‘Young Girl’, who represents for them the shallow bitch who succumbs to the idiocy of consumer culture. Worse yet are the recurrent calls to violence. Not only does it cite Clastres’s proclamation that ‘war is the truth of relations between communities’ (Tiqqun, 2010a, p. 22), but the text Introduction to Civil War also tells us, ‘Only the timid atom of imperial society thinks of “violence” as a radical and unique evil. ... For us, ultimately, violence is what has been taken from us, and today we need to take it back’ (Tiqqun, 2010a, p. 10). We are similarly informed that hostility is a primordial relationship and that the ‘hostis is a nothing that demands to be annihilate’ (2010a, p. 12).
+* 
+* 
