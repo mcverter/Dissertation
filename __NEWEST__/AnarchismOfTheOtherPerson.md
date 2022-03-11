@@ -81,6 +81,13 @@ Kropotkin -- that we can meet our needs in the first place is the remarkable thi
 
 Solidarity is thus not just a thing that we should strive for but something that already exists. We are already bound to other people. We just need to recognize this indebtedness and to make it manifest. Here I say "indebtedness" rathat than "interconnectedness" because of lateral view. Not something that can be overlayed with by a graph and that we can calculate the most efficiet way to do it. Well actually no it is. Logistics is the way we do it. But also we expereince it as a personal realtionship. Not just that "debt exists in the marketplace" but that I myself am in debt to somebody else and need to pay
 
+the mode that Levinas investigates this is through an understanding of a metabolism of Being.    A process of consumption and production.   This meetabolism of being is understood through the process of maturation as that which establishes the upwards growth of the subject.  THe narrative of Totatlityh and Infinity describes the is that of the generation of gendered generations,  a process taken from Descartes of the idea of continous creation as well as in the bible.  Not a static uniliear time with uniform density flat surface but rather a varying inflected and bent surface which is punctuated by moments of gravity, each of which has a different start and an end, the moments are separated and distinct from each other, but perhaps only retrospectively.  There is a certain pattern to the movement of life, similar to what Levinas refers to as the diastole and the systole of the heart.  Each moment begins as a birth in a moment matures from childhood to married working adulthood and is death and then reborn. So let's try instead to argue this from the perspective of the Jewish patriarchy and that it is in many ways using biblical motifs or at least that it inheriets throughtout from a variety of inlets such as Hebraic scripture as well as the tradional Greek philosophy.  So we can understand the as the first book of the bible genesis, the story of generation of generations. 
+
+Within this process of maturation, Levinas identifies two moments of consumption.  The world emerges as a baby embedded in what he calls a milieu, where the world is already as if they are their own, in which the 
+
+
+Within the narrative of Totality and Infinity, Levinas describes the life phases of the individual as they progress from birth to maturation 
+
 By
 
 Metaphorics of Levinas
