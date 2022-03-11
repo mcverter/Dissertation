@@ -89,8 +89,76 @@ Within this process of maturation, Levinas identifies two moments of consumption
 Within the narrative of Totality and Infinity, Levinas describes the life phases of the individual as they progress from birth to maturation 
 
 By
+Metabolism: Eating and shitting
 
-Metaphorics of Levinas
+Meatabolism of Levinas understood as two step process. In Totality and Infinity, Levinas First is eating. Then is working. The eating as nursing, as mother sucking its teats. The elemental maternal other. Here describe the other as elemental. Then also quote there "capable of killing for a crust of bread" Possession of murder. In Otherwise than Being, he expands this analysis to the idea of breathing
 
-Other person is an anarchy. What does this mean exacty. The description of the constition of our
-Approach of reading
+"we make it out of waste and works"
+
+Work and Death
+
+Capable of killing for a crust of bread. Here we find "killing" in the working. What establises property is what exerts ones power over the other, of rendering exeriority into something that can be grasped. By doing so, you repress the otherness of the other. You run it into something that can be manipulated and controlled and dominated. This is in a way killing it. Here killing does not just mean to actually kill someone but rather to appropriate something as one's own. The suspension of their possiblity of being. Oh I know that person as x or y, to submit them as a general concept.
+
+The idea of capabity of the statement I can. I can expert an effort, an interrogation of powre and potency, and of will for defining onesel. The deepest interaction with Nk
+Dead capital as found my David McNally, vampire of the market is the thing that is the capital, sucking the life force of the worker. So not just people but the world itself. In fact, what power does is to reify things, to make things, to turn a process into a self subsistent entity. Therefore for the grasping of the self, what the Buddhists call "grasping mind" it is the thing that stills phenomenon such that it can be grasped in a present moment, in a present time, at present place, in the fullness of presence. That is the moment. but it ignores the futuring and the past, the "arising and cessation" of phenomena. Here we can bring in Buddhism.
+
+METABOLICS and GENESIS
+What Levinas does that is interesting is that he overlays the conception of a metabolic process with an idea of genesis of gendered generations. The process of genesis. It is birth and role in a family. Understanding the kinship of being and of others. That we are connected to each other as family and as strangers. Orders of relation which Levinas breaks down as a series of relationships, understood as a geneaology of persons, of persons born unto each other
+
+Geneaology not just a succession of accidental events. Well it is that. It is a pataphysicla thing. each thing comes as an unexpleced surprise and must be integrated a la pataphysics where each exception is made more general. born of evolutionary understanding of birth and rebirth. Where each exception occurs as a uniqe chosen one, that it is a unique perso. Same as a set of material relations. If things are all material relations, then aperson lurks behind that
+
+A multitude of family relations -- paternity as a mode of self relation, fraternity as a metaphoric for political citizenship, participation within a public sphere as an equal among equals. But also maternity.
+
+What can we say about maternity then?
+
+MATERNITY
+Maternity is important because of why. It underscores all of these types of relationships with each other. The primary understanding as one of need. Need rather than desire. But why? Is that what I want to say for levinas? Yes it is kind of. So the Need is something which has a terminus, which aims towards a goal. That is what happens in the present. Soemthing is fulfilled and filled up. A desire is a thing that is perpetual and unfulfilled. But Levinas says something very interesting then:
+"The needs of the other are my own spirtual needs" Material vs spiritual. Recognizing of the cosubstantiality of the spirit of all people. Not so much as "recognizing" but as being inspired. the person around you already drives you in a certain direction. its not even a choice but a drive. Not merely the same thing as a person telling you "do this and do that" but already the fact that we are even participating in the world is already a precondition for us to do anything. that is to say that we do wahat we do because other pepole have already made the world possible for us. That someone made a coffee or shoes for us. That thought up clocks and keeping time. Et cetera. Even that we were born.
+
+Also the web of life
+
+An analysis therefore of what makes the life worth living aroud other people
+
+SPECIES BEING
+Here we have the idea of "species being"
+What are the inherited ways that we have done with each other
+WEll when we even start to look at what we have inhereited we must be mindful of the fact that what we only have a partial perspective on what is going on. We don't know everything. This is another example of the pataphysical as understood by Alfred Jarry. We only make our data based on accumulated evidence. We piece togehter the picutre
+
+Ontogyny follows phylogyny. We can also understand the idea of the maternal through the work of Sarah ruddick and Eva Kittay. We can listen to indigenous and black people. Such as for example bell hooks We can then also turn to the work of Sarah Hrdy as outlining stuff from the domains of anthropology and evolutionalry biology.
+
+## Motherhood
+
+Sarah Ruddick and the thing about Sarah Ruddick is that she emphasizes that the maternal is a practice. Several key points about her
+
+- Not a person but a practice
+- Goal of practice is threefold
+- It is a demand
+- Type of evaluative morality that we have for it
+- Every maternal theorist brings up ambiguity
+- Bring in Sophie Lewis and also Sarah Lachance Adams
+
+Eva Kittay
+
+- Motherhood and caretaking rather as a set of rights and not like whatshisname the Rawls guy
+- The types of domiantion and inequality
+- THe ambiguity and complexity of it all
+
+Bell Hooks on Homeplace
+
+- Somewhere to retreat
+
+Ariel Salleh
+
+- On ecofeminism using Sarah Ruddick's work
+
+Sophie Lewis
+Challenge from Queer Feminism for abolish the family
+
+# Sarah Hrdy
+
+An antrhopoligical dimenstion to this which Hrdy refers to as allomothers.
+That it takes a village to raise a child
+That the reproduction of life in all species requires rearing
+No wait
+That the difference between phylogyny and genetics. Or what is it. She makes a distiction between nature and nurture. There is an admixture of the two in this concept. That there is an inheritance but in the expression of the genes. This is a social matter.  
+The markers may be there and they have a certain reason for winning out evolutionarily but some are not healthy and die out. Some are there. But all of these are insofar as they are expressed which is the epigenetics thing
