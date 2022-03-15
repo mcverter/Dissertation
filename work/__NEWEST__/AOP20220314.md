@@ -2,21 +2,27 @@
 
 # Overview
 
-**Anarchism of the Other Person** will be a rethinking of anarchism through the writings of ethical phenomenologist Emmanuel Levinas. Its goals will be twofold: (1) to extend the ethical genealogy of anarchism by reading it through Levinas; (2) to demonstrate 'pataphysical readings of Levinas as an anarchist.
+- Thesis statement
+  **Anarchism of the Other Person** will be a rethinking of anarchism through the writings of ethical phenomenologist Emmanuel Levinas. Its goals will be twofold: (1) to extend the ethical genealogy of anarchism by reading it through Levinas; (2) to demonstrate 'pataphysical readings of Levinas as an anarchist.
 
-Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricaro Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we read as well from the writings of authors such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, and Klee Benally, Alexis Pauline Gumbs, Loree Erickson, and Sunsara Taylor.
+- Discursive context
+  Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricaro Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we dive as well into the streams of writers such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, and Klee Benally, Alexis Pauline Gumbs, Loree Erickson, and Sunsara Taylor.
 
----
+* Contrast with Nietzscheanism
+  The task of developing such an ethical anarchism of the other person seems especially important for the way that it counterposes obligation against voluntarism, the perspective of the will articulated by Nietszche against the perspectives of other familiar and unfamiliar persons explored by Levinas
+  Nietzsche's critique of moralism has been broadly influential along the history of anarchism -- through his own writings, in union with precursors such as Max Stirner, and in heirs such as Martin Heidegger and Gilles Deleuze -- in foundational thinkers such as Emma Goldman and Ricardo Flores Magon and contemporary ones such as John Zerzan and Hakim Bey.
 
-## PREVIOUS
+much anarchist thought has Nietzsche has been important the first formulations of anarchocommunism in writers such as Ricardo Flores Magon and Emma Goldman.
 
-The task of articulating such an anarchism of the other person, ethical project of anarchocomunism read through the ethical philosophy of Emmanuel Levinas, seems especially urgent because so much anarchist thought -- from Emma Goldman to Hakim Bey -- is influenced by the critique of morality propounded by Friedrich Nietsche and his precursor Max Stirner and inheritors such as Martin Heidegger and Gilles Deleuze. I will argue that, while such thinking can be useful for smashing the rigid heirarchy of domination, such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things. This reification of struggle is a spiritual grounding for a thinker like THomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political -- not just the authoritarian state but the understanding of sociality in terms of violence. This same polemos is illustrative of the thinking in terms of mechanism impulse and desire.
+## PREVIOUS (March 14)
+
+The task of articulating such an anarchism of the other person, ethical project of anarchocomunism read through the ethical philosophy of Emmanuel Levinas, seems especially urgent because so much anarchist thought -- from Emma Goldman to Hakim Bey -- is influenced by the critique of morality propounded by Friedrich Nietsche and his precursor Max Stirner and inheritors. I will argue that, while such thinking can be useful for smashing the rigid heirarchy of domination, such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things. This reification of struggle is a spiritual grounding for a thinker like THomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political -- not just the authoritarian state but the understanding of sociality in terms of violence. This same polemos is illustrative of the thinking in terms of mechanism impulse and desire.
 
 This is understanding Becoming as a metabolism of Being. This same Heraclitean belief is influential in its admixture with the mechanistic theory of Hobbes, who sees things as merely colliding with each other and driven by anonymous desires and other mechanical forces that flow through us
 
 Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
 
-- Before March 13
+- Before March 14
 
   Over the years, I have written many texts that outline an "Anarchism of the Other Person", an anarchafeminism read through the writings of Emmanuel Levinas and Petr Kropotkin. This task has long seemed urgent to me because it contrasts (but perhaps also complements) with contemporary anarchist writings informed by Nietzsche, Deleuze, Nietzschean, Stirner, Heidegger, etc. That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
 
