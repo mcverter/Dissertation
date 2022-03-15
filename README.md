@@ -12,11 +12,15 @@
   The task of developing such an ethical anarchism of the other person seems especially important for the way that it counterposes obligation against voluntarism, the perspective of the will articulated by Nietszche against the perspectives of other familiar and unfamiliar persons explored by Levinas
   Nietzsche's critique of moralism has been broadly influential along the history of anarchism -- through his own writings, in union with precursors such as Max Stirner, and in heirs such as Martin Heidegger and Gilles Deleuze -- in foundational anarchocommunist thinkers such as Emma Goldman and Ricardo Flores Magon and contemporary ones such as John Zerzan and Hakim Bey.
 
-  - Heraclitus
+* Anarchism as smashing idols (Abolitionism?)
+  Both Nietzsche and Levinas are useful for smashing the idols of domination, with Levinas weilding Niezsche's hammer like a Macabee.
+
+- Heraclitus / Polemos
+  However, Nietzsche and the thinkers who such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things.
 
 ## PREVIOUS (March 14)
 
-I will argue that, while such thinking can be useful for smashing the rigid heirarchy of domination, such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things. This reification of struggle is a spiritual grounding for a thinker like THomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political -- not just the authoritarian state but the understanding of sociality in terms of violence. This same polemos is illustrative of the thinking in terms of mechanism impulse and desire.
+This reification of struggle is a spiritual grounding for a thinker like THomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political -- not just the authoritarian state but the understanding of sociality in terms of violence. This same polemos is illustrative of the thinking in terms of mechanism impulse and desire.
 
 This is understanding Becoming as a metabolism of Being. This same Heraclitean belief is influential in its admixture with the mechanistic theory of Hobbes, who sees things as merely colliding with each other and driven by anonymous desires and other mechanical forces that flow through us
 
