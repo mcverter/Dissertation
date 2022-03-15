@@ -1,16 +1,14 @@
 # WORK IN PROGRESS
 
----
-
-\*\* NEW STARTING MARCH 14, 2022
-
----
-
 # Overview
 
 **Anarchism of the Other Person** will be a rethinking of anarchism through the writings of ethical phenomenologist Emmanuel Levinas. Its goals will be twofold: (1) to extend the ethical genealogy of anarchism by reading it through Levinas; (2) to demonstrate 'pataphysical readings of Levinas as an anarchist.
 
-Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricaro Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we read as well from the writings of authors such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, and Klee Benally, Alexis Pauline Gumbs, and Loree Erickson.
+Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricaro Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we read as well from the writings of authors such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, and Klee Benally, Alexis Pauline Gumbs, Loree Erickson, and Sunsara Taylor.
+
+---
+
+## PREVIOUS
 
 The task of articulating such an anarchism of the other person, ethical project of anarchocomunism read through the ethical philosophy of Emmanuel Levinas, seems especially urgent because so much anarchist thought -- from Emma Goldman to Hakim Bey -- is influenced by the critique of morality propounded by Friedrich Nietsche and his precursor Max Stirner and inheritors such as Martin Heidegger and Gilles Deleuze. I will argue that, while such thinking can be useful for smashing the rigid heirarchy of domination, such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things. This reification of struggle is a spiritual grounding for a thinker like THomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political -- not just the authoritarian state but the understanding of sociality in terms of violence. This same polemos is illustrative of the thinking in terms of mechanism impulse and desire.
 
@@ -18,13 +16,9 @@ This is understanding Becoming as a metabolism of Being. This same Heraclitean b
 
 Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
 
----
+- Before March 13
 
-\*\* ENDING MARCH 13, 2022
-
----
-
-Over the years, I have written many texts that outline an "Anarchism of the Other Person", an anarchafeminism read through the writings of Emmanuel Levinas and Petr Kropotkin. This task has long seemed urgent to me because it contrasts (but perhaps also complements) with contemporary anarchist writings informed by Nietzsche, Deleuze, Nietzschean, Stirner, Heidegger, etc. That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
+  Over the years, I have written many texts that outline an "Anarchism of the Other Person", an anarchafeminism read through the writings of Emmanuel Levinas and Petr Kropotkin. This task has long seemed urgent to me because it contrasts (but perhaps also complements) with contemporary anarchist writings informed by Nietzsche, Deleuze, Nietzschean, Stirner, Heidegger, etc. That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
 
 In this work I will explore several avenue to check upon the possibilities for discussing the work of Emmaneul Levinas as a philosopher of anarchism of the other person.
 
