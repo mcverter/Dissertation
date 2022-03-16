@@ -62,7 +62,7 @@ Levinas describes the dynamic pulsation of the moment “a becoming . . . radica
 1. What is ethics? What is the study of ethics?
 
    1. I don't know this. Learn this language!
-   2. Normative? Perscriptive? Descriptive? Deontological?
+   2. Normative? Perscriptive? Descriptive? Deontological? utiltarian?
    3. What we do, how we behave.
    4. Aristotle and virtue ethics.
 
@@ -104,16 +104,29 @@ PREVIOUS DRAFT
 
 ===================
 
-##
+## Levinas and ethics
 
-6.  Levinas and ethics
+1. The Will in Levinas
+   - I have written about this ages ago
+   - The will is not heroic.
+   - Whatever I will is taken over by others
+   - The beginning of the act is not the same as the end
+   - Is this something or other final cause Aristotle?
 
-We will begin with a discussion of what is constituted by ethics for levinas.
+## Levinas's ethics
 
-A) What is ethics for Levinas?
-Theories of Ethics are divided into a lot of different terms. For example, "normative" and "perscriptive" or "descriptive". Levinas as none of these but as a way in which our everyday lvies are shaped.
-
-In order to understand this we must understand the sources of Levinas's project. From Husserl the understanding of the world as relating back to the subject's perception of the world. First Heidegger when he defines fundmanetal ontology as the way that one is not a passive member of the past or the passive present but takes on the heritage of the past as one's own (eigenlichtkeit) and understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together with being at large.
+1.  Roots in phenomenology
+    1.  The way that our everyday lives are constituted in and through to the other in our every orientation and every action
+    2.  From Husserl the understanding of the world as relating back to the subject's perception of the world.
+    3.  Question of how we relate to the world and to other persons from our station in consciousness
+2.  Ontology
+    1.  Not just a matter of our separate station of being a subject but that our existence as individuals is an aspect of the way that Being itself is expressed.
+    1.  Space: Human being is the place where being is expressed. THe "Da" of being. The place wehre being occurs
+    1.  Time: Temporality is essential for understanding the way that being is expressed within the space of human existing.
+    1.  One is not a passive member of the passive present. Instead, within the moment (augenblick) takes on the heritage that one has inherited from the past and projects it towards the future. The future is what pushes forward the dynamic. Realizing the inevitablity of one's death, the possiblity of one's impossibility, one recognizes the possiblities that exists areound oneself.
+    1.  In Being and Time, Heidegger advocates that one should "authentic" make things my own but takes on the heritage of the past as one's own (eigenlichtkeit) and understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together
+        with being at large.
+        later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
 
 Fundamental questions of temporality: in what way am I the same person over time? In what way does time connect unto itself? Locke quotation from the essays #### also Dmitri's paper let's hope. Time consciousnes sand how the each moment leads into the other.
 
