@@ -27,6 +27,8 @@ However, the thinking of Nietzsche and his inheritors derive ultimately the thin
 
 Buddhadāsa Bhikkhu claims that, “The Buddha mentioned that there was a religious teacher at that time named Araka who taught about impermanence as much as the Buddha did, but went no further and said nothing about dukkham (suffering) and anattā (non##selfhood). . . . The Blessed One probably meant Heraclitus.”18
 
+That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
+
 - ### Dukkha
 
   Prajna (wisdom) has a liberatory aspect. Knowledge of suffering means knowledge of the four noble truths of Buddhism that grimly notes that all existence is suffering but that there is also a path that leads from suffering.
@@ -53,8 +55,48 @@ Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming 
 
 ## Levinas / Heraclitus
 
-Levinas describes the dynamic pulsation of the moment “a becoming . . . radically opposed to the idea of being . . . the resistance to every integration expressed by the image of the river in which, according to Heraclitus one does not bathe twice,
-and according to Cratylus, not even once” (60).3 Domination of Becoming by Being is thwarted by the epiphany of the exterior other as well as the dynamic beyond being of the psyche’s interior becoming.
+Levinas describes the dynamic pulsation of the moment “a becoming . . . radically opposed to the idea of being . . . the resistance to every integration expressed by the image of the river in which, according to Heraclitus one does not bathe twice, and according to Cratylus, not even once” (60).3 Domination of Becoming by Being is thwarted by the epiphany of the exterior other as well as the dynamic beyond being of the psyche’s interior becoming.
+
+## Ethics
+
+1. What is ethics? What is the study of ethics?
+
+   1. I don't know this. Learn this language!
+   2. Normative? Perscriptive? Descriptive? Deontological?
+   3. What we do, how we behave.
+   4. Aristotle and virtue ethics.
+
+2. Anarchism and Ethics
+   1. Anarchism has always been self-consciously ethical
+   2. Godwin?
+   3. Read Kropotkin's Ethics.
+   4. Graeber?
+   5. Let's hope Graeber or someone else defines the idea of ethics
+3. Ethics and the will
+   1. One of the central question of the moral philosophy is that of the will
+   2. Ethos, habitus, what you do and how you behave, what you practice
+   3. how do you control the will to do the correct thing, whatever that right goal is
+4. Nietzsche: will disproves moralism
+
+   1. Everyone's actios is ultimately driven by a will to power.
+   2. Nietzsche distinguies two modes in which the will to power is expressed
+   3. Good and bad:
+      - Ethics of the strong is in alignment with their will to power.
+      - They practice a Stoical virtue ethiccs ad enjoy things that make them stronger and respect strength in others.
+      - Recognition of the power of the other and respect for the strenght in the other
+      - THe strong follow virtue ethics of strength
+   4. Good and evil.
+      - THe Moralism of the weak is an expression of the will to power from the perspective of ressentiment.
+      - It is a power that detests the expression of the strong and power.
+      - It is contradictory. A will to power that hates the poewr of the powerful
+   5. Deleuze interprets this as "active" versus "reactive"
+
+5. Will to power disrupts the subject
+   1. Properly speaking, the will to power is not even my own will per se
+   2. It is something that is moving through me.
+   3. Drives that are driving us. Desires that are pushing us. The will to power is not even my own wlll but instead is something moving through me.
+   4. The idea of the "self" is a epiphenomenal. The idea of the subject is an illusion created by the forces that flow through us, giving the illusion of som internal consistency of a subtance that subtends those various
+   5. This is very much at the root of antihumanism and the turn against subjectivity from Deleuze and Foucault (subject is produced by powers/desires)
 
 ===================
 
@@ -62,9 +104,9 @@ PREVIOUS DRAFT
 
 ===================
 
-Over the years, I have written many texts that outline an "Anarchism of the Other Person", an anarchafeminism read through the writings of Emmanuel Levinas and Petr Kropotkin. This task has long seemed urgent to me because it contrasts (but perhaps also complements) with contemporary anarchist writings informed by Nietzsche, Deleuze, Nietzschean, Stirner, Heidegger, etc. That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
+##
 
-In this work I will explore several avenue to check upon the possibilities for discussing the work of Emmaneul Levinas as a philosopher of anarchism of the other person.
+6.  Levinas and ethics
 
 We will begin with a discussion of what is constituted by ethics for levinas.
 
