@@ -4,42 +4,175 @@
 
 ## Thesis statement
 
-**Anarchism of the Other Person** will be a rethinking of anarchism through the writings of ethical phenomenologist Emmanuel Levinas. Its goals will be twofold: (1) to extend the ethical genealogy of anarchism by reading it through Levinas; (2) to demonstrate 'pataphysical readings of Levinas as an anarchist.
+**Anarchism of the Other Person** will be a rethinking of anarchism through the ethics of Emmanuel Levinas. Its goals will be twofold: (1) to extend the ethical genealogy of anarchism by reading it through Levinas; (2) to demonstrate readings of Levinas as an anarchist.
 
 ## Discursive context
 
-Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricardo Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we dive as well into the streams of writers such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, and Klee Benally, Alexis Pauline Gumbs, Loree Erickson, and Sunsara Taylor.
+Given that anarchism is continuously being reborn unto a multiplicity of genealogies, it is useful to identify that this investigation considers itself to be in the lineage of ethical anarchocommunism, drawing deeply from ancestors such as Petr Kropotkin, whose pamphlets inspired Russian revolutionaries to overthrow Czar Nicolas II, and Ricardo Flores Magon, whose journalism inspired Mexican revolutionaries to overthrow dictator Porfirio Diaz. However, even the perspectives of these two teachers will be further perverted, inverted, subverted, and reverted as we dive as well into the streams of writers such as bell hooks, Lucy Parsons, Lynne Farrow, William C. Anderson, Sam Mbah, Lorenzo Kom'boa Ervin, Kim Tall Bear, Aragorn!, ZigZag, Klee Benally, Alexis Pauline Gumbs, Loree Erickson, and Sunsara Taylor.
 
-## Levinas / Nietzsche
+## Levinas / Nietzsche 
 
-The task of developing such an ethical anarchism of the other person seems especially important for the way that it counterposes obligation against voluntarism, the perspective of the will articulated by Nietszche against the perspectives of other familiar and unfamiliar persons explored by Levinas
-Nietzsche's critique of moralism has been broadly influential along the history of anarchism #### through his own writings, in union with precursors such as Max Stirner, and in heirs such as Martin Heidegger and Gilles Deleuze #### in foundational anarchocommunist thinkers such as Emma Goldman and Ricardo Flores Magon and contemporary ones such as John Zerzan and Hakim Bey.
+   1. Thesis
+      1. The task of developing such an ethical anarchism of the other person seems especially important for the way that it requires us to consider the relationship between the voluntary and the obligatory. 
 
-## Anarchism as smashing idols (Abolitionism?)
+   2. Perspectivism
+      1. obligation against voluntarism, 
+      2. Nietzsche: the perspective of the will 
+      3. Levinas: perspectives of other persons, familiar and unfamiliar
+   
+   3.  The Will, Scopenhauer and Buddhism
+       1. Schopenhauer's conception of the Will: World as Will and Representation.  
+       2. What is the Will for Schopenhauer?
 
-Both Nietzsche and Levinas are useful for smashing the idols of domination, with Levinas weilding Niezsche's hammer like a Macabee.
+   4.  What is Representation
+         1.  How does the idea of representation relate to Kant?
+         2.  "View from nowhere" of dispassionate spectator 
+         3.  Cartesianism cogito as subject that grounds experience?
+         4.  How does the perspective of the Will threaten it?
 
-## Heraclitus (Polemos)
+   6.  Nietsche and Anarchism
+       1.  Nietzsche's critique of moralism has been broadly influential along the history of anarchism
+       2. through his own writings
+       3. in union with precursors such as Max Stirner, 
+       4. and in heirs such as Martin Heidegger and Gilles Deleuze 
+       5. in foundational anarchocommunist thinkers such as 
+           1. Emma Goldman and Ricardo Flores Magon (Nietzsche) 
+           2. and contemporary ones such as John Zerzan (Heidegger)  
+           3.  Hakim Bey -- Ontological Anarchism (Deleuze)
 
-However, the thinking of Nietzsche and his inheritors derive ultimately the thinkers who such thought derives ultimately from Heraclitus, who argued that struggle (_polemos_) was the root of all things. Being itself is understood as a contest of wills, from the atomic level of mechanistic thinking to the species level of "survival of the fittest" to a political level saturated with domination by powers and micropowers.
+   5.  Ontological Anarchism  
+       1.  Why is this even a thing?
+       2.  Ontology in Deleuze and Heidegger 
+       3.  Univocity of being. -- Duns Scotus  
+       4.  Spinoza
+   
+   6. Iconoclasm, Heresy 
+       1. Anarchism as smashing idols (Abolitionism?)
+       2.  Both Nietzsche and Levinas are useful for smashing the idols of domination, 
+       3.  with Levinas weilding Niezsche's hammer like a Macabee.
+   
+   7. Heraclitus (Polemos)
+       1. However, the thinking of Nietzsche and his inheritors derive ultimately , who argued that struggle (_polemos_) was the root of all things. 
+       2.  Being itself is understood as a contest of wills -- 
+       3. metaphysical, 
+       4. Nietzsche's version of Schopenhauer's version of Buddhism 
+       5. from the atomic level of mechanistic thinking 
+       6. to the species level of "survival of the fittest" 
+       7. to a political level saturated with domination by hegemonic powers and micropowers.
 
-## Heraclitus lacks Buddhist ethics (sila)
+   9.  Buddhism
+        1.  Will 
+            1. Schopenhauer's conception of the world as will is somehow derived from his conception of Buddhism 
+            2.  Maya / Nothingness.  What is his conception of Buddhism? 
+         2.  Heraclitus lacks Buddhist wisdom (prajna) and ethics (sila)
+             1. Buddhadāsa Bhikkhu claims that, “The Buddha mentioned that there was a religious teacher at that time named Araka who taught about impermanence as much as the Buddha did, but went no further and said nothing about dukkham (suffering) and anattā (non##selfhood). . . . The Blessed One probably meant Heraclitus
+             2. Soteriological function of wisdom.  
+                 1. A transformational knowledge.  
+                 2. not just knowing-about
+                 3. Salvific, Liberatory
+         3. Dukkha
+            1. Prajna (wisdom) has a liberatory aspect. 
+            2. Knowledge of suffering means knowledge of the four noble truths of Buddhism
+            3. [1] All existence is suffering 
+            4. [4] there is also a path that leads from suffering.
+         4. __Anatman__
+            1. __Atman__ in Yogacara, Upanishads, Bhavadgita
+                1. __Atman__ = __Brahman__. 
+                2. My self is the world self. 
+                3. New Age yoga types try to interpret this benevolently as the deep spiritual interconnection of all Being
+                4. This is the foundation of a lot of twisted fascist garbage. 
+                5. It is the fantasy of authority. 
+                6.  Foundation of the caste system too. 
+                7. Foundation of Guru culture. 
+                8. Yoga culture is spiritual essence of neoliberal capitalism.  
+                9. "self-realization" is dumb.  no wonder they all go qanon.
+                10.  This is not corruption by Western culture, etc. It's already in the texts
+                10.  Hinduvata in India is horrible.
+            2.  Nihilism version is the same thing 
+                1.  The negative version, affirming the nothingness instead of the fullness is the same thing
+                2.  This is also fascist garbage
+                3.  Isis, Tiqqun, maybe talk about anarchist nihilism.  
+                4.  Write about Aragorn! anarchist nihilism
+                5.  Does this start with Schopenhauer?
+            
+            3. Anatman in Buddhism
+                1. Buddhism as a protest against the culture of atman
+                2.  Maybe bring in something about __Shakyamuni__ being a prince and refusing his authority
+                3.  non-selfhood (__annata__) is foundational  
+            4.  __Nagarjuna__ / __Madhayamika__ 
+                1.  __Nagarjuna__'s __karikas__.
+                2.  Uses a __quatralemma__ to undermine the idea of __svabhva__ (self-identity) with that of __sunnata__ (emptiness)
+       5. Boddhisatva Anarchism
+           1. Not merely to liberate oneself but to become a Boddhisatva dedicated to liberating others from suffering, and to declare:
+           2. "Sentient beings are numberless, I vow to save them."
 
-Buddhadāsa Bhikkhu claims that, “The Buddha mentioned that there was a religious teacher at that time named Araka who taught about impermanence as much as the Buddha did, but went no further and said nothing about dukkham (suffering) and anattā (non##selfhood). . . . The Blessed One probably meant Heraclitus.”18
 
-That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
 
-- ### Dukkha
 
-  Prajna (wisdom) has a liberatory aspect. Knowledge of suffering means knowledge of the four noble truths of Buddhism that grimly notes that all existence is suffering but that there is also a path that leads from suffering.
 
-- ### Anatman
 
-  Atman doctrine in Upanishads. Atman = Brahman. My self is the world self. This is the foundation of a lot of twisted fascist garbage. It is the fantasy of authority. Same with the Bhadvagita. Foundation of the caste system too. Buddhism's great innovation is to insist upon non##selfhood (annata). This was expaded by Nagarjuna's usage of a quatralemma to undermine the idea of svabhva (self##identity) with that of sunnata (emptyiness)
 
-- ### Boddhisatva Anarchism
-
-  Not merely to liberate oneself but to become a Boddhisatva dedicated to liberating others from suffering, and to declare: "Sentient beings are numberless, I vow to save them."
+       6.  Heraclitus / Levinas 
+             1. Levinas has a theory of __becoming__: under the guise of "otherwise than being"  (masks/Neitzsche:  Levinas's characters.  Who is this sentence pretending to be?)
+             2. articulated in his later work in the language of structuralism as "synchrony/diachrony" 
+             3.  Snapshot vs. change over time
+             4. Levinas describes the dynamic pulsation of the moment
+             5.  “a becoming . . . radically opposed to the idea of being . . . the resistance to every integration expressed by the image of the river in which, according to Heraclitus one does not bathe twice, and according to Cratylus, not even once” (60)
+             6. Domination of Becoming by Being is thwarted by the epiphany of the exterior other as well as the dynamic beyond being of the psyche’s interior becoming.
+             7. That is, anarchism is compelled by our continuous ethical orientation to other persons (even the other person who I am to myself over time), not by a Heraclitean flux of interpenetrating forces.
+        1. Levinas / Buddhism on Becoming 
+            1. Nagarguna
+               1. Patticasammupada.  Dependent co origination.  
+               2. Arising and Falling of phenomenona 
+               3. Nagarjuna as discriminating. 
+               4. First acknowledges the Abhidhamma dialectic.
+               5. Then he destroys then he destroys them.  
+            2. Levinas:
+                1. Diachrony / Synchrony
+                2. Time as continuous creation
+                3. I is an other
+                4. Rupture of present by the future (Totality and Infinity).  
+                5. Rupture already in the present (Otherwise than Being)
+                4. The question of self-identity through time.
+            3. Being of Becoming
+                1. The question of the Being of Becoming 
+                2. how do moments flow from one to the other? 
+                3. Is there an eternal substance beneath all everything and things that change are merely accidents of this time, a fourth dimenstional spacetime continuum a fourth dimensional prism? 
+                4. Is time like Becoming, like a river in Heraclitus. 
+                5. Levinas has a lot of strange discussions about river / water .  What do those metaphors mean?  
+                6. Our foundational ideas about Becoming of time. 
+                7. Everything flows. Everything is in flux.
+                8. Panta Rhei. 
+                9. Levinas contrasts his idea of time from between the Cratylus and the Heraclitus, where one can not even place ones foot in the same river once?
+            3. Locke: self-persistence
+                1. In Locke's Essays. persistence of self through time.  
+                2. Locke influential in France?
+                3. Fundamental questions of temporality: 
+                4. in what way am I the same person over time?
+                5. In what way does time connect unto itself
+                6. Locke quotation from the essays 
+                7. let's hope i still have the paper from Double Nickles' class.
+                8. Time consciousnes and how the each moment leads into the other.
+            5. Presence of the present
+               1. Illusory present? (Schopenhauer: __Maya__)
+               2. Urgent present? (Heidegger: Authentic commitment of heritage towards the future in the moement of vision)  
+       8. "Curvature" of space
+          1. Space is disruptive of Time
+          2. Heidegger
+              1. For Heidegger, dynamic of power is more authentic than the mathematical analytic of Kantianism, the spatialization of Descartes.  
+              3.  Heidegger temporalizes space to counter mathematical kantian jewish reduction to mathematical static analysis
+          3. Spatial dimenstional Orientation  
+             1. orientation towards the other person.  
+             2. situatedness.
+             3. Andrea Cavalli
+             4. Ethics is an optics.
+          4. Quotation  
+             1. The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work.  (TI 215)
+       9. Time and the Other 
+          1. What is it for Levinas htat is so disruptive of time and time consciousness, of our self identity , of existence itself that is so disruptive to temporality of becoming is our relationships with other people.
+       10. Totality and Infinity
+            1. Quote  
+               1. Throughout Totality and Infinity, Levinas explicitly declares the perspectival nature of his philosophy. He remarks in the preface “ethics is an optics”71 and later elaborates, "The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work."72  The ethical relationship begins from the separated stance of the subject, oriented by its body73, looking at something that is a someone who distorts that vision.  From my perspective of interiority, the other person’s stance appears as an exteriority. Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.76 According to his theory of general relativity, it is the massiveness of matter leaving a weighty imprint within the fabric of spacetime that produces this curvature.
 
 ## Hobbes
 
@@ -53,9 +186,7 @@ Hobbes understands the Becoming of Being as a metabolism. This is understanding 
 
 Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
 
-## Levinas / Heraclitus
 
-Levinas describes the dynamic pulsation of the moment “a becoming . . . radically opposed to the idea of being . . . the resistance to every integration expressed by the image of the river in which, according to Heraclitus one does not bathe twice, and according to Cratylus, not even once” (60).3 Domination of Becoming by Being is thwarted by the epiphany of the exterior other as well as the dynamic beyond being of the psyche’s interior becoming.
 
 ## Ethics
 
@@ -128,11 +259,7 @@ PREVIOUS DRAFT
         with being at large.
         later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
 
-Fundamental questions of temporality: in what way am I the same person over time? In what way does time connect unto itself? Locke quotation from the essays #### also Dmitri's paper let's hope. Time consciousnes sand how the each moment leads into the other.
 
-The question of the Being of Becoming #### how do moments flow from one to the other? Is there an eternal substance beneath all everything and things that change are merely accidents of this time, a fourth dimenstional spacetime continuum a fourth dimensional prism? Is time like Becoming, like a river in Heraclitus. Our foundational ideas about Becoming of time. Everything flows. Everything is in flux. Panta Rhei. Levinas contrasts his idea of time from between the Cratylus and the Heraclitus, where one can not even place ones foot in the same river once?
-
-What is it for Levinas htat is so disruptive of time and time consciousness, of our self identity , of existence itself that is so disruptive to temporality of becoming is our relationships with other people.
 
 It is this "curvature of spacetime", the perspective in which one is related to other people, that is what Levinas means by ethics.
 
@@ -156,6 +283,7 @@ In this way, Levinas carries on with an idea that is in Hegel of separating mome
 
 That our everyday existence is already informed by our relationships with other persons is fundamentatl to understanding the fundamentally anarchistic mode of our everyday existence. that we are already responsible to the other person and that the other person can surprise us with an unanticipated response. We never have everything at our control. At best we are projecting or inspecting or we ahve a certain snapshot, a certain idea of a person but that person inhabits it with their own particular gravity. That person is a woman but she occupies that place of her womanhood in her own particular manner #### she dresses in her own particular way, different levels of emotional and mental and spirtiual engagement, relationship with her own bodilty capablities like that of becoming a mother and so on. And beyond this they are a past that we can never fully know and a future that surprises us. that even if we can predict the ultimate outcome in a perfect skinner box of determinism, that the way that the other person reaches that terminus, the path is unpredictable to us.
 
+our reading is `pataphysical, heretical, etc. use translation of heretics from federici
 The problem of the pataphysical. The study of exceptions. In that every person throught erheir exisence is already an exception to the general rule, a new data point that must be incorporated to make the metric. Every other is an excpetion too
 
 not "interconnected" by the intermediary sphere. we are connected through by linksages and within a globe. how do we analysie those? What is a medium? Medium is separation how are we linked and separated. It is this which is analszble. But we are nodes aupon this and looked more closely everything is a node
