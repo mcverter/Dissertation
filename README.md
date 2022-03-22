@@ -173,88 +173,124 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
        10. Totality and Infinity
             1. Quote  
                1. Throughout Totality and Infinity, Levinas explicitly declares the perspectival nature of his philosophy. He remarks in the preface “ethics is an optics”71 and later elaborates, "The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work."72  The ethical relationship begins from the separated stance of the subject, oriented by its body73, looking at something that is a someone who distorts that vision.  From my perspective of interiority, the other person’s stance appears as an exteriority. Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.76 According to his theory of general relativity, it is the massiveness of matter leaving a weighty imprint within the fabric of spacetime that produces this curvature.
+                Hobbes
+       11. Hobbes
+           1. The ontology of Heraclitus, that grounds the Being of Becoming in struggle, provides grounding for writers such as Thomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political. 
+           2. Violence is primordial not just in the authoritarianism of the state but in the web of linkages that constitutes the social, that reduces humanity as the vehicle for the drives that move us, 
+           3. Being as the dynamic collision of mechanical particles. 
+           4. Desires that express themselves through us. 
+           5. Voluntarism of Hobbes is not the individual subject but the will flowing through it.
+           6. Fear of death drives the will
+       12. Digestion vs Birth
+           1. Becoming of Being as metabolism 
+              1.  The mechanistic theory of Hobbes, who sees things as merely colliding with each other and driven by anonymous desires and other mechanical forces that flow through us
+           2. Becoming of Being as birthing
+              1. Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
+        
 
-## Hobbes
+10. Ethics 
+    1. What is ethics? What is the study of ethics?
+       1. I don't know this. Learn this language!
+       2. Normative? Perscriptive? Descriptive? Deontological? utiltarian?
+       3. What we do, how we behave.
+       4. Aristotle and virtue ethics.
+    2. Anarchism and Ethics
+       1. Anarchism has always been self-consciously ethical
+       2. Godwin?
+       3. Read Kropotkin's Ethics.
+       4. Graeber?
+       5. Let's hope Graeber or someone else defines the idea of ethics
+    3. Ethics and the will
+       1. One of the central question of the moral philosophy is that of the will
+       2. Ethos, habitus, what you do and how you behave, what you practice
+       3. how do you control the will to do the correct thing, whatever that right goal is
+    4. Nietzsche: will disproves moralism
+       1. Everyone's actios is ultimately driven by a will to power.
+       2. Nietzsche distinguies two modes in which the will to power is expressed
+          1. Good and bad:
+             1. Ethics of the strong is in alignment with their will to power.
+             2. They practice a Stoical virtue ethics of strength and enjoy things that make them stronger and respect strength in others.
+             3. Grounded in narcissism.  Strength recognizes other for his similiarity, his strength.
+             4. Recognition of the power of the other nobles and respect for the strenght in the other
+             5. Contempt or blissful ignorance of the weakness of the weak
+          4. Good and evil.
+             1. THe Moralism of the weak is an expression of the will to power from the perspective of ressentiment.
+             2. It is a power that detests the expression of the strong and powerful.
+             3. It is contradictory. A will to power that hates the power of the powerful
+       5. Deleuze 
+          1. interprets this as "active" versus "reactive"
+          2. Interprets WTP as machinic desires
+          3. Anti subjectivity
+             1. Will to power disrupts the subject
+             2. Properly speaking, the will to power is not even my own will per se
+             3. It is something that is moving through me.
+             4. Drives that are driving us. Desires that are pushing us. The will to power is not even my own wlll but instead is something moving through me.
+             5. The idea of the "self" is a epiphenomenal. The idea of the subject is an illusion created by the forces that flow through us, giving the illusion of som internal consistency of a subtance that subtends those various
+             6. This is very much at the root of antihumanism and the turn against subjectivity from Deleuze and Foucault (subject is produced by powers/desires)
+        4. Levinas on the will
+            1. The Will in Levinas
+            2. I have written about this ages ago
+            3. The will is not heroic.
+            4. Whatever I will is taken over by others
+            5. The beginning of the act is not the same as the end
+            6. Is this something or other final cause Aristotle?
+            7. Being-towards-the-end is never my end but always restarted by the other person -- even myself as an other person within my existence as temporal being.
+            8.  Will is related to the end as murder and theft, works and wastes, liabble to be assumed by others
+            Unless, that is, the naivety of the philosopher not call, beyond the reflection on oneself, for the critique exer-
+cised by another philosopher ... empirically it is realized as the history of philosophy in which new inter-
+locutors always enter who have to restate, but in which the former ones take up the floor to answer in the
+interpretations they arouse. (Levinas, Otherwise..., op. cit., p. 20).
+.
+11. Levinas's ethics
+    1.  Background
+        1. Dialogue with philsophical dialogues spanning the history of thinkers throughout time and space
+           1. Relation to past inheritance of thought.
+           2. Often a parody or a mutation of their terminology.  __il y a__ for __es gibt__, etc. 
+           3. Community of Philosophers OTB. 
 
-The ontology of Heraclitus, that grounds the Being of Becoming in struggle, provides grounding for writers such as Thomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political. Violence is primordial not just in the authoritarianism of the state but in the web of linkages that constitutes the social, that reduces humanity as the vehicle for the drives that move us, that conceives of Being as the dynamic collision of mechanical particles. Voluntarism of Hobbes is not the individual subject but the power flowing through us.
+        1. Presocratics / Plato
+           1. Not sure what to say here.  
+           2. Plato -- something really obscure.  
+           3. Plotinus, I think.  "parracide"
+           4. Find out what weirdo metaphysical Platonic dialogue Levinas refers to "plato distinguised a genus outside of Being.  
+        2. Descartes/Kant
+            1. Problematic of the subject
+            2. Things are referred back to subjective POV or absolute POV (transcendental consciousness)
+            3. Problem of self-identity over time
+        2. Hegel
+            1. "Totality and Infinity".  
+               1. Totality is clearly a reference to Hegel.
+               2. Levinas is in constant dialogue
 
-## Becoming of Being as metabolism
-
-Hobbes understands the Becoming of Being as a metabolism. This is understanding Becoming as a metabolism of Being. The mechanistic theory of Hobbes, who sees things as merely colliding with each other and driven by anonymous desires and other mechanical forces that flow through us
-
-# Becoming of Being as birthing
-
-Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
-
-
-
-## Ethics
-
-1. What is ethics? What is the study of ethics?
-
-   1. I don't know this. Learn this language!
-   2. Normative? Perscriptive? Descriptive? Deontological? utiltarian?
-   3. What we do, how we behave.
-   4. Aristotle and virtue ethics.
-
-2. Anarchism and Ethics
-   1. Anarchism has always been self-consciously ethical
-   2. Godwin?
-   3. Read Kropotkin's Ethics.
-   4. Graeber?
-   5. Let's hope Graeber or someone else defines the idea of ethics
-3. Ethics and the will
-   1. One of the central question of the moral philosophy is that of the will
-   2. Ethos, habitus, what you do and how you behave, what you practice
-   3. how do you control the will to do the correct thing, whatever that right goal is
-4. Nietzsche: will disproves moralism
-
-   1. Everyone's actios is ultimately driven by a will to power.
-   2. Nietzsche distinguies two modes in which the will to power is expressed
-   3. Good and bad:
-      - Ethics of the strong is in alignment with their will to power.
-      - They practice a Stoical virtue ethiccs ad enjoy things that make them stronger and respect strength in others.
-      - Recognition of the power of the other and respect for the strenght in the other
-      - THe strong follow virtue ethics of strength
-   4. Good and evil.
-      - THe Moralism of the weak is an expression of the will to power from the perspective of ressentiment.
-      - It is a power that detests the expression of the strong and power.
-      - It is contradictory. A will to power that hates the poewr of the powerful
-   5. Deleuze interprets this as "active" versus "reactive"
-
-5. Will to power disrupts the subject
-   1. Properly speaking, the will to power is not even my own will per se
-   2. It is something that is moving through me.
-   3. Drives that are driving us. Desires that are pushing us. The will to power is not even my own wlll but instead is something moving through me.
-   4. The idea of the "self" is a epiphenomenal. The idea of the subject is an illusion created by the forces that flow through us, giving the illusion of som internal consistency of a subtance that subtends those various
-   5. This is very much at the root of antihumanism and the turn against subjectivity from Deleuze and Foucault (subject is produced by powers/desires)
-
-===================
-
-PREVIOUS DRAFT
-
-===================
-
-## Levinas and ethics
-
-1. The Will in Levinas
-   - I have written about this ages ago
-   - The will is not heroic.
-   - Whatever I will is taken over by others
-   - The beginning of the act is not the same as the end
-   - Is this something or other final cause Aristotle?
-
-## Levinas's ethics
-
-1.  Roots in phenomenology
-    1.  The way that our everyday lives are constituted in and through to the other in our every orientation and every action
-    2.  From Husserl the understanding of the world as relating back to the subject's perception of the world.
-    3.  Question of how we relate to the world and to other persons from our station in consciousness
-2.  Ontology
-    1.  Not just a matter of our separate station of being a subject but that our existence as individuals is an aspect of the way that Being itself is expressed.
-    1.  Space: Human being is the place where being is expressed. THe "Da" of being. The place wehre being occurs
-    1.  Time: Temporality is essential for understanding the way that being is expressed within the space of human existing.
-    1.  One is not a passive member of the passive present. Instead, within the moment (augenblick) takes on the heritage that one has inherited from the past and projects it towards the future. The future is what pushes forward the dynamic. Realizing the inevitablity of one's death, the possiblity of one's impossibility, one recognizes the possiblities that exists areound oneself.
+               3. Counterposes the "infinity" of the other person with the "totality" of systematic thinking 
+               4.  But the conjunction is "and", 
+               5. Not "against". This already suggests both touching and mutual support and as well as conflict.  Already in relation
+               6.  Anyways it isn't a polemical struggle.  We are talking "And" here, people.
+               7. As Derrida points out "Levinas is very close to Hegel when he claims to be very far away from him".  
+               8. "Strategy of Opposition" doesn't work with GWFH.  Grows from opposition.
+        1. Rethinking dualism -- amphibology of being                 
+               1.  Like Hegel, Levinas has a complex idea of the relations between polarity.
+               2. Grab this stuff from my paper
+               3. The motion of the dialectic is what is problematic.  The moment is absorbed and destroyed and negated and sustained (Aufheben)
+               4. The two poles strive towards mutual destruction.  
+               5. Hobbesian struggle unto death.
+               6. Twofold problem: nature of opposition and nature of resolution
+               7. Levinas has an "amphibology of being.  Take quotes form old papers on this.
+        2. Conceives as analytically divisible moments
+            1. technique is very similar
+            2. Decomposing a singular event into the moments that compose it. 
+            3. Narrative of TI is the generatoin of generations
+            4. Each moment is described as afamilial role.  Hebrew patriarchal family. 
+        3. Husserl  -- phenomenology
+            1. Roots in phenomenology
+            2.  The way that our everyday lives are constituted in and through to the other in our every orientation and every action
+            3.  From Husserl the understanding of the world as relating back to the subject's perception of the world.
+            4.  Question of how we relate to the world and to other persons from our station in consciousness
+        7.  Ontology
+            1.  Not just a matter of our separate station of being a subject but that our existence as individuals is an aspect of the way that Being itself is expressed.
+            2.  Space: Human being is the place where being is expressed. THe "Da" of being. The place wehre being occurs
+            3.  Time: Temporality is essential for understanding the way that being is expressed within the space of human existing.
+            4.  One is not a passive member of the passive present. Instead, within the moment (augenblick) takes on the heritage that one has inherited from the past and projects it towards the future. The future is what pushes forward the dynamic. Realizing the inevitablity of one's death, the possiblity of one's impossibility, one recognizes the possiblities that exists areound oneself.
     1.  In Being and Time, Heidegger advocates that one should "authentic" make things my own but takes on the heritage of the past as one's own (eigenlichtkeit) and understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together
         with being at large.
         later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
