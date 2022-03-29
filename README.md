@@ -157,7 +157,8 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
                1. Illusory present? (Schopenhauer: __Maya__)
                2. Urgent present? (Heidegger: Authentic commitment of heritage towards the future in the moement of vision)  
        8. "Curvature" of space
-          1. Space is disruptive of Time
+          1. It is this "curvature of spacetime", the perspective in which one is related to other people, that is what Levinas means by ethics.
+          2. Space is disruptive of Time
           2. Heidegger
               1. For Heidegger, dynamic of power is more authentic than the mathematical analytic of Kantianism, the spatialization of Descartes.  
               3.  Heidegger temporalizes space to counter mathematical kantian jewish reduction to mathematical static analysis
@@ -168,6 +169,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
              4. Ethics is an optics.
           4. Quotation  
              1. The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work.  (TI 215)
+          1. Solidarity is thus not just a thing that we should strive for but something that already exists. We are already bound to other people. We just need to recognize this indebtedness and to make it manifest. Here I say "indebtedness" rathat than "interconnectedness" because of lateral view. Not something that can be overlayed with by a graph and that we can calculate the most efficiet way to do it. Well actually no it is. Logistics is the way we do it. But also we expereince it as a personal realtionship. Not just that "debt exists in the marketplace" but that I myself am in debt to somebody else and need to pay
        9. Time and the Other 
           1. What is it for Levinas htat is so disruptive of time and time consciousness, of our self identity , of existence itself that is so disruptive to temporality of becoming is our relationships with other people.
        10. Totality and Infinity
@@ -181,9 +183,20 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
            4. Desires that express themselves through us. 
            5. Voluntarism of Hobbes is not the individual subject but the will flowing through it.
            6. Fear of death drives the will
+           7.  Inhumanism
        12. Digestion vs Birth
            1. Becoming of Being as metabolism 
               1.  The mechanistic theory of Hobbes, who sees things as merely colliding with each other and driven by anonymous desires and other mechanical forces that flow through us
+            3. the mode that Levinas investigates this is through an understanding of a metabolism of Being. 
+            4. A process of consumption and production. 
+            5. This meetabolism of being is understood through the process of maturation as that which establishes the upwards growth of the subject. 
+            6. THe narrative of Totatlityh and Infinity describes the is that of the generation of gendered generations, a process taken from Descartes of the idea of continous creation as well as in the bible. 
+            7. Not a static uniliear time with uniform density flat surface but rather a varying inflected and bent surface which is punctuated by moments of gravity, each of which has a different start and an end, the moments are separated and distinct from each other, but perhaps only retrospectively. 
+            8. There is a certain pattern to the movement of life, similar to what Levinas refers to as the diastole and the systole of the heart. 
+            9. Each moment begins as a birth in a moment matures from childhood to married working adulthood and is death and then reborn. 
+            10. So let's try instead to argue this from the perspective of the Jewish patriarchy and that it is in many ways using biblical motifs or at least that it inheriets throughtout from a variety of inlets such as Hebraic scripture as well as the tradional Greek philosophy. 
+            11. So we can understand the as the first book of the bible genesis, the story of generation of generations.
+
            2. Becoming of Being as birthing
               1. Levinas, Kropotkin, and Sarah Hrdy can give us an understanding of the Becoming of Being not only in terms of metabolism but also as birthing, as the generation of generations, a continuous creation.
         
@@ -235,11 +248,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
             5. The beginning of the act is not the same as the end
             6. Is this something or other final cause Aristotle?
             7. Being-towards-the-end is never my end but always restarted by the other person -- even myself as an other person within my existence as temporal being.
-            8.  Will is related to the end as murder and theft, works and wastes, liabble to be assumed by others
-            Unless, that is, the naivety of the philosopher not call, beyond the reflection on oneself, for the critique exer-
-cised by another philosopher ... empirically it is realized as the history of philosophy in which new inter-
-locutors always enter who have to restate, but in which the former ones take up the floor to answer in the
-interpretations they arouse. (Levinas, Otherwise..., op. cit., p. 20).
+            8.  Will is related to the end as murder and theft, works and wastes, liabble to be assumed by others. Unless, that is, the naivety of the philosopher not call, beyond the reflection on oneself, for the critique exercised by another philosopher ... empirically it is realized as the history of philosophy in which new interlocutors always enter who have to restate, but in which the former ones take up the floor to answer in the interpretations they arouse. (Levinas, Otherwise..., op. cit., p. 20).
 .
 11. Levinas's ethics
     1.  Background
@@ -248,7 +257,8 @@ interpretations they arouse. (Levinas, Otherwise..., op. cit., p. 20).
            2. Often a parody or a mutation of their terminology.  __il y a__ for __es gibt__, etc. 
            3. Community of Philosophers OTB. 
 
-        1. Presocratics / Plato
+        1. Ethics is a phenomenological and ontological term for Levinas
+        2. Presocratics / Plato
            1. Not sure what to say here.  
            2. Plato -- something really obscure.  
            3. Plotinus, I think.  "parracide"
@@ -291,15 +301,15 @@ interpretations they arouse. (Levinas, Otherwise..., op. cit., p. 20).
             2.  Space: Human being is the place where being is expressed. THe "Da" of being. The place wehre being occurs
             3.  Time: Temporality is essential for understanding the way that being is expressed within the space of human existing.
             4.  One is not a passive member of the passive present. Instead, within the moment (augenblick) takes on the heritage that one has inherited from the past and projects it towards the future. The future is what pushes forward the dynamic. Realizing the inevitablity of one's death, the possiblity of one's impossibility, one recognizes the possiblities that exists areound oneself.
-    1.  In Being and Time, Heidegger advocates that one should "authentic" make things my own but takes on the heritage of the past as one's own (eigenlichtkeit) and understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together
-        with being at large.
-        later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
+        9.  Heidegger ontology: the value of the eigenvalue
+            1. Eigen: ownness In Being and Time, Heidegger advocates that one should "authentic" make things my own but takes on the heritage of the past as one's own (eigenlichtkeit)
+            2.  Mineness (jemeinkeit)
+            2. Sociality of Being.  Mitsein.  Understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together.  Mitsein.
+            3. Ereigenis (event): with being at large. later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
 
 
 
-It is this "curvature of spacetime", the perspective in which one is related to other people, that is what Levinas means by ethics.
 
-Ethics is a phenomenological and ontological term for Levinas
 
 ## Anarchy
 
@@ -362,9 +372,7 @@ But alongside this idea of "meal tub fellows". This is the root of our word "com
 How do we address our needs together in a way that is respectful to all. What are needs
 Kropotkin #### that we can meet our needs in the first place is the remarkable thing and that shows our fundamental indebtedness to one another. A debt that leads to our obligation to one another. THat we are bound together in solidarity.
 
-Solidarity is thus not just a thing that we should strive for but something that already exists. We are already bound to other people. We just need to recognize this indebtedness and to make it manifest. Here I say "indebtedness" rathat than "interconnectedness" because of lateral view. Not something that can be overlayed with by a graph and that we can calculate the most efficiet way to do it. Well actually no it is. Logistics is the way we do it. But also we expereince it as a personal realtionship. Not just that "debt exists in the marketplace" but that I myself am in debt to somebody else and need to pay
 
-the mode that Levinas investigates this is through an understanding of a metabolism of Being. A process of consumption and production. This meetabolism of being is understood through the process of maturation as that which establishes the upwards growth of the subject. THe narrative of Totatlityh and Infinity describes the is that of the generation of gendered generations, a process taken from Descartes of the idea of continous creation as well as in the bible. Not a static uniliear time with uniform density flat surface but rather a varying inflected and bent surface which is punctuated by moments of gravity, each of which has a different start and an end, the moments are separated and distinct from each other, but perhaps only retrospectively. There is a certain pattern to the movement of life, similar to what Levinas refers to as the diastole and the systole of the heart. Each moment begins as a birth in a moment matures from childhood to married working adulthood and is death and then reborn. So let's try instead to argue this from the perspective of the Jewish patriarchy and that it is in many ways using biblical motifs or at least that it inheriets throughtout from a variety of inlets such as Hebraic scripture as well as the tradional Greek philosophy. So we can understand the as the first book of the bible genesis, the story of generation of generations.
 
 Within this process of maturation, Levinas identifies two moments of consumption. The world emerges as a baby embedded in what he calls a milieu, where the world is already as if they are their own, in which the
 
