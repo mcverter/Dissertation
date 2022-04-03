@@ -289,6 +289,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
         2. Conceives as analytically divisible moments
             1. technique is very similar
             2. Decomposing a singular event into the moments that compose it. 
+            3. In this way, Levinas carries on with an idea that is in Hegel of separating moments of time into constitutents. A descriptive phenomonlogy of each moment of time.
             3. Narrative of TI is the generatoin of generations
             4. Each moment is described as afamilial role.  Hebrew patriarchal family. 
         3. Husserl  -- phenomenology
@@ -306,39 +307,73 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
             2.  Mineness (jemeinkeit)
             2. Sociality of Being.  Mitsein.  Understanding how the people are bound together that the existence of human being is fundamental to our being, that our existence is bound together.  Mitsein.
             3. Ereigenis (event): with being at large. later writings focus on how being itself is the site of ereigenis, the place where mine-making occurs
-
-
-
-
-
-## Anarchy
-
-What then does this have to do with anarchy?
-
-That things have no stable foundation. That nothig is permanent or abiding or absolute. The Absolute state is a sham as is the Absolute Deity. Domination comes from this belief in absolutes.
-
-To solve this problem of the abosoluteness of everything anarchists ahve recommended an approach instead of ontological anarchy. Realizign that everything is in flux and always changing. Max Cafard says. pull a quote here.
-
-But is this the only way that things break up? That they are always subject to chaos? And if so it is chaos? What is the disrupting element, the swerve (clinamen) that affects the movement of particules to give time a sense of randomness? The warping of gravity is that which is affected by the other.
-
-The modes of our world that in which we exist, that form the intermediary realm in and through which we wander, are shaped and warped and contorted and subverted, perverted, inverted, and reverted perspectives by the gravity of the other person within the spacetime continuum The discontinuity of one's own existence as the "I is an other" of Rimbaud always transforming. But also the structure of time, in that we inherit a whole bunch of stuff from other people through time. And also the structure of society, that at any tiem we relate to other people we ultimatley are in static set of social relations.
-
-Social relations are an important thing for Marxism and HEegeliansm . But how is Leivnas different? These social relation in many readings of Marx and Hegel would take theis to form what levinas calls a totality, a whole picture in which everything that can be captured by a snapshot that can be mapped out as a set of inner relations of the parts that constitute the whole. For Levinas a continual refusal to attempt that type of summary and encapsulation, to catpure the entrelyt in a lateral view. The other person comes at you in a certain orientation a veriety one is always standing in relation to others. For this reason the always disrupts this ttality . The total picture is just a snapshot that obscures the dynamic within the picture itself. THat these things are always broken apart and in fact never were a single thing to begin with.
-
-In this way, Levinas carries on with an idea that is in Hegel of separating moments of time into constitutents. A descriptive phenomonlogy of each moment of time. That each is disrupted by the other even before it can acheive self existence and that illustrating the inner structure of this relationship to singularity of the other person, the fact that the other person is an irreplaceableity of an individual and not merely an example of a certain type of person, and that within this dimesnion of our relationship with individuals is already the relatiosnhip with other persons #### that you have a smile on your face when i see you in the morning because the bodega clerk made coffee this morning.
-
-That our everyday existence is already informed by our relationships with other persons is fundamentatl to understanding the fundamentally anarchistic mode of our everyday existence. that we are already responsible to the other person and that the other person can surprise us with an unanticipated response. We never have everything at our control. At best we are projecting or inspecting or we ahve a certain snapshot, a certain idea of a person but that person inhabits it with their own particular gravity. That person is a woman but she occupies that place of her womanhood in her own particular manner #### she dresses in her own particular way, different levels of emotional and mental and spirtiual engagement, relationship with her own bodilty capablities like that of becoming a mother and so on. And beyond this they are a past that we can never fully know and a future that surprises us. that even if we can predict the ultimate outcome in a perfect skinner box of determinism, that the way that the other person reaches that terminus, the path is unpredictable to us.
-
-our reading is `pataphysical, heretical, etc. use translation of heretics from federici
-The problem of the pataphysical. The study of exceptions. In that every person throught erheir exisence is already an exception to the general rule, a new data point that must be incorporated to make the metric. Every other is an excpetion too
-
-not "interconnected" by the intermediary sphere. we are connected through by linksages and within a globe. how do we analysie those? What is a medium? Medium is separation how are we linked and separated. It is this which is analszble. But we are nodes aupon this and looked more closely everything is a node
-
+12. What about anarchy?
+    1. Anarchy = everything changes
+       1. Various ways of thinking about this
+          1. Heraclitus *panta rhei*
+          2. Buddhist *pattica sammupada* (dependant co-origination)
+           3. Deleuzian "becoming" (also Nietzsche; maybe Heidegger)  
+       2. That things have no stable foundation. That nothig is permanent or abiding or absolute.
+       3. The Absolute state is a sham as is the Absolute Deity.
+       4. Collapse of ontotheology,
+       5. Collapse of "heirarchy" heir=god, archy]rule 
+       6. Domination comes from this belief in absolutes.
+    2. Ontological Anarchy
+        1. To solve this problem of the abosoluteness of everything anarchists ahve recommended an approach instead of ontological anarchy. 
+        2. Realizign that everything is in flux and always changing. 
+        3. Hakim Bey
+        4. Max Cafard says. pull a quote here.
+    3.  Anarchy of the other person
+        1. What is it that prevents absolute domination.  
+        2. But is this the only way that things break up? That they are always subject to chaos? And if so it is chaos? 
+        3. What is the disrupting element, the swerve (clinamen) that affects the movement of particules to give time a sense of randomness? 
+        4. The warping of spacetime  by the gravitational weight (better word) inhabited by the other person  of gravity is that which is affected by the other.
+        5. The modes of our world that in which we exist, that form the intermediary realm in and through which we wander, are shaped and warped and contorted and subverted, perverted, inverted, and reverted perspectives by the gravity of the other person within the spacetime continuum.
+        6.  The discontinuity of one's own existence as the "I is an other" of Rimbaud always transforming. 
+        7. But also the structure of time, in that we inherit a whole bunch of stuff from other people through time. 
+        8. And also the structure of society, that at any tiem we relate to other people we ultimatley are in static set of social relations.
+    3. Anarchy of the social
+        1. Social relations 
+           1.  Social relations are an important thing for Marxism and HEegeliansm . 
+           2. But how is Leivnas different? 
+           3. Social relations, in most interpreations of Marx and Hegel, seem to form what Levinas would consider a a totality, a whole picture in which everything that can be captured by a snapshot that can be mapped out as a set of inner relations of the parts that constitute the whole.
+           3.  For Levinas a continual refusal to attempt that type of summary and encapsulation, to catpure the entrelyt in a lateral view. 
+           4. The other person comes at you in a certain orientation. One is always standing in relation to others. For this reason the other person always disrupts this totality. 
+           5. The total picture is just a snapshot that obscures the dynamic within the picture itself. THat these things are always broken apart and in fact never were a single thing to begin with.
+        6. Anarchy of Others
+           1. That each is disrupted by the other even before it can acheive self existence and that illustrating the inner structure of this relationship to singularity of the other person, 
+           2. the fact that the other person is an irreplaceableity of an individual and not merely an example of a certain type of person, and that within this dimesnion of our relationship with individuals is already the relatiosnhip with other persons 
+           3. that you have a smile on your face when i see you in the morning because the bodega clerk made coffee this morning.
+        5. Anarchy is a responsiblity 
+           1. That our everyday existence is already informed by our relationships with other persons is fundamentatl to understanding the fundamentally anarchistic mode of our everyday existence. 
+           2. that we are already responsible to the other person and that the other person can surprise us with an unanticipated response. 
+           3. We never have everything at our control. At best we are projecting or inspecting or we ahve a certain snapshot, a certain idea of a person but that person inhabits it with their own particular gravity. 
+           3. That person is a woman but she occupies that place of her womanhood in her own particular manner 
+           4. she dresses in her own particular way, different levels of emotional and mental and spirtiual engagement, relationship with her own bodilty capablities like that of becoming a mother and so on. 
+           5. And beyond this they are a past that we can never fully know and a future that surprises us. 
+           6. that even if we can predict the ultimate outcome in a perfect skinner box of determinism, that the way that the other person reaches that terminus, the path is unpredictable to us.
+        2. The intermediary is human 
+           1. "interconnected" by the intermediary sphere. 
+           2. Connected through linkages. How do we analyse those.
+           3. What is a medium?  How is it different from a map that inscribes all of the separate nodal points onto a singular map?
+           4. A medium describes a modality (?) of separation but also a way that we are linked in our separation.
+           
 We are therfore resopnsible. In the sense that we are always responding to a relationship to other persons. Even our relationshpi to ourself is with another perosn. We are always in a reaction. the possiblity of our awareness is the possiblity of being affected by another person, in a way a passivility that already infomrs our every move. We are pulled by this gravity of the other person, it inclines us towards it, Like the Einstein used the example of gravity warping spacetime: place a ball in the middle of a sheet and the fabric around the ball bends in its direction. We are alrady inclined in their direction and in this sense already obligated towards them.
+    4. The 'pataphysical 
+        1. our reading is `pataphysical, heretical, etc. 
+        2.  heretics in federici
+        3. Heresy in y own work
+        2. The problem of the pataphysical. 
+        4. The study of exceptions. 
+        5. In that every person throught erheir exisence is already an exception to the general rule, a new data point that must be incorporated to make the metric. Every other is an excpetion too
+
+
 
 This obligation is not a domination but a freedom. The characteristic view of authoritarian thought is that other people threaten our own existenc. That what informs our relatinships with other people are along the axis of power #### or of Desire, which Baudrillard points out is a synonym for power (Baudrillard). Or that Hannah Arendt figues that is our relationship with the body. That it is a domantion of our freedom. That we must escapte th yoke of others to realizce our freedom. Sartre Hell is Other People that would find the existence of each of the three persons of Huis Clos the implinging of one on the other.
 
 But maybe instead the obligations towards other people are our sources of freedom as well. They are what allow us to do anything really. Why get up but to see a freind to have a chat, to watch a tv show with people in it, to eat oatmeal that other people have farmed that other people have grown that other people have boxed that other people. Even if one were to declare oneself a hermit and to go into nature by oneself, one has no pathway to nature but through other people, even if only physically by following their maps and their roads.
+
+13. The familiar and the alien
 
 ## Economy and Ecology
 
