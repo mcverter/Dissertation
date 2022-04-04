@@ -106,7 +106,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
                 2.  Uses a __quatralemma__ to undermine the idea of __svabhva__ (self-identity) with that of __sunnata__ (emptiness)
        5. Boddhisatva Anarchism
            1. Not merely to liberate oneself but to become a Boddhisatva dedicated to liberating others from suffering, and to declare:
-           2. "Sentient beings are numberless, I vow to save them."
+           > Sentient beings are numberless, I vow to save them.
         6.  Nagarjuna (from undergrad mysticism paper)
 
     > 	The texts of two early Buddhist schools, Nāgārjuna's Mādhyamika and the Prajñāpāramitā traditions, illustrate how important discursive knowledge is for attaining the Ultimate truth of release from suffering. The traditional Buddhist path was built on three foundations: śīla (ethics), samādhi (contemplation), and prajñā (wisdom). Although Nāgārjuna and the Prajñāpāramitā authors would certainly acknowledge the significance of ethics and contemplation, they mainly employ wisdom to lead their students to liberation. By teaching the right view, they attempt to quell the ignorance which causes suffering. 
@@ -131,12 +131,6 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
     > Nāgārjuna denies any independent self-existence either to particular dharmas or to a universal ground underlying phenomenon. He uses most of the Kārikās to demonstrate that separate elements which exist in a relationship have no self existence because they depend on each other. To counter the notion that the synthesis of all these interrelated elements forms a self-substantial composite, he argues against the notion of unification. In the Pāli Canons, Śākyamuni had used the example of a chariot to illustrate that neither the parts of a whole nor the whole itself has any ultimate reality. Nāgārjuna repeats this sentiment, saying, 
     > > That which is seen, sight and the "seer": these three do not combine together either in pairs or altogether ... Unification is not possible by uniting one thing with that one [same] thing nor by uniting one thing with a different thing. Thus, the becoming unified, the state of being united, and the one who unites are not possible. (Nagarjuna 1967a, 14:1-8)
     > This argument proves the impossibility of unity using the same logical structure as before. In order for two or more things to exist in a relation of unity, they must be either the same or different. If they are already the same, there is no reason to say that they have been unified. If they are different, they will be unable to join together.
-
-
-
-
-
-
 
 
        6.  Heraclitus / Levinas 
@@ -200,8 +194,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
        9. Time and the Other 
           1. What is it for Levinas htat is so disruptive of time and time consciousness, of our self identity , of existence itself that is so disruptive to temporality of becoming is our relationships with other people.
        10. Totality and Infinity
-            1. Quote  
-               1. Throughout Totality and Infinity, Levinas explicitly declares the perspectival nature of his philosophy. He remarks in the preface “ethics is an optics”71 and later elaborates, "The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work."72  The ethical relationship begins from the separated stance of the subject, oriented by its body73, looking at something that is a someone who distorts that vision.  From my perspective of interiority, the other person’s stance appears as an exteriority. Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.76 According to his theory of general relativity, it is the massiveness of matter leaving a weighty imprint within the fabric of spacetime that produces this curvature.
+            > Throughout Totality and Infinity, Levinas explicitly declares the perspectival nature of his philosophy. He remarks in the preface “ethics is an optics”71 and later elaborates, "The differences between the Other and me ... are due to the I-Other conjuncture, to the inevitable orientation of being ‘starting from oneself ’ towards ‘the Other.’ The priority of this orientation over the terms that are placed in it (and which cannot arise without this orientation) summarizes the theses of the present work."72  The ethical relationship begins from the separated stance of the subject, oriented by its body73, looking at something that is a someone who distorts that vision.  From my perspective of interiority, the other person’s stance appears as an exteriority. Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.76 According to his theory of general relativity, it is the massiveness of matter leaving a weighty imprint within the fabric of spacetime that produces this curvature.
                 Hobbes
        11. Hobbes
            1. The ontology of Heraclitus, that grounds the Being of Becoming in struggle, provides grounding for writers such as Thomas Hobbes, who sees the struggle of all against all as the ground for the authoritarianism of the political. 
