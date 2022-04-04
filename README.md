@@ -1,4 +1,5 @@
-# WORK IN PROGRESS
+# Anarchism of the Other Person
+## (WORK IN PROGRESS)
 
 # Overview
 
