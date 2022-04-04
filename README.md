@@ -89,6 +89,7 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
                 9. "self-realization" is dumb.  no wonder they all go qanon.
                 10.  This is not corruption by Western culture, etc. It's already in the texts
                 10.  Hinduvata in India is horrible.
+                11. Bhagavad Gita is utter garbage. Unsurprisingly, it is the fave of fash line Steve Bannon and Evola, etc
             2.  Nihilism version is the same thing 
                 1.  The negative version, affirming the nothingness instead of the fullness is the same thing
                 2.  This is also fascist garbage
