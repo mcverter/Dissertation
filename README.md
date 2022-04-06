@@ -135,6 +135,8 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
 
 
        7. Flow of Breath paper
+          1. Levinas on Breathing
+
        8. Investigate the water quotes
           1.  Levinas starts using water in his later works  Not sure what this means.
           He definitely refernces tiem in it.  Time like a river
