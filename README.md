@@ -133,6 +133,14 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
     > This argument proves the impossibility of unity using the same logical structure as before. In order for two or more things to exist in a relation of unity, they must be either the same or different. If they are already the same, there is no reason to say that they have been unified. If they are different, they will be unable to join together.
 
 
+
+       7. Flow of Breath paper
+       8. Investigate the water quotes
+          1.  Levinas starts using water in his later works  Not sure what this means.
+          He definitely refernces tiem in it.  Time like a river
+
+
+
        6.  Heraclitus / Levinas 
              1. Levinas has a theory of __becoming__: under the guise of "otherwise than being"  (masks/Neitzsche:  Levinas's characters.  Who is this sentence pretending to be?)
              2. articulated in his later work in the language of structuralism as "synchrony/diachrony" 
