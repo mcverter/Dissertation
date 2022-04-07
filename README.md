@@ -141,8 +141,15 @@ Given that anarchism is continuously being reborn unto a multiplicity of genealo
           1.  Levinas starts using water in his later works  Not sure what this means.
           He definitely refernces tiem in it.  Time like a river
 
+       9. mettsa sutta -- mother as metaphor "even as a mother"  
 
+       
 
+ This is what should be done / 	By one who is skilled in goodness, /  And who knows the path of peace: / 	Let them be able and upright, /  Straightforward and gentle in speech, /  	Humble and not conceited, /  Contented and easily satisfied, /  	Unburdened with duties and frugal in their ways. /  Peaceful and calm and wise and skillful, /  	Not proud or demanding in nature. /  Let them not do the slightest thing / 	That the wise would later reprove. /  Wishing: In gladness and in safety, / 	May all beings be at ease. / Whatever living beings there may be; / 	Whether they are weak or strong, omitting none, / The great or the mighty, medium, short or small, / 	The seen and the unseen, / Those living near and far away, / 	Those born and to-be-born — / May all beings be at ease! 
+
+  Let none deceive another, / 	Or despise any being in any state. / Let none through anger or ill-will / 	Wish harm upon another. / Even as a mother protects with her life / 	Her child, her only child, / So with a boundless heart / 	Should one cherish all living beings; /  Radiating kindness over the entire world: / 	Spreading upwards to the skies, /  And downwards to the depths; / 	Outwards and unbounded, /  Freed from hatred and ill-will. / 	Whether standing or walking, seated or lying down /  Free from drowsiness, / 	One should sustain this recollection. / This is said to be the sublime abiding. / 	By not holding to fixed views, / The pure-hearted one, having clarity of vision, / 	Being freed from all sense desires, / Is not born again into this world.
+
+ 
        6.  Heraclitus / Levinas 
              1. Levinas has a theory of __becoming__: under the guise of "otherwise than being"  (masks/Neitzsche:  Levinas's characters.  Who is this sentence pretending to be?)
              2. articulated in his later work in the language of structuralism as "synchrony/diachrony" 
