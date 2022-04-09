@@ -1,0 +1,21 @@
+# Chapter Six: Levinas, Perverter 
+## (On the Perversion of Ethics and the Ethics of Perversion)
+       
+I am not sure anymore how necessary this chapter is anymore but let's proceed with what I think I was aiming at before.  Here I was basically proposing to rewrite my essay "Levinas Perverter"
+
+The reason why this analysis is necessary is to grapple with the deliberately gendered nature of LEvinas's prose and because my analysis does deliberately use his conceptuality of femininity/maternity and of familiarity.
+
+
+In this article, I proposed a heretical reading of Levinas and described why this was necessary.  
+In short:  Levinas interpretation is unfortunately dominated by an orthoox reading of Levinas which reads his as a series of platitutes and that promulgates a sanctimonious, polemical version of his thought.  Part of this is due to an overly-literal reading of the text, isolating the simple slogans in his work such as "Ethics is First Philosophy" and "Thou Shalt Not Kill".  Additionally, Levinas's style writes in a certain way that is so often confrontational with other philosophers -- paragraph by paragraph, Levinas very cleary is writing against certain thinkers.  His methodology, especially in Totaltiy and Infinity, is to present an idea then to compare this idea to a similar idea to another philosopher then another and then another, most frequently Hegel or Husserl or Heidegger.  I need to actually read Levinas's texts again to see how polemical they are in themselves but commentators certainly direct a great deal of hostility against Heidegger especially and to a lesser extent Hegel, and Derrida calls into question the problematic of violence directly in his critique of this work. 
+
+The heretical reading directly confronts this orthodox reading by attempting to read Levinas through his metaphors, to discovert the interplay between them, in order to find that Levinas is not proposing a normative or dogmatic ethics but rather bringing our attention to underlying structures in the way that we ethically interact with each other.  Typically Levinas unfolds a fourfold structure in his tropes: 
+(1) Each trope is matched by its inversion. EG:  The other is both the Most High and the destitute and miserable
+(2) These tropes, such as "high" and "low", take on different significations when applied to the Self as to the Other. 
+
+The problematic of Levinas, Perverter was concerned with was in particular the metaphorics of gender, that Levinas seems to presenting mostly a heterosexual fantasy.  This is definitely true on a surface reading.  However, this article tried to argue around this point by demonstrating that the Self and the Other both take various gendered positions thorughout the narrative.  Levinas still uses a gendered framework to describe classical philosophical concepts: the position of Subjectvitity is always masculine and the position of receptivity is always feminine.  Using the fourfold framework of tropes, we can see that how Levinas invertes subverts and perverts the classical model of self-assertive selfhood by manipulating these popsitions: for example, by describing the Other as "Master" to indicate the Self's perspective on the Other as a separate sovereignty, and by describing the self as having a "maternal" orientation towards the other.  
+
+I feel somewhat apprehensive about making this argument given the current orthodoxies around gender.  One commonly hears the claim "gender is a binary" and one hears a variety of other opinions coming from transgender theorists.  I definitely have opinions about this but I also feel like it is a very dangerous area to offer my own opinion and that in general the entire field of gender is a bit of a minefield and maybe it is unwise for me, a white cishet male to even try to approach it.  I might read through Leslie Feinberg's "Stone Butch Blues" to get some good quotes on gender flexiblity and see if I can use those to support my discussion of the shifts in gender-presentation and try to avoid going too deep into contemporary thinking about the subject.  
+
+
+[Click here to read full paper "Levinas, Perverter"](https://www.waste.org/~roadrunner/writing/Levinas/LevinasPerverter_20_1.htm)
