@@ -1,3 +1,5 @@
+
+In this presentation, I intend to follow up on some threads I have been following for quite a long time.    
 This presentation is largely a follow up on work I have been doing for quite a long time on the mother as a figure in ethical relationships, and considering how to read variosu anarchist figures as mothering.   
 
 Let me first start off, however, by introducing my philosophical backgound, my stance and my stakes in this grond.  So I don't entirely understand what it means to identify myself.  Not that random flux but is a certain kind of responsibility In a sense, my identity is constituted as a type of response to whatever interpolations are in effect at any given moment.  So now that I am standing here before you, I am presenting, within the present a moment, a gift of my presence. As what though.  Yes, it all depends on your frame of reference and your vocabulary but in order to commmunicate with the widest community, to respond to their interrogations, I would idenityf myself most particularly as an anarchist, a feminist, an anarchafeminist, anarchocommunist, white, male, jewish, arguably cisgender and heterosexual but under certain circumstances queer.  And philosophically most influenced by the 'pataphysical writings of ethical phenomenologist Emmanuel Levinas
@@ -26,6 +28,12 @@ A slightly different metaphor is breathing.  Our cells of our
 
 
 Generation of generations.  Levinas articulates this as the generation of gendered generations.  I have a lot to say about the ambisexuality of gender in Levinas's work but for now let's just start why it is important to him:  Levinas thinks through gender to oppose the Neutral character of human analysis -- Being, Society, Totaltiy, just some big Thing, some big bad Object.  Generation.  Produced by a process of birthing within a family, from characters he presents as "maternal" and "paternal".  
+
+Ther is a connection to other people tht isn't voluntary.  I can't emphasize how this enough, that the bonds with other peole through family are not chosen and they involve us in all sorts of problematic and unpleasant intrigues that are beyond our choosing and desiring.  that we find ourselves responsible to others.  
+
+THe paradigmatic example that Levinas uses to illustrate this is cain and abel in the bible.  that the question whether the brothers are each other's keepers or not and the stories of greek tragedy are all about the nurturing quality of family.  
+
+what the idea of the family offers us is the model of koinon, a relationship that is prepolitical or nonpolitical, that operates through and alongside the familial but is not 
 
 The focus on labor is material generally.  productive labor.  biased in workerism with a patriarchal stance. teh male laborer goign off to work.  we see this character in Levinas as the male worker.  the married heterosexual male going off to work.  
 
