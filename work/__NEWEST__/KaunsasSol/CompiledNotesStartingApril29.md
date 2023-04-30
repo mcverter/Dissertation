@@ -1,6 +1,7 @@
 CompiledNotesStartingApril29
 
 
+
 SOL NOTES
 The word “lingít” means “human”;
 
@@ -56,6 +57,7 @@ my stained underwear offer testimony to the material traces of my being. works a
 background radiation forensic acoustics (? check on the media "boom" with robert krulwitch)
 detects 60 mhz sound wave electric grid to which we always live and can deduce the variation of the sound based on the wave
 
+ De Broglie called this wave the "phase wave" («onde de phase» in French). This was his basic matter wave conception. He noted, as above, that , and the phase wave does not transfer energy
 
 HUMANITY OF NATURE
 language as a medium of comminicatoin between animals, between plants

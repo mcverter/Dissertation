@@ -1,0 +1,56 @@
+deBroglie.en.txt
+
+deBroglie.fr.txt
+
+SITTING OF 10 SEPTEMBER IÇ23.
+WRITE-OFFS. — Waves and quanta ('). Note by Mr. Louis de Broglie, presented by Mr. Jean Perrin.
+Let us consider a material mobile of proper mass ma moving with respect to a fixed observer with a velocity v — fie <[ i). According to the principle of inerlia of energy, it must have an internal energy equal to m0c2. On the other hand, the principle of quanta leads to attribute this internal energy to a simple periodic phenomenon of frequency v0 such that
+hv0 = mdcs,
+c being always the speed limit of the theory of relativity and h being Planck's constant.
+For the fixed observer, the total energy of the mobile will correspond to a
+frequency v = —m°c But, if this fixed observer observes the phenomenon
+4 . . h v/.-p*
+internal periodicity of the mobile, it will see it slowed down and will assign it a
+(’) On the subject of this Note, see M. Brillouin, Reports, t. Iti8, 1919, p. i3!8.
+sequence v, = v0 \J i — |32; for him, this phenomenon therefore varies as
+Sin 2 7IV, t.
+Suppose now that at time t — o, the mobile coincides in space with a wave of frequency v defined above propagating in the same
+direction than he with speed ~ This greater speed wave
+that c cannot correspond to a transport of energy; we will only consider it as a fictitious wave associated with the movement of the mobile.
+I say that, if at time t == o, there is phase agreement between the vectors of the wave and the internal phenomenon of the mobile, this phase agreement will remain. Indeed, at time t the mobile is at a distance from the origin equal
+at vl = x\ its internal motion is then represented by sin2Tcv, -·
+The wave at this point is represented by
+The two sines are equal, the phase match is achieved if we have
+״־!= v(i — (32),
+condition obviously satisfied by the definitions of v and v,.
+The demonstration of this important result rests solely on the principle of special relativity and on the exactness of the relation of the quanta both for the fixed observer and for the trained observer.
+Let's first apply this to an atom of light. I have shown elsewhere (') that the atom of light must be considered as a mobile of very small mass (<(io־sl gr.) moving with a speed very substantially equal to e (although slightly lower). We thus arrive at the following statement: "The atom of light equivalent by reason of its total energy to a radiation of frequency V is the seat of an internal periodic phenomenon which, seen by the observer face, has at each point of space same phase as a wave of frequency v propagating in the same direction with a speed substantially equal to (although very slightly greater than) the constant known as the speed of light.
+Let us now pass to the case of an electron describing with a uniform speed
+SITTING OF SEPTEMBER IO ig23. 5og
+substantially less than c a closed trajectory. At time t = o, the mobile is at a point O. The associated fictitious wave, then starting from O and describing the entire trajectory with the speed, catches up with the electron at time ׳r in
+a point O' such that 00' — $cx.
+So we have
+ßä
+IP*
+t = §Iî3c(t+-Ti■)] or
+where Tr is the period of revolution of the electron in its orbit. The internal phase of the electron, when it goes from O to O', varies from
+״z״c* ß* 2 7îv1r=27r—;—Tr
+It is almost necessary to suppose that the trajectory of the electron is stable only if the fictitious wave passing in O' finds the electron in phase with
+it: the wave of frequency v and speed ^ must be in resonance along the length of the trajectory. This leads to the condition
+/MqS'c* ,
+— — I .. = n h , n being an integer.
+y!-p*
+Let us show that this stability condition is indeed that of the theories of Bohr and Sommerfetd for a trajectory described at constant speed. Let pæ,pr,pz be the momentum of the electron along three rectangular axes. The general stability condition stated by Einstein is indeed
+J' (pxdæ + pydy + pzds) = tih {integer n) (1j,
+0
+which in the present case can be written
+-(«£+ <׳V2 -1- VÎ) dt = nh,
+^i-P*
+X
+.'o \/l — ß'
+as above.
+(1) The case of quasi-periodic motions presents no new difficulty. The need to satisfy the condition stated in the text for an infinity of pseudoperiods leads to the Sommerfeld conditions.
+In the case of an electron rotating with an angular speed <o on a circle of radius R, we find for the rather small speeds the primitive formula of Bohr: /h0ü)R2 = n — -,
+2 77
+If the speed varies along the trajectory, we still find the Bohr-Einstein formula if ^ is small. If P takes on large values, the matter becomes more complicated and will require special consideration.
+Continuing on the same path, we have achieved important results which will soon be communicated. We are now able to explain the phenomena of diffraction and interference by taking into account the quanta of light.
