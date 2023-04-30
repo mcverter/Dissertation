@@ -53,6 +53,10 @@ quiddity as measurement.  The particle manifestation as a wave packet
 "We can think about this as similar to debroglie"
 my stained underwear offer testimony to the material traces of my being. works and wastes
 
+background radiation forensic acoustics (? check on the media "boom" with robert krulwitch)
+detects 60 mhz sound wave electric grid to which we always live and can deduce the variation of the sound based on the wave
+
+
 HUMANITY OF NATURE
 language as a medium of comminicatoin between animals, between plants
 signaling
