@@ -18,13 +18,6 @@ LEVINAS CONTRA HERACLITUS
 ============================
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
 
-Elemental
---------- 
-  1. An inhumanity as the substance the elemental becomes a sinister thing, which is the status of the 
-  2. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
-  3. The face of side of the element, which nourishes us and threatens the future
-  4. Sensibility 
-  5. the dread of thes primal elemental forces that haunts this work from 30s hitlerism the asertion of power as force.  the idea of the heidegger as a being subsumiinng ewverything.  the being of beings.  but the real problem of levinas scholars is that of the envirnoment ann so the defense of humanism has to be the artiulateable with the ecological consciousness . this theme has been explored much better by others
  
 CONTINUOUS CREATION
 -------------------
@@ -40,15 +33,26 @@ The first blessing before the morning Shema goes on to praise Hashem,
 > When you send your breath/spirit, they are created, 
 > and you renew the face of the earth
 
-THE FACE OF THE EARTH
-what is the face of the earth?
-the ambiguity between face and visage 
-lost in english translation
 
 Psalm 104:30 
 31T
  In verse 30, the Psalm describes God bringing death to creatures by inhaling their spirits, then creating others by exhaling new breath into their lungs. And thus תחדש פני אדמה, “You renew the face of the earth.”
 Psalmo 104:30 continuous breathing of god
+
+THE ELEMENTAL AS THE FACE OF THE EARTH
+--------------------------------------
+  1. what is the face of the earth?
+  2. the ambiguity between "la face" and "le visage" 
+  3. Lost in english translation because Lingis translates as side
+  1. An inhumanity as the substance the elemental becomes a sinister thing, which is the status of the 
+  2. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
+  3. The face of side of the element, which nourishes us and threatens the future
+  4. Sensibility 
+  5. the dread of thes primal elemental forces that haunts this work from 30s hitlerism the asertion of power as force.  the idea of the heidegger as a being subsumiinng ewverything.  the being of beings.  but the real problem of levinas scholars is that of the envirnoment ann so the defense of humanism has to be the artiulateable with the ecological consciousness . this theme has been explored much better by others
+  6. "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
+  Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
+     In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. Lingis, howev- er, translates the face as side, explaining “It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.”70 Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  70 Ibid., p. 131. Translator’s footnote.  3. Element and Things, Implements
+
 
 Levinas: Regeneration of generations
 -------------------------------------
@@ -64,8 +68,16 @@ continous creation life story narrated in totality and infintiy
 find a quote for this
 
 
-eistsin
 
+
+Quantum and Relativity Physics
+------------------------------
+  0. Reimann/ Einstein curvature of space time  gravity  
+  1. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluxuation of the continuous creation of becoming
+  2. De Broglie called this wave the "phase wave" («onde de phase» in French)
+  3. Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.[1][2][3][4].  
+  * The audio mark we leave on the world with our communal electronics usage
+  * Matter as an intersection with intself.  A standing wave.s
 
 
 
@@ -77,7 +89,6 @@ ragment 7
 
 
 
-Reimann/ Einstein curvature of space time  gravity  
 
 
 Matrisocial
