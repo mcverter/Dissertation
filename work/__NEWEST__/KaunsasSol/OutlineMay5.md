@@ -92,6 +92,9 @@ FOOTNOTES
 
 [^5] Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
 
+[^6] Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
+
+
 [^6] Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
 
 [^7]: Find References for these things in the various authors
