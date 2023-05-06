@@ -11,7 +11,7 @@ This paper takes its inspiration from our great friend, the late Sol Neely, asks
 2. Heraclitus
 =============
 
-To do this, we begin by considering Levinas's work as a inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through empiricism, mechanism's billiard ball materialism[^4], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^5]  
+To do this, we begin by considering Levinas's work as a inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
 
 3. LEVINAS CONTRA HERACLITUS
@@ -89,8 +89,11 @@ FOOTNOTES
 [^3]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
 
 [^4]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
-* Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
 
-[^5]: Find References for these things in the various authors
+[^5] Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
+
+[^6] Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
+
+[^7]: Find References for these things in the various authors
 
 
