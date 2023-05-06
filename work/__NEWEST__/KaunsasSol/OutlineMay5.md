@@ -3,22 +3,23 @@ OutlineMay5.txt
 "Don't break that tree. Trees are people too" 
   -- Camille Dugee 
 
-1. Introduction
+Introduction
 ===============
 
 This paper takes its inspiration from our great friend, the late Sol Neely, asks us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought in order to elaborate an ecological phenomenology that takes etchical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness and for us as humans responsible for the exploitation and decimation of the natural world.  
 
-2. Heraclitus
+Heraclitus
 =============
 
 To do this, we begin by considering Levinas's work as a inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
 
-3. LEVINAS CONTRA HERACLITUS
+LEVINAS CONTRA HERACLITUS
 ============================
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
 
-3. Elemental 
+Elemental
+--------- 
   1. An inhumanity as the substance the elemental becomes a sinister thing, which is the status of the 
   2. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
   3. The face of side of the element, which nourishes us and threatens the future
@@ -26,6 +27,7 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
   5. the dread of thes primal elemental forces that haunts this work from 30s hitlerism the asertion of power as force.  the idea of the heidegger as a being subsumiinng ewverything.  the being of beings.  but the real problem of levinas scholars is that of the envirnoment ann so the defense of humanism has to be the artiulateable with the ecological consciousness . this theme has been explored much better by others
  
 CONTINUOUS CREATION
+-------------------
 The first blessing before the morning Shema goes on to praise Hashem, 
 
 > “Who, in goodness, perpetually renews creation every day,” 
@@ -49,6 +51,7 @@ Psalm 104:30
 Psalmo 104:30 continuous breathing of god
 
 Levinas: Regeneration of generations
+-------------------------------------
 For Levinas, the generative family demonstrates that, rather than merely issuing from an origin, existence is a continuous creation
 * Time as continuous creation, as the genesis of gendered generations, time as continuous regeneration 
 
