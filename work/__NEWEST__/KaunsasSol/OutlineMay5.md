@@ -90,12 +90,9 @@ FOOTNOTES
 
 [^4]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
 
-[^5] Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
+[^5]: Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
 
-[^6] Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
-
-
-[^6] Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
+[^6]: Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
 
 [^7]: Find References for these things in the various authors
 
