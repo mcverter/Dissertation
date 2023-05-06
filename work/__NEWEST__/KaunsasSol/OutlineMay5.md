@@ -23,6 +23,7 @@ To do this, we begin by considering Levinas's work as a inversion to not just He
 [^5] Find References for these things in the various authors
 
 
+LEVINAS CONTRA HERACLITUS
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
 
 3. Elemental 
@@ -38,11 +39,22 @@ The first blessing before the morning Shema goes on to praise Hashem,
 > “Who, in goodness, perpetually renews creation every day,” 
  > mehadesh bekhol yom tamid ma’aseh bereshit ובטובו מחדש בכל יום תמיד מעשה בראשית 
 * Time as continuous creation, from Descartes and Bergson
-30You will send forth Your spirit and they will be created, and You will renew the surface of the ground.	 	לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+30You will send forth Your spirit and they will be created, and You will renew the surface of the ground.	 	
+
+ > לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן
+ > וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+> When you send your breath/spirit, they are created, 
+> and you renew the face of the earth
+
+THE FACE OF THE EARTH
+what is the face of the earth?
+the ambiguity between face and visage 
+lost in english translation
+
+Psalm 104:30 
 31T
  In verse 30, the Psalm describes God bringing death to creatures by inhaling their spirits, then creating others by exhaling new breath into their lungs. And thus תחדש פני אדמה, “You renew the face of the earth.”
 Psalmo 104:30 continuous breathing of god
-When you send your breath/spirit, they are created, and you renew the face of the earth
 
 Levinas: Regeneration of generations
 For Levinas, the generative family demonstrates that, rather than merely issuing from an origin, existence is a continuous creation
