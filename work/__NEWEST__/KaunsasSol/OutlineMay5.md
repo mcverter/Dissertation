@@ -21,23 +21,60 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
  
 CONTINUOUS CREATION
 -------------------
-The first blessing before the morning Shema goes on to praise Hashem, 
+> “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (TI 58).[
 
-> “Who, in goodness, perpetually renews creation every day,” 
- > mehadesh bekhol yom tamid ma’aseh bereshit ובטובו מחדש בכל יום תמיד מעשה בראשית 
-* Time as continuous creation, from Descartes and Bergson
-30You will send forth Your spirit and they will be created, and You will renew the surface of the ground.	 	
+* Jewish sources: PNAI HA-ADAMAH: The Face of the Earth
+    1. The first blessing before the morning Shema goes on to praise Hashem,
+       > “Who, in goodness, perpetually renews creation every day,”
 
- > לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן
- > וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
-> When you send your breath/spirit, they are created, 
-> and you renew the face of the earth
+       > mehadesh bekhol yom tamid ma’aseh bereshit
+       > ובטובו מחדש בכל יום תמיד מעשה בראשית 
+
+    2.  Psalm 104:29-30 
+       > כטתַּסְתִּ֥יר פָּנֶיךָ֘ יִבָּֽהֵ֫ל֥וּן תֹּסֵ֣ף ר֖וּחָם יִגְוָע֑וּן וְאֶל־עֲפָ֘רָ֥ם יְשׁוּבֽוּן:
+       >לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+       
+       > You hide Your face and they are frightened; You gather in their breath and they perish and return to their dust.
+       > When you send your breath/spirit, they are created,  and you renew the face of the earth
+
+       Metaphorics:
+       * REBIRTHING: Death => Life (rebirthing)
+       * OTHER/SAME: Their breath => Your breath
+       * WASTES/NATURE: Dust => Earth
+       * FACE: Your Face => The Face of the Earth
+       * death to dust to the earth the face of god is transformed into the face of the earth 
+       * the movement of the "Face and the "breath" life and death 
+       * In verse 30, the Psalm describes God bringing death to creatures by inhaling their spirits, then creating others by exhaling new breath into their lungs. And thus תחדש פני אדמה, “You renew the face of the earth.”
+       * Psalmo 104:30 continuous breathing of god
+
+* Descartes and Bergson: Time as continuous creation
+  * Descartes, Bergson, and Continuous Creation, Khafiz Kerimov, https://journals.openedition.org/methodos/5083?lang=en#ftn1
+  > Descartes: it does not follow that we shall exist a moment from now, unless there is some cause—the same cause which originally produced us—which continually reproduces us, as it were, that is to say, which keeps us in existence
+  > Bergson: [The] idea of creation is altogether absent […] in Greek philosophy: when the Greek divinity intervenes in the world, it does so by arranging it rather than creating, while in Jewish theology God creates the world 
+
+  * Bergson: continued vs continuous -- 
+    * pointilism of time of moments, levinas has complex and creative moments of creative duration
+    * Kherimov: The conception of the divisibility of time being necessary for Cartesian mechanics, the idea of motion implicates at once the divisibility of time and the divisibility of matter 
+    * Bergson: In following the second, on the contrary, he would have been led to all the consequences which the intuition of true duration implies. Creation would have appeared not simply as continued, but also as continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present
+  * Unforseeable  
+    * 33 Henri Bergson (2007), L’évolution créatrice, p. 30: « a continuous creation of an unforeseeable form ».
+    * 67 Henri Bergson (2017), L’évolution du problème de la liberté, p. 201: « the human being finds before himself nature and truth that have already been created ».
+  * Life Death rebirth: Jean Wahl
+    * « [the] thought of death and the thought of forgetting—it is under this double form that the idea of the independence of moments of time is affirmed here »75. Jean Wahl
+  * Indeterminacy and freedom
+    * mething like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
+    * From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
+
+
+
+
+
+
+
 
 
 Psalm 104:30 
 31T
- In verse 30, the Psalm describes God bringing death to creatures by inhaling their spirits, then creating others by exhaling new breath into their lungs. And thus תחדש פני אדמה, “You renew the face of the earth.”
-Psalmo 104:30 continuous breathing of god
 
 THE ELEMENTAL AS THE FACE OF THE EARTH
 --------------------------------------
