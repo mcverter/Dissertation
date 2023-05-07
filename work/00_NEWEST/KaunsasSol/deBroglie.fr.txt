@@ -1,0 +1,54 @@
+deBroglie.fr.txt
+
+SÉANCE DU 10 SEPTEMBRE IÇ23.
+RADIATIONS. — Ondes et quanta ('). Note de M. Louis de Broglie, présentée par M. Jean Perrin.
+Considérons un mobile matériel de masse propre ma se mouvant par rapport à un ,observateur fixe avec une vitesse v — fie <[ i). D’après le principe de l’inerlie de l’énergie, il doit posséder une énergie interne égale à m0c2. D’autre part, le principe des quanta conduit à attribuer cette énergie interne à un phénomène périodique simple de fréquence v0 telle que
+hv0 = mdcs,
+c étant toujours la vitesse limite de la théorie de relativité et h la constante de Planck.
+Pour l’observateur fixe, à l’énergie totale du mobile correspondra une
+fréguence v = —m°c	Mais, si cet observateur fixe observe le phénomène
+4	.	. h v/.-p*
+périodique interne du mobile, il le verra ralenti et lui attribuera une fré-
+(’) Au sujet de la présente Note, voir M. Brillouin, Comptes rendus, t. Iti8, 1919, p. i3!8.
+quence v, = v0 \J i — |32 ; pour lui, ce phénomène varie donc comme
+SÎn 2 7IV, t.
+Supposons maintenant qu’au temps t — o, le mobile coïncide dans l’espace avec une onde de fréquence v ci-dessus définie se propageant dans la même
+direction que lui avec la vitesse ~ Cette onde de vitesse plus grande
+que c ne peut correspondre à un transport d’énergie ; nous la considérerons seulement comme une onde fictive associée au mouvement du mobile.
+Je dis que, si au temps t == o, il y a accord de phase entre les vecteurs de l’onde et le phénomène interne du mobile, cet accord de phase subsistera. En effet, au temps t le mobile est à une distance de l’origine égale
+à vl = x\ son mouvement interne est alors représenté par sin2Tcv, -·
+L’onde, eu ce point, est représentée par
+Les deux sinus sont égaux, l’accord de phase est réalisé si l’on a
+״־!= v(i — (32),
+condition évidemment satisfaite par les définitions de v et v,.
+La démonstration de cet important résultat repose uniquement sur le principe de relativité restreinte et sur l’exactitude de la ־ relation des quanta tant pour l’observateur fixe que pour l’observateur entraîné.
+Appliquons d’abord ceci à un atome de lumière. J’ai montré ailleurs (') que l’atome de lumière doit être considéré comme un mobile de masse très petite (<(io־sl gr.) se mouvant avec une vitesse très sensiblement égale à e(bien que légèrement inférieure). Nous arrivons donc à l’énoncé suivant : « L'atome de lumière équivalent en raison de son énergie totale à une radiation de fréquence V est le siège d'un phénomène périodique interne qui, vu par l'observateur face, a en chaque point de l'espace même phase qu’une onde de fréquence v se propageant dans la même direction avec une vitesse sensiblement égale (quoique très légèrement supérieure) à la constante dite vitesse de la lumière. »
+Passons maintenant au cas d’un électron décrivant d’une vitesse uniforme
+SÉANCE DU IO SEPTEMBRE ig23.	5og
+sensiblement inférieure à c une trajectoire fermée. Au temps t = o, le mobile est en un point O. L’onde fictive associée, partant alors de O et décrivant toute la trajectoire avec la vitesse rattrape l’électron au temps ׳r en
+un point O' tel que 00' — $cx.
+On a donc
+ßä
+I-P*
+t = §Iî3c(t+-Ti■)] ou
+où Tr est la période de révolution de l’électron sur son orbite. La phase interne de l’électron, quand celui-ci va de O en O', varie de
+״z״c* ß* 2 7îv1r=27r—;—Tr
+Il est presque nécessaire de supposer que la trajectoire de l’électron n’est stable que si l’onde fictive passant en O' retrouve l’électron en phase avec
+elle : l’onde de fréquence v et de vitesse ^ doit être en résonance sur la longueur de la trajectoire. Ceci conduit à la condition
+/MqS’c*	,
+— — I .. = n h ,	n étant entier.
+y!-p*
+Montrons que cette condition de stabilité est bien celle des théories de Bohr et Sommerfetd pour une trajectoire décrite à vitesse constante. Appelons pæ,pr,pz les quantités de mouvement de l’électron suivant trois axes rectangulaires. La condition générale de stabilité énoncée par Einstein est en effet
+J' (pxdæ + pydy + pzds) = tih {n entier) (1j,
+0
+ce qui peut dans le cas présent s’écrire
+-(«£+ <׳V2 -1- VÎ) dt =	nh,
+^i-P*
+X
+.'o	\/l — ß'
+comme ci-dessus.
+(1 ) Le cas des mouvements quasi périodiques ne présente aucune difficulté nouvelle. La nécessité de satisfaire à la condition énoncée au texte pour une infinité de pseudopériodes conduit aux conditions de Sommerfeld.
+Dans le cas d’un électron tournant avec une vitesse angulaire <o sur un cercle de rayon R, on retrouve pour les vitesses assez petites la formule primitive de Bohr : /h0ü)R2 = n — -,
+2 77
+Si la vitesse varie le long de la trajectoire, on retrouve encore La formule de Bohr-Einstein si ^ est petit. Si P prend de grandes valeurs, la question devient plus compliquée et nécessitera un examen spécial.
+Poursuivant dans la même voie, nous sommes parvenus à des résultats importants qui seront prochainement communiqués. Nous sommes dès aujourd’hui en mesure d’expliquer les phénomènes de diffraction et d’interférences en tenant compte des quanta de lumière.
