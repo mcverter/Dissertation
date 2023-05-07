@@ -114,18 +114,13 @@ Amphilogous Oscillations of Temporalized Matter-Waves
 ------------------------
 1. In accord with Levinas’s thinking of inspiration in terms of the literalness of respiration, they are composed with the cadence of breath and attuned to the systole and diastole of the heart.
 2. Oscillations and periodicities, sounds, rhythms, reverberations of Xennakis 
-3. Substitution is Metaphor
-   * Metaphor = meta+phor => phor = to give birth
-   * substituion of the self for me
-   * replacement over time
-   * Here it is being-born and it's relationship with rebirthing
-    >    Or do the being encumbered with oneself and the suffering of constriction in one's skin, better than metaphors, follow the exact trope of an alteration of essence, which inverts, or would invert, into a recurrence in which the expulsion of self outside of itself is its substitution for the other?  
-4. Examples / Quotes
+3. Examples / Quotes
    * Breathing: inspiration / expiration / respiration, etch
      > The expression "in one's skin" is not a metaphor for the in-itself; it refers to a recurrence in the dead time or the meanwhile which separates inspira- tion and expiration, the diastole and systole of the heart beating dully against the walls of one's skin. The body is not only an image or figure here; it is the distinctive in-oneself of the contraction of ipseity and its breakup.12 This contraction is not an impossibility to forget oneself, to detach oneself from oneself, in the concern for oneself. It is a recurrence to oneself out of an irrecusable exigency of the other, a duty overflowing my being, a duty becoming a debt and an extreme passivity prior to the tran- quillity, still quite relative, in the inertia and materiality of things at rest. It is a restlessness and patience that support prior to action and passion. Here what is due goes beyond having, but makes giving possible. This recurrence is incarnation. In it the body which makes giving possible makes one other without alienating. For this other is the heart, and the goodness, of the same, the inspiration or the very psyche in the soul.
     * River / Water / Heraclitus 
       > Rather than being a metaphor taken from the movement of waters in a river, would not flowing be the very temporality of time and the "science" of which "consciousness" (conscience) is made? To speak of time in terms of flowing is to speak of time in terms of time and not in terms of temporal events.18 The temporalization of time-the openness by which sensation manifests itself, is felt, modifies itself without altering its identity, doubling itself up by a sort of diastasis of the punctual, putting itself out of phase with itself-is neither an attribute nor a predicate expressing a causality "sensed" as a sensation. The temporal modification is not an event, nor an action, nor the effect of a cause. It is the verb to be.
       > The ego is in itself like a sound that would resound in its own echo, the node of a wave which is not once again consciousness.6 The term in recurrence will be sought here beyond or on the hither side of consciousness and its play, beyond or on the hither side of being which it thematizes, outside of being, and thus in itself as in exile. 
+    * Diachrony, Systole / Diastole, Heart Beat, etc.
       > Indeed in the transcendence of intentionality diachrony is reflected, that is, the psyche itself, in which the inspiration of the same by the other is articulated as a responsibility for another, in proximity. Sensibility is in this way situated back in the human exception. But one has to go back from this reflection to the diachrony itself, which is the-one-for-the-other in proximity. It is then not a particular signification. The-one-for-another has the form of sensibility or vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
 
 
@@ -140,16 +135,23 @@ Quantum and Relativity Physics
     https://www.wnycstudios.org/podcasts/otm/segments/how-hum-lightbulb-can-tell-time-on-the-media?tab=summary
   * Matter as an intersection with itself.  A standing wave.s
 
-
-
-
+Being born and Birthing instead of Being-towards death
+======================================================
+1. Substitution is Metaphor
+    * Metaphor = meta+phor => phor = to give birth
+    * substituion of the self for me
+    * replacement over time
+    * Here it is being-born and it's relationship with rebirthing
+    * Substitution as having-been-born
+    * mothering as birthing 
+    * birthing/bornness is the respiration 
+    * Lurianic birth pangs
+    >    Or do the being encumbered with oneself and the suffering of constriction in one's skin, better than metaphors, follow the exact trope of an alteration of essence, which inverts, or would invert, into a recurrence in which the expulsion of self outside of itself is its substitution for the other?
 
 Matrisocial
 ------------
-Substitution as having-been-born
-mothering as birthing
-birthing/bornness is the respiration 
 ariel salleh mothering  
+
 FOOTNOTES
 
 
