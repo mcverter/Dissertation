@@ -1,0 +1,45 @@
+Bergson Descartes continuous creation
+
+ The article thus shows that Descartes’ theory of continued creation constitutes a point of convergence between the questions of mechanism and human freedom, where the latter is an exception to the former. However, the exceptional status of human freedom in Descartes’ philosophy renders Bergson’ thesis about Descartes’ oscillation between two aspects somewhat problematic.
+
+  Bergson distinguishes between two irreconcilable aspects of creation in Descartes: continued creation and continuous creation.
+
+  hus, from the fact that we now exist, it does not follow that we shall exist a moment from now, unless there is some cause—the same cause which originally produced us—which continually reproduces us, as it were, that is to say, which keeps us in existence
+
+   I must therefore now ask myself whether I possess some power enabling me to bring about that I who now exist will still exist a little while from now.
+
+    Ultimately, then, Descartes understands God as sustaining entities from one moment to another—otherwise, there is nothing13. H
+
+    Henri Bergson (2017), L’évolution du problème de la liberté, p. 204: « [The] idea of creation is altogether absent […] in Greek philosophy: when the Greek divinity intervenes in the world, it does so by arranging it rather than creating, while in Jewish theology God creates the world ». Thi
+
+    The distinction between creation and conservation is thus a conceptual rather than real distinction. Stated differently, it is merely circumstantial or numerical: conservation of existence follows preceding acts of the same kind in the order of time, hence, it is called conservation rather than creation. Ultimately, however, Descartes’ continued creation is but an unceasing interruption of (and conquest over) nothingness, each time anew24.
+
+Given that Descartes sees no “necessary connection” between instantaneous moments of time, it is not surprising he has to resort to the idea of continued creation. As early as in his Les données immédiates Bergson writes:
+
+continued vs continuous -- pointilism of time of moments, levinas has complex and creative moments of creative duration
+
+29 Henri Bergson (2017), L’évolution du problème de la liberté, p. 214: « Without the unceasing renewal of the creative act of God the world would not subsist even for a single instant; it is necessary that God restarts the act of creation at every moment of duration »
+
+31 Henri Bergson (2007), L’évolution créatrice, p. 344-345: « The oscillation is visible in Cartesianism. On the one hand, Descartes affirms universal mechanism: from this point of view, movement would be relative, and, as time has just as much reality as movement, it would follow that past, present, and future are given from all eternity. But, on the other hand (and that is why the philosopher has not gone to these extreme consequences), Descartes believes in the free will of man. He superposes on the determinism of physical phenomena the indeterminism of human actions, and, consequently, on time-length a time in which there is creation, invention, true succession. This duration he supports on a God who is unceasingly renewing the creative act, and who, being thus tangent to time and becoming, sustains them, communicates to them necessarily something of his absolute reality. When he places himself at this second point of view, Descartes speaks of movement, even spatial, as of an absolute. He therefore entered both roads one after the other, having resolved to follow neither of them to the end. The first would have led him to the denial of free will in man and of real will in God. It was the suppression of all efficient duration, the likening of the universe to a thing given, which a superhuman intelligence would embrace at once in a moment or in eternity. In following the second, on the contrary, he would have been led to all the consequences which the intuition of true duration implies. Creation would have appeared not simply as continued, but also as continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present ». For a brief discussion of this passage, see Camille Riquier (2009), Archéologie de Bergson : temps et métaphysique, Paris, PUF, p. 261-269.
+
+33 Henri Bergson (2007), L’évolution créatrice, p. 30: « a continuous creation of an unforeseeable form ».
+
+But such increases in speed (or, rather, their calculability) are intrinsically tied to the divisibility of time—the divisibility of matter thus entails the divisibility of time.
+
+« The conception of the divisibility of time being necessary for Cartesian mechanics, the idea of motion implicates at once the divisibility of time and the divisibility of matter »45.
+
+At this point, the project of mechanism, of physical determinism, appears to exhaust Descartes’ theory of continued creation.
+
+67 Henri Bergson (2017), L’évolution du problème de la liberté, p. 201: « the human being finds before himself nature and truth that have already been created ».
+
+« [the] thought of death and the thought of forgetting—it is under this double form that the idea of the independence of moments of time is affirmed here »75. Jean Wahl
+
+Descartes returns to the question of memory, « which connects present experiences with preceding ones »81. Descartes argues that, owing to the fact that God is not a deceiver, I can use my memory to « connect my [present] perception […] with the whole of the rest of my life without a break »82. In this way my memory can corroborate my present perceptions, thereby reducing the risk of error. T
+
+mething like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
+
+ From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
+
+ 
+
+
