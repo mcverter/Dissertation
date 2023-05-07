@@ -126,7 +126,15 @@ Amphilogous Oscillations of Temporalized Matter-Waves
 
 Quantum and Relativity Physics
 ------------------------------
-  1. Reimann/ Einstein curvature of space time  gravity  
+  1. Totality and Infinity: Reimann/ Einstein curvature of space time  gravity  
+     * Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space”74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.
+     * Although the Face-to-Face
+       does describe a relationship between adult males, it would wrong to consider
+       this relationship as the goal of one’s ethical development.  Although Levinas
+       only employs the term “ethical” in certain sections of his texts, each moment of
+       his genealogy opens up a new perspective, a different ethical orientation
+       towards the Other, a different hyperbolic Riemann curvature of intersubjective
+       space.
   2. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluctuation of the continuous creation of becoming
   3. De Broglie called this wave the "phase wave" («onde de phase» in French)
   4. Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.  
