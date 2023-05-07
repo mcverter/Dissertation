@@ -1,12 +1,14 @@
 OutlineMay5.txt
 
+The Face of the Earth (פְּנֵ֣י אֲדָמָֽה): An Indigenously-Inspired Levinasian Matrisocial 
+
 "Don't break that tree. Trees are people too" 
   -- Camille Dugee 
 
 Introduction
 ===============
 
-This paper takes its inspiration from our great friend, the late Sol Neely, asks us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought in order to elaborate an ecological phenomenology that takes etchical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness and for us as humans responsible for the exploitation and decimation of the natural world.  
+This paper takes its inspiration from our great friend, the late Sol Neely, asks us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought in order to elaborate an ecological phenomenology that takes ethical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness and for us as humans responsible for the exploitation and decimation of the natural world.  
 
 Heraclitus
 =============
@@ -23,7 +25,7 @@ CONTINUOUS CREATION
 -------------------
 > “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (TI 58).[
 
-* Jewish sources: PNAI HA-ADAMAH: The Face of the Earth
+* Jewish sources: HA-ADAMAH: The Face of the Earth
     1. The first blessing before the morning Shema goes on to praise Hashem,
        > “Who, in goodness, perpetually renews creation every day,”
 
@@ -45,7 +47,7 @@ CONTINUOUS CREATION
        * death to dust to the earth the face of god is transformed into the face of the earth 
        * the movement of the "Face and the "breath" life and death 
        * In verse 30, the Psalm describes God bringing death to creatures by inhaling their spirits, then creating others by exhaling new breath into their lungs. And thus תחדש פני אדמה, “You renew the face of the earth.”
-       * Psalmo 104:30 continuous breathing of god
+       * Psalm 104:30 continuous breathing of god
 
 * Descartes and Bergson: Time as continuous creation
   * Descartes, Bergson, and Continuous Creation, Khafiz Kerimov, https://journals.openedition.org/methodos/5083?lang=en#ftn1
@@ -62,46 +64,48 @@ CONTINUOUS CREATION
   * Life Death rebirth: Jean Wahl
     * « [the] thought of death and the thought of forgetting—it is under this double form that the idea of the independence of moments of time is affirmed here »75. Jean Wahl
   * Indeterminacy and freedom
-    * mething like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
+    * something like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
     * From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
-
-
-
-
-
-
-
-
-
-Psalm 104:30 
-31T
 
 THE ELEMENTAL AS THE FACE OF THE EARTH
 --------------------------------------
-  1. what is the face of the earth?
-  2. the ambiguity between "la face" and "le visage" 
-  3. Lost in english translation because Lingis translates as side
-  1. An inhumanity as the substance the elemental becomes a sinister thing, which is the status of the 
-  2. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
-  3. The face of side of the element, which nourishes us and threatens the future
-  4. Sensibility 
-  5. the dread of thes primal elemental forces that haunts this work from 30s hitlerism the asertion of power as force.  the idea of the heidegger as a being subsumiinng ewverything.  the being of beings.  but the real problem of levinas scholars is that of the envirnoment ann so the defense of humanism has to be the artiulateable with the ecological consciousness . this theme has been explored much better by others
-  6. "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
-  Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
-     In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. Lingis, howev- er, translates the face as side, explaining “It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.”70 Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  70 Ibid., p. 131. Translator’s footnote.  3. Element and Things, Implements
+1. Introduction
+   * the dread of this primal elemental forces that haunts this work from 30s Hitlerism with the assertion of power as force.  
+   * the idea of the heidegger as a being subsuming everything.  the being of beings.  
+   * The environment: The real problem of Levinas scholars is that of the environment and so the defense of humanism has to be the articulate-able with the ecological consciousness. 
+   * This theme has been explored by many others thinkers of Levinas
+   
+   >    "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
+   >    Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
 
+2. In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. 
+3. Lingis, however, translates the face as side, explaining
+   > “It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.”70 Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  70 Ibid., p. 131. Translator’s footnote.  3. Element and Things, Implements
+
+4. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
+5. Check "Time and the Other" / "Existence and Existents" for any connection between il y a and the element
+6. In Totality and Infinity 
+   * The face of side of the element, 
+   * which nourishes us and 
+   * threatens the future 
+   * An inhumanity as the substance the elemental becomes a sinister thing, 
+   * Check to see if he uses the word "inhuman" anywhere
+   * which is the status of the
+   * unforseeabilty of the future (Bergson)
+7. Otherwise than Being
+   * Sensibility 
 
 Levinas: Regeneration of generations
 -------------------------------------
 For Levinas, the generative family demonstrates that, rather than merely issuing from an origin, existence is a continuous creation
 * Time as continuous creation, as the genesis of gendered generations, time as continuous regeneration 
 
-There is a sense in which Totality and Infinity may be read as if were the first Book of Moses, Genesis or בְּרֵאשִׁית, { There is a footnote here } the story of the regenerating engendering of generations.  It tells a story of life stage development, from the newborn nursing on the element through job and mature home ownership, through old age, through sex and sacrifice and murder, to the rebirth of a new subjectivity who begins the story at the start in naissance an . At the end you realize that the the sacrifice and murder of the self is what constintued the infant at the begining.
+There is a sense in which Totality and Infinity may be read as if were the first Book of Moses, Genesis or בְּרֵאשִׁית, { There is a footnote here } the story of the regenerating engendering of generations.  It tells a story of life stage development, from the newborn nursing on the element through job and mature home ownership, through old age, through sex and sacrifice and murder, to the rebirth of a new subjectivity who begins the story at the start in naissance an . At the end you realize that the the sacrifice and murder of the self is what constintued the infant at the beginning.
 
 > “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (TI 58).[
 
 what is the element to which we relate the question of elemental 
-continous creation life story narrated in totality and infintiy
+continuous creation life story narrated in totality and infinity
 find a quote for this
 
 
@@ -109,24 +113,18 @@ find a quote for this
 
 Quantum and Relativity Physics
 ------------------------------
-  0. Reimann/ Einstein curvature of space time  gravity  
-  1. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluxuation of the continuous creation of becoming
-  2. De Broglie called this wave the "phase wave" («onde de phase» in French)
-  3. Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.[1][2][3][4].  
+  1. Reimann/ Einstein curvature of space time  gravity  
+  2. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluctuation of the continuous creation of becoming
+  3. De Broglie called this wave the "phase wave" («onde de phase» in French)
+  4. Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording..  
   * The audio mark we leave on the world with our communal electronics usage
-  * Matter as an intersection with intself.  A standing wave.s
+  * Matter as an intersection with itself.  A standing wave.s
 
 
 
 the entire genealogy flowing
 
 Throughout his work, Levinas dialogue with ontology entails not only a subversion of the meaning of Being but also a further perversion of the notion of Becoming, the tradition that runs from Heraclitus's dictum Πάντα ῥεῖ (everything flows), through Spinoza's conatus essendi as striving to persevere in Being through Hegel's dialectical struggle as becoming, through  Nietzsche's Will to Power as Becoming, through Heidegger's analysis of Being as ecstatic Becoming.
-
-ragment 7
-
-
-
-
 
 Matrisocial
 
