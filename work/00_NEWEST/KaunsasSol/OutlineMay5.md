@@ -11,11 +11,23 @@ ABSTRACT
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
-This paper will begin by considering Levinas's writiengs as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  Levinas's deepens the question of becoming through its conception as continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4]
+This paper will begin by considering Levinas's writiengs as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  Levinas's deepens the question of becoming through its conception as continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4] For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  We will explore the black and indigenous understandings of maternity through  Ariel Salleh's ecological reading of Sara Ruddick's mothering as a practice of holding, Sarah Hrdy and Alexis Pauline Gumb's discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet, and closing with a fragment from Joy Harjo:
 
+>Remember your birth, how your mother struggled
+> to give you form and breath. You are evidence of
+> her life, and her mother’s, and hers.
+
+
+
+
+
+
+of barracks warrior-hero 
         
 
-
+Upon her death from carrying too many children, the Lynx was buried on Turtle Island, where she transformed into
+fertile Mother Earth, nourishing the people: corn, or “earth-milk,” grows from her breasts, squash from her navel,
+and beans from her feet. These are her daughters, the sacred Three Sisters"
 
 
 
@@ -235,7 +247,7 @@ as ‘rights’ into an extrapolation of caring experience. 44 Holding is based 
 > An embodied materialism rests on fusion of consciousness with field, and sensitivity to the impermanence of both, as they shape each other. Maybe the sensual symbiosis of having another human alive right inside one’s belly is the quintessence of this unbounded subjectivity?
 
 
-Iroquouis Matriarchs (Gantowisas)
+Haudenosaunee Matriarchs (Gantowisas)
 ----------------------------------
 > The supply of food and gift items was in the hands of the Gantowisas, which meant that they had explicit responsibility for rendering and
 maintaining the Iroquoian gift economy. This was a clear expression of the resonance between the gift giving Earth and
@@ -270,6 +282,15 @@ FOOTNOTES
 [^3]: πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς, καὶ τοὺς μὲν θεοὺς ἔδειξε τοὺς δὲ ἀνθρώπους, τοὺς μὲν δούλους ἐποίησε τοὺς δὲ ἐλευθέρους. (War is the master-father of all and the king of all; and some he has made gods and some men, some slaves and some free.)  Heraclitus, Fragment 53
 
 [^4]: לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+
+
+[^5]: Emmanuel Levinas, Totalite et Infini, 138.
+
+
+[^6]: Hartsock “Barracks Myth  Hartsock, N. (1982) ‘The barracks community in western political thought: prolegomena to a feminist critique of war and politics’, Women’s Studies International Forum, 5:3/4.
+
+[^7] Ariel Salleh, ECOFEMINISM AS POLITICS: NATURE, MARX AND THE POSTMODERN (2nd), p. 171
+
 
 [^4]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
 
