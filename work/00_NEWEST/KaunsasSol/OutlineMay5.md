@@ -1,14 +1,45 @@
 OutlineMay5.txt
 
-The Face of the Earth (פְּנֵ֣י אֲדָמָֽה): An Indigenously-Inspired Levinasian Matrisocial 
+The Face of the Earth (פְּנֵ֣י אֲדָמָֽה): 
+An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
 
 "Don't break that tree. Trees are people too" 
-  -- Camille Dugee 
+  -- Camille Dungy 
+
+ABSTRACT
+========
+
+In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
+
+This paper will begin by considering Levinas's writiengs as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  Levinas's deepens the question of becoming through its conception as continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4]
+
+        
+
+
+
+
+
+, we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
+* continuous creation t
+* the elemental as part of the earth
+* the breating of things
+* that our connection is not a collision of forces but a relationship with others and otherness
+* how then is the elemental connected to the person ?
+* sensibiilty and 
+* reconsideration of sensibility and the elemental 
+* maternal creation and the other stuff
+* and we can explore this realtionshi
+* a dual relatinship of having-been-born and giving-birth 
+continouus creation and that relates to the nature
+* it's the way that we are in touch with them and stuff
+* it's what exactly
+* we will illustrate taht with our little indigenous so and so 
 
 Introduction
 ===============
 
-This paper takes its inspiration from our great friend, the late Sol Neely, asks us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought in order to elaborate an ecological phenomenology that takes ethical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness and for us as humans responsible for the exploitation and decimation of the natural world.  
+In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could develop an ecological phenomenology, that takes ethical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —- the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
+
 
 Heraclitus
 =============
@@ -16,33 +47,31 @@ Heraclitus
 To do this, we begin by considering Levinas's work as an inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
 
-LEVINAS CONTRA HERACLITUS
-============================
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
-
-Throughout his work, Levinas dialogue with ontology entails not only a subversion of the meaning of Being but also a further perversion of the notion of Becoming, the tradition that runs from Heraclitus's dictum Πάντα ῥεῖ (everything flows), through Spinoza's conatus essendi as striving to persevere in Being through Hegel's dialectical struggle as becoming, through  Nietzsche's Will to Power as Becoming, through Heidegger's analysis of Being as ecstatic Becoming.
-the entire genealogy flowing
 
 
 CONTINUOUS CREATION
 -------------------
-> “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (TI 58).[
+   > “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (Levinas, TI 58).
 
 * Jewish sources: HA-ADAMAH: The Face of the Earth
     1. The first blessing before the morning Shema goes on to praise Hashem,
-       > “Who, in goodness, perpetually renews creation every day,”
+        > “Who, in goodness, perpetually renews creation every day,”
 
-       > mehadesh bekhol yom tamid ma’aseh bereshit
-       > ובטובו מחדש בכל יום תמיד מעשה בראשית 
+        > ובטובו מחדש בכל יום תמיד מעשה בראשית
 
-    2.  Psalm 104:29-30 
-       > כטתַּסְתִּ֥יר פָּנֶיךָ֘ יִבָּֽהֵ֫ל֥וּן תֹּסֵ֣ף ר֖וּחָם יִגְוָע֑וּן וְאֶל־עֲפָ֘רָ֥ם יְשׁוּבֽוּן:
-       >לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
-       
-       > You hide Your face and they are frightened; You gather in their breath and they perish and return to their dust.
-       > When you send your breath/spirit, they are created,  and you renew the face of the earth
+        > mehadesh bekhol yom tamid ma’aseh bereshit
 
-       Metaphorics:
+    2.  Psalm 104:29-30
+        > You hide Your face and they are frightened; You gather in their breath and they perish and return to their dust.
+        
+        > When you send your breath/spirit, they are created,  and you renew the face of the earth
+
+        > כטתַּסְתִּ֥יר פָּנֶיךָ֘ יִבָּֽהֵ֫ל֥וּן תֹּסֵ֣ף ר֖וּחָם יִגְוָע֑וּן וְאֶל־עֲפָ֘רָ֥ם יְשׁוּבֽוּן:
+         
+        >     לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+
+    3. Metaphorics:
        * REBIRTHING: Death => Life (rebirthing)
        * OTHER/SAME: Their breath => Your breath
        * WASTES/NATURE: Dust => Earth
@@ -53,11 +82,10 @@ CONTINUOUS CREATION
        * Psalm 104:30 continuous breathing of god
 
 * Descartes and Bergson: Time as continuous creation
->  “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (TI 58).[
-
   * Descartes, Bergson, and Continuous Creation, Khafiz Kerimov, https://journals.openedition.org/methodos/5083?lang=en#ftn1
-  > Descartes: it does not follow that we shall exist a moment from now, unless there is some cause—the same cause which originally produced us—which continually reproduces us, as it were, that is to say, which keeps us in existence
-  > Bergson: [The] idea of creation is altogether absent […] in Greek philosophy: when the Greek divinity intervenes in the world, it does so by arranging it rather than creating, while in Jewish theology God creates the world 
+     > Descartes: it does not follow that we shall exist a moment from now, unless there is some cause—the same cause which originally produced us—which continually reproduces us, as it were, that is to say, which keeps us in existence
+
+     > Bergson: [The] idea of creation is altogether absent […] in Greek philosophy: when the Greek divinity intervenes in the world, it does so by arranging it rather than creating, while in Jewish theology God creates the world 
 
   * Bergson: continued vs continuous -- 
     * pointilism of time of moments, levinas has complex and creative moments of creative duration
@@ -234,18 +262,21 @@ Antigone!
 FOOTNOTES
 
 
-[^1]: ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιῤῥεῖ· καὶ ψυχαὶ δὲ ἀπὸ τῶν ὑγρῶν ἀναθυμιῶνται. (You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you. -- Wikipedia translation).  Fragment 12
-
-[^2]: πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς, καὶ τοὺς μὲν θεοὺς ἔδειξε τοὺς δὲ ἀνθρώπους, τοὺς μὲν δούλους ἐποίησε τοὺς δὲ ἐλευθέρους. (War is the master-father of all and the king of all; and some he has made gods and some men, some slaves and some free.)  Heraclitus, Fragment 53
-
-[^3]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
-
-[^4]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
-
-[^5]: Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
-
-[^6]: Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
-
-[^7]: Find References for these things in the various authors
+[^1] Neely, Sol.  "On Becoming Human in Lingít Aaní: Encountering Levinas through Indigenous Inspirations", p. 99.  Environmental Philosophy, 13(1), Spring 2016, 83-104. doi: 10.5840/envirophil201642634
 
 
+[^2]: ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιῤῥεῖ· καὶ ψυχαὶ δὲ ἀπὸ τῶν ὑγρῶν ἀναθυμιῶνται. (You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you. -- Wikipedia translation).  Fragment 12
+
+[^3]: πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς, καὶ τοὺς μὲν θεοὺς ἔδειξε τοὺς δὲ ἀνθρώπους, τοὺς μὲν δούλους ἐποίησε τοὺς δὲ ἐλευθέρους. (War is the master-father of all and the king of all; and some he has made gods and some men, some slaves and some free.)  Heraclitus, Fragment 53
+
+[^4]: לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+
+[^4]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
+
+[^5]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
+
+[^6]: Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
+
+[^7]: Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
+
+[^8]: Find References for these things in the various authors
