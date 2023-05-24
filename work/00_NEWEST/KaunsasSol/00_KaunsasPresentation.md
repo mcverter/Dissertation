@@ -11,6 +11,15 @@
 1. [Abstract](#Abstract)
 2. [Introduction](#Introduction)
 3. [Heraclitus](#Heraclitus)
+4. [CONTINUOUS CREATION](#CONTINUOUS-CREATION)
+5. [THE ELEMENTAL AS THE FACE OF THE EARTH](#THE-ELEMENTAL-AS-THE-FACE-OF-THE-EARTH)
+6. [Levinas: Regeneration of generations](#Levinas:-Regeneration-of-generations)
+7. [Levinas: Amphibologous Oscillations](#Levinas:-Amphibologous-Oscillations )
+8. [Quantum and Relativity Physics, Temporalized Matter-Waves](#Quantum-and-Relativity-Physics,-Temporalized-Matter-Waves)
+9. [Being born and Birthing instead of Being-towards death](#Being-born-and-Birthing-instead-of-Being-towards-death)
+10. [Granarchism](#Granarchism)
+11. [Black and Indigenous Matrisocial](#Black-and-Indigenous-Matrisocial)
+
 
 ## ABSTRACT
 
