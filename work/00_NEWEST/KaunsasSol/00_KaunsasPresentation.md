@@ -9,11 +9,10 @@ OutlineMay5.txt
 > -- Camille Dungy 
 
 ## ABSTRACT
-========
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
-In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
+(1) In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
 
 This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a needy being into the world, breathed into the wold
 
@@ -21,9 +20,7 @@ This conception of the master-father as the source of Becoming is paradigmatic o
 
 For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
 
-Part Two
-========  
-We will explore the black and indigenous understandings of maternity through  Ariel Salleh's[^7] ecological reading of Sara Ruddick's mothering as a loving practice of preservative holding [^8], (also mention here Genevieve Vaughan about motherers) Sarah Hrdy[^9] and Alexis Pauline Gumb's[^10] discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet[^11] [^12] -- her three daughters the sacred Three Sisters.
+(2) We will explore the black and indigenous understandings of maternity through  Ariel Salleh's[^7] ecological reading of Sara Ruddick's mothering as a loving practice of preservative holding [^8], (also mention here Genevieve Vaughan about motherers) Sarah Hrdy[^9] and Alexis Pauline Gumb's[^10] discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet[^11] [^12] -- her three daughters the sacred Three Sisters.
 
 We close closing with a fragment from Joy Harjo's "Remember"[^13]:
 
@@ -32,14 +29,12 @@ We close closing with a fragment from Joy Harjo's "Remember"[^13]:
 > her life, and her mother’s, and hers.
 
 
-Introduction
-===============
+## Introduction
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could develop an ecological phenomenology, that takes ethical responsibility for the "the irreducible kinship relation expressed by 'all my relations' —- the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard".  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
 
-Heraclitus
-=============
+## Heraclitus
 
 To do this, we begin by considering Levinas's work as an inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
@@ -47,8 +42,8 @@ To do this, we begin by considering Levinas's work as an inversion to not just H
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
 
 
-CONTINUOUS CREATION
--------------------
+## CONTINUOUS CREATION
+
    > “the discontinuity of Cartesian time, which requires a continuous creation, indicates the very dispersion and plurality of created being” (Levinas, TI 58).
 
 * Jewish sources: HA-ADAMAH: The Face of the Earth
@@ -97,8 +92,8 @@ CONTINUOUS CREATION
     * something like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
     * From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
 
-THE ELEMENTAL AS THE FACE OF THE EARTH
---------------------------------------
+## THE ELEMENTAL AS THE FACE OF THE EARTH
+
 1. Introduction
    * The environment: The real problem of Levinas scholars is that of the environment and so the defense of humanism has to be the articulate-able with the ecological consciousness.
    * the dread of this primal elemental forces that haunts this work from 30s Hitlerism with the assertion of power as force.  
@@ -127,16 +122,16 @@ THE ELEMENTAL AS THE FACE OF THE EARTH
 8. Otherwise than Being
    * Sensibility 
 
-Levinas: Regeneration of generations
--------------------------------------
+## Levinas: Regeneration of generations
+
 For Levinas, the generative family demonstrates that, rather than merely issuing from an origin, existence is a continuous creation
 * Time as continuous creation, as the genesis of gendered generations, time as continuous regeneration 
 
 There is a sense in which Totality and Infinity may be read as if were the first Book of Moses, Genesis or בְּרֵאשִׁית, { There is a footnote here } the story of the regenerating engendering of generations.  It tells a story of life stage development, from the newborn nursing on the element through job and mature home ownership, through old age, through sex and sacrifice and murder, to the rebirth of a new subjectivity who begins the story at the start in naissance an . At the end you realize that the sacrifice and murder of the self is what constituted the infant at the beginning.
 
 
-Amphilogous Oscillations of Temporalized Matter-Waves
-------------------------
+## Amphibologous Oscillations of Temporalized Matter-Waves
+
 1. In accord with Levinas’s thinking of inspiration in terms of the literalness of respiration, they are composed with the cadence of breath and attuned to the systole and diastole of the heart.
 2. Oscillations and periodicities, sounds, rhythms, reverberations of Xennakis 
 3. Examples / Quotes
@@ -149,8 +144,8 @@ Amphilogous Oscillations of Temporalized Matter-Waves
       > Indeed in the transcendence of intentionality diachrony is reflected, that is, the psyche itself, in which the inspiration of the same by the other is articulated as a responsibility for another, in proximity. Sensibility is in this way situated back in the human exception. But one has to go back from this reflection to the diachrony itself, which is the-one-for-the-other in proximity. It is then not a particular signification. The-one-for-another has the form of sensibility or vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
 
 
-Quantum and Relativity Physics
-------------------------------
+## Quantum and Relativity Physics
+
   1. Totality and Infinity: Reimann/ Einstein curvature of space time  gravity  
      * Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.
      * Although the Face-to-Face
@@ -168,8 +163,8 @@ Quantum and Relativity Physics
     https://www.wnycstudios.org/podcasts/otm/segments/how-hum-lightbulb-can-tell-time-on-the-media?tab=summary
   * Matter as an intersection with itself.  A standing wave.s
 
-Being born and Birthing instead of Being-towards death
-======================================================
+## Being born and Birthing instead of Being-towards death
+
 1. Substitution is Metaphor
     * Metaphor = meta+phor => phor = to give birth
     * substitution of the self for me
@@ -181,8 +176,7 @@ Being born and Birthing instead of Being-towards death
     * Lurianic birth pangs
     >    Or do the being encumbered with oneself and the suffering of constriction in one's skin, better than metaphors, follow the exact trope of an alteration of essence, which inverts, or would invert, into a recurrence in which the expulsion of self outside of itself is its substitution for the other?
 
-Granarchism
-===========
+## Granarchism
 
 But is it possible to think outside of these patriarchal models?  Can we conceive of becoming in terms of regeneration rather than domination and creative destruction?  Can we consider community in terms of nurturance rather than dominion and property?
 
@@ -196,69 +190,59 @@ The work of anthropologist Sarah Hrdy adds an additional dimension to this idea 
 
 The presence of these allomothers is essential for the evolution and development of mutual aid.  The human infant is helpless for an extended period of time, time required for them to develop such large brains.  This mental development and emotional conditioning, Sarah Hrdy argues, is essential for the development of our capacity to imagine what other people are thinking and feeling, which is in turn crucial to the development of emotionally modern humans, helping them to foster prosocial behaviors that result in mutual aid.
 
-Black and Indigenous Matrisocial
-================================
+## Black and Indigenous Matrisocial
 
-Alexis Pauline Gumbs
---------------------
+
+### Alexis Pauline Gumbs
+
 > THE BLACK FEMINIST AUTHOR (AND pleasure activism ancestor!) Toni Cade Bambara used to sign her emails “Take Care of your Blessings,” an acronym of her initials, TCB. This section looks at the revolutionary parenting and community-care practices modeled by marine mammals. Consider singing seals, who use delayed implantation to give birth when and where they want life to enter or marine otters who make their bodies into rafts for their children. Note crabeater seals, who organize themselves to protect parent–child bonding, and the range of what scientists call the allomaternal behavior of marine mammals that adopt each other beyond birth relation or even species. The question is, how can we best care for each other across generations, borders, and other barriers? Or as Audre Lorde said, “we must be very strong/and love each other/ in order to go on living.”49
 
-Zapatistas: Zapatista Stories for Dreaming An-Other World
-----------
+### Zapatistas: Zapatista Stories for Dreaming An-Other World
+
 > Old Antonio says that the eldest of the elderss told him that the sassembly of the first gods, those who gave birth to the world, happened very long ago, so long ago, in fact, that thime didn't exist yet.   And the elders said tha t in that assembly each of the gods spoke their word and each said "The thoughts I have are different from those of the others"  At that point, the gods fell silent , because they realized that wehn each of them said "the others" they meant different "others."
 
-Joy Harjo
----------
+### Joy Harjo
+
 >Remember your birth, how your mother struggled
 > to give you form and breath. You are evidence of
 > her life, and her mother’s, and hers.
 
-Winona LaDuke, ‘A Society Based on Conquest Cannot be Sustained’, in R. Hofrichter (ed.), Toxic Struggles (Philadelphia: New Society, 1993), pp. 99–100. Italics added.
------------------------------------------------
+### Winona LaDuke, ‘A Society Based on Conquest Cannot be Sustained’, 
+* in R. Hofrichter (ed.), Toxic Struggles (Philadelphia: New Society, 1993), pp. 99–100. 
+
 > all parts of the natural order flow in cycles – whether those cycles belong to the moon, the tides, our bodies, seasons, or life itself. Within this understanding is a clear sense of birth and rebirth and a knowledge that what one does today will effect one in the future, on the return. ... A second concept, reciprocal relations, defines the responsibilities and ways of relating between humans and the ecosystem. ... Thus, one could not take life { for food } without a reciprocal offering ... you take only what you need and leave the rest.’ 
 
-Ariel Salleh, Ecofeminism as Politics  
---------------------------------------
+### Ariel Salleh, Ecofeminism as Politics  
+
 > But it is the antithesis of the current trend to labour specialisation which leads only to alienation and entropy – in physical and philosophic systems. Ruddick’s concept of ‘holding’ is especially relevant to ecopolitics.
-  > To hold means to minimize risk and to reconcile differences rather than to sharply accentuate them. Holding is a way of seeing with an eye toward maintaining the minimal harmony, material resources, and skills necessary for sustaining a child in safety. It is the attitude elicited by ‘world protection, world-preservation, world repair ... the invisible
-weaving of a frayed and threadbare family life’. 
+  > To hold means to minimize risk and to reconcile differences rather than to sharply accentuate them. Holding is a way of seeing with an eye toward maintaining the minimal harmony, material resources, and skills necessary for sustaining a child in safety. It is the attitude elicited by ‘world protection, world-preservation, world repair ... the invisible weaving of a frayed and threadbare family life’. 
 > Unlike capitalist patriarchal Man, Aboriginal peoples do not dig in to territory for fear of losing it, so emptying out its life-giving force; rather they move through country in the knowledge that nature will replenish and provide for them again when they return.
 
->Holding opens people to a self-consciousness that is quite at odds with the cogito of the masculine unitary subject. Women, says Carol Gilligan, are inclined to work out their ethical ‘responsibilities’ integrating thought, feeling, and relational context. Feminist ethics move away from abstracted formulas such
-as ‘rights’ into an extrapolation of caring experience. 44 Holding is based neither on separation and control of Others, nor on some ephemeral cosmic fusion, but on practical deferral. It exemplifies a strong, decentred subject. The origins of this non-identity are overdetermined.
+>Holding opens people to a self-consciousness that is quite at odds with the cogito of the masculine unitary subject. Women, says Carol Gilligan, are inclined to work out their ethical ‘responsibilities’ integrating thought, feeling, and relational context. Feminist ethics move away from abstracted formulas such as ‘rights’ into an extrapolation of caring experience. 44 Holding is based neither on separation and control of Others, nor on some ephemeral cosmic fusion, but on practical deferral. It exemplifies a strong, decentred subject. The origins of this non-identity are overdetermined.
 
 > Similarly, women’s caring for sick infants and ageing parents brings them in touch with permeability and ‘contamination’. Bodies on the margin of nature dribble, smell, ooze, flake, even decay before our eyes. Women have the patriarchally accorded privilege of touching and holding together the fragments of human non-identity in this mesh of enduring time. Men bleed, urinate, ejaculate, but the discourse of mastery forces them to be contemptuous of bodily flows. Capitalist patriarchal languages and institutions offer men an armoury of externalising gestures to bolster their separateness from matter. What they get is desensitisation, a false sense of individualism, crippling loneliness, and destructive compensatory drives
 
 > An embodied materialism rests on fusion of consciousness with field, and sensitivity to the impermanence of both, as they shape each other. Maybe the sensual symbiosis of having another human alive right inside one’s belly is the quintessence of this unbounded subjectivity?
 
 
-Haudenosaunee Matriarchs (Gantowisas)
-----------------------------------
-> The supply of food and gift items was in the hands of the Gantowisas, which meant that they had explicit responsibility for rendering and
-maintaining the Iroquoian gift economy. This was a clear expression of the resonance between the gift giving Earth and
-gift giving women: just as the mound beds were regarded as the breasts of Mother Earth, the corn her milk, so the gifting
-of the Gantowisas was compared with breast-feeding. Gift giving was considered a motherly action from which all
-people drew their lives.5
+### Haudenosaunee Matriarchs (Gantowisas)
 
-La création continue:
-> "Upon her death from carrying too many children, the Lynx was buried on Turtle Island, where she transformed into
-fertile Mother Earth, nourishing the people: corn, or “earth-milk,” grows from her breasts, squash from her navel,
-and beans from her feet. These are her daughters, the sacred Three Sisters"
+> The supply of food and gift items was in the hands of the Gantowisas, which meant that they had explicit responsibility for rendering and maintaining the Iroquoian gift economy. This was a clear expression of the resonance between the gift giving Earth and gift giving women: just as the mound beds were regarded as the breasts of Mother Earth, the corn her milk, so the gifting of the Gantowisas was compared with breast-feeding. Gift giving was considered a motherly action from which all people drew their lives.5
 
-> "The guiding image for the economy is Mother Earth herself, and as with earth, sharing and giving away out of an
-abundance are its supreme values. The gift is the lynchpin of the economy, patterned after the continuous gift giving of
-earth and sky."
+#### La création continue:
+> "Upon her death from carrying too many children, the Lynx was buried on Turtle Island, where she transformed into fertile Mother Earth, nourishing the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet. These are her daughters, the sacred Three Sisters"
+
+> "The guiding image for the economy is Mother Earth herself, and as with earth, sharing and giving away out of an abundance are its supreme values. The gift is the lynchpin of the economy, patterned after the continuous gift giving of earth and sky."
 
 > "Matriarchal gift giving supports the securing and maintenance of peace at all these levels." (Heidi Goettner Abendroth: Matriarchal Societies__)
 
-Antigone!
+#### Antigone!
 > The Clan mothers of the village had an ancient obligation to sit at the crossroads of war and feed the passing war parties of any and all sides in return for their villages being left unharmed. (Gantowisas, p 37)
+
 > The ego involved in responsibility is me and no one else, me with whom one would have liked to pair up a sister soul, from whom one would require substitution and sacrifice. (Levinas)
 
 
-Unstructured Notes
-====================
-
+## Unstructured Notes
 
 , we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
 * continuous creation t
