@@ -1,9 +1,7 @@
 OutlineMay5.txt
 
 # The Face of the Earth (*פְּנֵ֣י אֲדָמָֽה*): 
-
 ## An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
-
 
 For "Levinas and the Anarchy of the Good" Conference - July 3 to 5, 2023 - Kaunas, Lithuania
 
