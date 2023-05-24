@@ -8,8 +8,8 @@
 
 
 # Table of Contents
-1. [Abstract](##abstract)
-2. [Introduction](##introduction)
+1. [Abstract](#Abstract)
+2. [Introduction](#Introduction)
 3. [Heraclitus](#Heraclitus)
 
 ## ABSTRACT
