@@ -264,7 +264,7 @@ continouus creation and that relates to the nature
 FOOTNOTES
 =========
 
-[^1] Neely, Sol.  "On Becoming Human in Lingít Aaní: Encountering Levinas through Indigenous Inspirations", p. 99.  Environmental Philosophy, 13(1), Spring 2016, 83-104. doi: 10.5840/envirophil201642634
+[^1]: Neely, Sol.  "On Becoming Human in Lingít Aaní: Encountering Levinas through Indigenous Inspirations", p. 99.  Environmental Philosophy, 13(1), Spring 2016, 83-104. doi: 10.5840/envirophil201642634
 
 
 [^2]: ποταμοῖσι τοῖσιν αὐτοῖσιν ἐμβαίνουσιν ἕτερα καὶ ἕτερα ὕδατα ἐπιῤῥεῖ· καὶ ψυχαὶ δὲ ἀπὸ τῶν ὑγρῶν ἀναθυμιῶνται. (You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you. -- Wikipedia translation).  Fragment 12
@@ -295,14 +295,12 @@ Black Feminist Lessons from Marine Mammals, p. 151.
 
 [^13]: Joy Harjo, "Remember", https://poets.org/poem/remember-0
 
+[^14]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
 
+[^15]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
 
-[^4]: "On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre." Levinas, Totalite et infini, 5. Libre du Poche. 
+[^16]: Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
 
-[^5]: "Neither have we from body any idea of the beginning of motion. A body at rest affords us no idea of any active power to move; and when it is set in motion itself, that motion is rather a passion, than an action in it. For when the ball obeys the motion of a billiard stick, it is not any action of the ball, but bare passion: also when by impulse it sets another ball in motion that lay in its way, it only communicates the motion it had received from another, and loses in itself so much as the other received: which gives us but a very obscure idea of an active power moving in body, whilst we observe it only to transfer, but not produce any motion. For it is but a very obscure idea of power, which reaches not the production of the action, but the continuation of the passion."  [Locke, Essays Concerning Human Understanding -- "Of Power" XXI.04](https://www.gutenberg.org/files/10615/10615-h/10615-h.htm#chap2.21)  
+[^17]: Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
 
-[^6]: Check Hobbes' [Leviathan: The first Part, Of Man](https://en.wikisource.org/wiki/Leviathan/The_First_Part) for antihumanism of mechanism / materialism 
-
-[^7]: Find something in Gilles Deleuze. Empiricism and Subjectivity. Jon Roffe
-
-[^8]: Find References for these things in the various authors
+[^18]: Find References for these things in the various authors
