@@ -9,29 +9,29 @@ An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecologic
 ABSTRACT
 ========
 
+Part One
+========
+
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
-This paper will begin by considering Levinas's writiengs as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  Levinas's deepens the question of becoming through its conception as continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4] 
+This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
+
+
+This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a needy being into the world, breathed into the wold
+
+ Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4] 
 
 For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
 
-We will explore the black and indigenous understandings of maternity through  Ariel Salleh's[^7] ecological reading of Sara Ruddick's mothering as a loving practice of preservative holding [^8], Sarah Hrdy[^9] and Alexis Pauline Gumb's[^10] discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet[^11] [^12], and closing with a fragment from Joy Harjo's "Remember"[^13]:
+Part Two
+========  
+We will explore the black and indigenous understandings of maternity through  Ariel Salleh's[^7] ecological reading of Sara Ruddick's mothering as a loving practice of preservative holding [^8], (also mention here Genevieve Vaughan about motherers) Sarah Hrdy[^9] and Alexis Pauline Gumb's[^10] discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet[^11] [^12] -- her three daughters the sacred Three Sisters.
+
+We close closing with a fragment from Joy Harjo's "Remember"[^13]:
 
 > Remember your birth, how your mother struggled  
 > to give you form and breath. You are evidence of  
 > her life, and her mother’s, and hers.
-
-
-
-
-
-of barracks warrior-hero 
-        
-
-Upon her death from carrying too many children, the Lynx was buried on Turtle Island, where she transformed into
-fertile Mother Earth, nourishing the people: corn, or “earth-milk,” grows from her breasts, squash from her navel,
-and beans from her feet. These are her daughters, the sacred Three Sisters"
-
 
 
 , we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
