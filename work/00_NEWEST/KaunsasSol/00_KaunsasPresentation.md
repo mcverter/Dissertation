@@ -1,5 +1,3 @@
-OutlineMay5.txt
-
 # The Face of the Earth (*פְּנֵ֣י אֲדָמָֽה*): 
 ## An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
 
@@ -7,6 +5,12 @@ OutlineMay5.txt
 
 > "Don't break that tree. Trees are people too" 
 > -- Camille Dungy 
+
+
+# Table of Contents
+1. [Abstract](##abstract)
+2. [Introduction](##introduction)
+3. [Heraclitus](#Heraclitus)
 
 ## ABSTRACT
 
