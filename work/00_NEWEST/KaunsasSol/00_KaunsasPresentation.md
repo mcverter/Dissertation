@@ -34,22 +34,6 @@ We close closing with a fragment from Joy Harjo's "Remember"[^13]:
 > her life, and her mother’s, and hers.
 
 
-, we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
-* continuous creation t
-* the elemental as part of the earth
-* the breating of things
-* that our connection is not a collision of forces but a relationship with others and otherness
-* how then is the elemental connected to the person ?
-* sensibiilty and 
-* reconsideration of sensibility and the elemental 
-* maternal creation and the other stuff
-* and we can explore this realtionshi
-* a dual relatinship of having-been-born and giving-birth 
-continouus creation and that relates to the nature
-* it's the way that we are in touch with them and stuff
-* it's what exactly
-* we will illustrate taht with our little indigenous so and so 
-
 Introduction
 ===============
 
@@ -274,8 +258,29 @@ Antigone!
 > The ego involved in responsibility is me and no one else, me with whom one would have liked to pair up a sister soul, from whom one would require substitution and sacrifice. (Levinas)
 
 
-FOOTNOTES
+Unstructured Notes
+====================
 
+
+, we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
+* continuous creation t
+* the elemental as part of the earth
+* the breating of things
+* that our connection is not a collision of forces but a relationship with others and otherness
+* how then is the elemental connected to the person ?
+* sensibiilty and 
+* reconsideration of sensibility and the elemental 
+* maternal creation and the other stuff
+* and we can explore this realtionshi
+* a dual relatinship of having-been-born and giving-birth 
+continouus creation and that relates to the nature
+* it's the way that we are in touch with them and stuff
+* it's what exactly
+* we will illustrate taht with our little indigenous so and so 
+
+
+FOOTNOTES
+=========
 
 [^1] Neely, Sol.  "On Becoming Human in Lingít Aaní: Encountering Levinas through Indigenous Inspirations", p. 99.  Environmental Philosophy, 13(1), Spring 2016, 83-104. doi: 10.5840/envirophil201642634
 
