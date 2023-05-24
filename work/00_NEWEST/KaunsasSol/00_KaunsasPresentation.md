@@ -13,9 +13,9 @@
 3. [Heraclitus](#Heraclitus)
 4. [CONTINUOUS CREATION](#CONTINUOUS-CREATION)
 5. [THE ELEMENTAL AS THE FACE OF THE EARTH](#THE-ELEMENTAL-AS-THE-FACE-OF-THE-EARTH)
-6. [Levinas: Regeneration of generations](#Levinas:-Regeneration-of-generations)
-7. [Levinas: Amphibologous Oscillations](#Levinas:-Amphibologous-Oscillations )
-8. [Quantum and Relativity Physics, Temporalized Matter-Waves](#Quantum-and-Relativity-Physics,-Temporalized-Matter-Waves)
+6. [Levinas Regeneration of generations](#Levinas-Regeneration-of-generations)
+7. [Levinas: Amphibologous Oscillations](#Levinas-Amphibologous-Oscillations )
+8. [Quantum and Relativity Physics Temporalized Matter-Waves](#Quantum-and-Relativity-Physics-Temporalized-Matter-Waves)
 9. [Being born and Birthing instead of Being-towards death](#Being-born-and-Birthing-instead-of-Being-towards-death)
 10. [Granarchism](#Granarchism)
 11. [Black and Indigenous Matrisocial](#Black-and-Indigenous-Matrisocial)
@@ -135,7 +135,7 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
 8. Otherwise than Being
    * Sensibility 
 
-## Levinas: Regeneration of generations
+## Levinas Regeneration of generations
 
 For Levinas, the generative family demonstrates that, rather than merely issuing from an origin, existence is a continuous creation
 * Time as continuous creation, as the genesis of gendered generations, time as continuous regeneration 
@@ -143,7 +143,7 @@ For Levinas, the generative family demonstrates that, rather than merely issuing
 There is a sense in which Totality and Infinity may be read as if were the first Book of Moses, Genesis or בְּרֵאשִׁית, { There is a footnote here } the story of the regenerating engendering of generations.  It tells a story of life stage development, from the newborn nursing on the element through job and mature home ownership, through old age, through sex and sacrifice and murder, to the rebirth of a new subjectivity who begins the story at the start in naissance an . At the end you realize that the sacrifice and murder of the self is what constituted the infant at the beginning.
 
 
-## Levinas: Amphibologous Oscillations 
+## Levinas Amphibologous Oscillations 
 
 1. In accord with Levinas’s thinking of inspiration in terms of the literalness of respiration, they are composed with the cadence of breath and attuned to the systole and diastole of the heart.
 2. Oscillations and periodicities, sounds, rhythms, reverberations of Xennakis 
@@ -157,7 +157,7 @@ There is a sense in which Totality and Infinity may be read as if were the first
       > Indeed in the transcendence of intentionality diachrony is reflected, that is, the psyche itself, in which the inspiration of the same by the other is articulated as a responsibility for another, in proximity. Sensibility is in this way situated back in the human exception. But one has to go back from this reflection to the diachrony itself, which is the-one-for-the-other in proximity. It is then not a particular signification. The-one-for-another has the form of sensibility or vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
 
 
-## Quantum and Relativity Physics, Temporalized Matter-Waves
+## Quantum and Relativity Physics Temporalized Matter-Waves
 
   1. Totality and Infinity: Reimann/ Einstein curvature of space time  gravity  
      * Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.
