@@ -1,21 +1,21 @@
 OutlineMay5.txt
 
-The Face of the Earth (פְּנֵ֣י אֲדָמָֽה): 
-An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
+# The Face of the Earth (*פְּנֵ֣י אֲדָמָֽה*): 
 
-"Don't break that tree. Trees are people too" 
-  -- Camille Dungy 
+## An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
 
-ABSTRACT
-========
 
-Part One
+For "Levinas and the Anarchy of the Good" Conference - July 3 to 5, 2023 - Kaunas, Lithuania
+
+>> "Don't break that tree. Trees are people too" 
+>>  -- Camille Dungy 
+
+## ABSTRACT
 ========
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
-This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
-
+In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
 
 This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a needy being into the world, breathed into the wold
 
