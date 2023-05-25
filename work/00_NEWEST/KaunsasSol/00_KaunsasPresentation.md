@@ -131,10 +131,10 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
    * the idea of the heidegger as a being subsuming everything.  the being of beings.  
    * The environment: The real problem of Levinas scholars is that of the environment and so the defense of humanism has to be the articulate-able with the ecological consciousness. 
    * This theme has been explored by many others thinkers of Levinas
-   
-   >    "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
+   * Element as le face
+     >    "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
 
-   >    Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
+     >    Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
 
 2. In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. 
 3. Lingis, however, translates the face as side, explaining
@@ -173,7 +173,7 @@ There is a sense in which Totality and Infinity may be read as if were the first
 3. Examples / Quotes
    * Breathing: inspiration / expiration / respiration, etch
    
-     > The expression "in one's skin" is not a metaphor for the in-itself; it refers to a recurrence in the dead time or the meanwhile which separates inspiration and expiration, the diastole and systole of the heart beating dully against the walls of one's skin. The body is not only an image or figure here; it is the distinctive in-oneself of the contraction of ipseity and its breakup.12 This contraction is not an impossibility to forget oneself, to detach oneself from oneself, in the concern for oneself. It is a recurrence to oneself out of an irrecusable exigency of the other, a duty overflowing my being, a duty becoming a debt and an extreme passivity prior to the tran- quillity, still quite relative, in the inertia and materiality of things at rest. It is a restlessness and patience that support prior to action and passion. Here what is due goes beyond having, but makes giving possible. This recurrence is incarnation. In it the body which makes giving possible makes one other without alienating. For this other is the heart, and the goodness, of the same, the inspiration or the very psyche in the soul.
+     > The expression "in one's skin" is not a metaphor for the in-itself; it refers to a recurrence in the dead time or the meanwhile which separates inspiration and expiration, the diastole and systole of the heart beating dully against the walls of one's skin. The body is not only an image or figure here; it is the distinctive in-oneself of the contraction of ipseity and its breakup.12 This contraction is not an impossibility to forget oneself, to detach oneself from oneself, in the concern for oneself. It is a recurrence to oneself out of an irrecusable exigency of the other, a duty overflowing my being, a duty becoming a debt and an extreme passivity prior to the tranquillity, still quite relative, in the inertia and materiality of things at rest. It is a restlessness and patience that support prior to action and passion. Here what is due goes beyond having, but makes giving possible. This recurrence is incarnation. In it the body which makes giving possible makes one other without alienating. For this other is the heart, and the goodness, of the same, the inspiration or the very psyche in the soul.
    
     * River / Water / Heraclitus 
    
