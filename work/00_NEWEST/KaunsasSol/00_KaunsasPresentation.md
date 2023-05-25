@@ -244,13 +244,26 @@ The presence of these allomothers is essential for the evolution and development
 
 ### Zapatistas: Zapatista Stories for Dreaming An-Other World
 
-> Old Antonio says that the eldest of the elders told him that the assembly of the first gods, those who gave birth to the world, happened very long ago, so long ago, in fact, that thime didn't exist yet.   And the elders said tha t in that assembly each of the gods spoke their word and each said "The thoughts I have are different from those of the others"  At that point, the gods fell silent , because they realized that wehn each of them said "the others" they meant different "others."
+> Old Antonio says that the eldest of the elders told him that the assembly of the first gods, those who gave birth to the world, happened very long ago, so long ago, in fact, that thime didn't exist yet.   And the elders said that in that assembly each of the gods spoke their word and each said "The thoughts I have are different from those of the others"  At that point, the gods fell silent , because they realized that when each of them said "the others" they meant different "others."
+
+  * Levinas the third --> social as the other of the others
 
 ### Joy Harjo
 
 >Remember your birth, how your mother struggled
 > to give you form and breath. You are evidence of
 > her life, and her mother’s, and hers.
+
+### Kyle Taylor Lucas
+
+> Kyle Taylor Lucas, an enrolled member of the Tulalip Tribes (USA) and the Nlaka’pamux First Nation (Canada), speaks eloquently on the importance of the Olympia Port Blockade. “This struggle is important because our planet is on fire. As an indigenous woman, I feel a duty to honor my elders and the legacy of my ancestors in caring for this mother earth – and, moreover; I feel a responsibility to my grandchildren and the next seven generations to stand up to the economic machinery propped up by the government, specifically the Port of Olympia, in perpetuating the warming of this planet and the poisoning of water, essential to life. We call ourselves Water Protectors and we were especially inspired by the courageous stand taken at Standing Rock during DAPL. We indigenous peoples came together with our allies here at Olympia Stand to resist the Port of Olympia’s forced complicity in propping up dirty hydraulic fracturing in North Dakota that these proppants support.”
+
+### Earthfeather Sovereign
+
+> Earth-Feather explains that this attack on women is also an attack on the earth. “We give birth to the next seven generations. If there are no more women, there will be no more indigenous people of the land. Then [the oil companies] will be able to do whatever they want with the land.” We must choose whether we will allow corporations to defile nature and to rape native women or whether we will instead create a world of nurturance and care.” She affirms, “Native women are the most oppressed members of our society. If we help them to heal, everyone can heal.”
+
+
+
 
 ### Winona LaDuke, ‘A Society Based on Conquest Cannot be Sustained’, 
 * in R. Hofrichter (ed.), Toxic Struggles (Philadelphia: New Society, 1993), pp. 99–100. 
