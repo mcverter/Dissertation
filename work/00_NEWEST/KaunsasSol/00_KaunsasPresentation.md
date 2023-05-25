@@ -1,5 +1,5 @@
 # The Face of the Earth (*פְּנֵ֣י אֲדָמָֽה*): 
-## An Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
+## A Black and Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
 
 * For "Levinas and the Anarchy of the Good" Conference - July 3 to 5, 2023 - Kaunas, Lithuania
 
@@ -25,14 +25,15 @@
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
- In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism 
+The first part of this paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism 
 > As they step into the same rivers, different and still different waters flow upon them[^2] 
 into his nakedly political assertion 
+
 > War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free.[^3]  
 
 This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a needy being into the world, breathed into the wold
 
- Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 
+ Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the Jewish morning prayer taken from Psalm 104:30 
  > When you send your breath/spirit, they are created,  and you renew the face of the earth[^4] 
 
 For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
@@ -54,7 +55,8 @@ In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of 
 ## Heraclitus
 
 To do this, we begin by considering Levinas's work as an inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the
-> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]  
+> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]   
+ 
 This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
 
@@ -209,6 +211,7 @@ There is a sense in which Totality and Infinity may be read as if were the first
     * mothering as birthing 
     * birthing/bornness is the respiration 
     * Lurianic birth pangs
+   
     >    Or do the being encumbered with oneself and the suffering of constriction in one's skin, better than metaphors, follow the exact trope of an alteration of essence, which inverts, or would invert, into a recurrence in which the expulsion of self outside of itself is its substitution for the other?
 
 ## Granarchism
@@ -279,7 +282,7 @@ The presence of these allomothers is essential for the evolution and development
 
 ## Unstructured Notes
 
-, we find a argument agains this that the relationship of being and becoming is one of continuous creation,  
+, wse find a argument agains this that the relationship of being and becoming is one of continuous creation,  
 * continuous creation t
 * the elemental as part of the earth
 * the breating of things
