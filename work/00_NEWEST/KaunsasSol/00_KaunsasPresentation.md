@@ -25,11 +25,15 @@
 
 In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."[^1].  The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world. 
 
-(1) In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism "As they step into the same rivers, different and still different waters flow upon them”[^2] into his nakedly political assertion "War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free."[^3]  
+ In the first part of this This paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism 
+> As they step into the same rivers, different and still different waters flow upon them[^2] 
+into his nakedly political assertion 
+> War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free.[^3]  
 
 This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a needy being into the world, breathed into the wold
 
- Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 "When you send your breath/spirit, they are created,  and you renew the face of the earth"[^4] 
+ Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the the Jewish morning prayer taken from Psalm 104:30 
+ > When you send your breath/spirit, they are created,  and you renew the face of the earth[^4] 
 
 For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
 
@@ -49,7 +53,9 @@ In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of 
 
 ## Heraclitus
 
-To do this, we begin by considering Levinas's work as an inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the "obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought."[^3]  This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
+To do this, we begin by considering Levinas's work as an inversion to not just Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the
+> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]  
+This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's billiard ball empiricism[^4] and Hobbes's mechanistic[^5] and Hume[^6], Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.[^7]  
 
 
 Levinas's response to this Heraclitus's truth of becoming as war takes many forms
@@ -94,16 +100,22 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
 
   * Bergson: continued vs continuous -- 
     * pointilism of time of moments, levinas has complex and creative moments of creative duration
-    * Kherimov: The conception of the divisibility of time being necessary for Cartesian mechanics, the idea of motion implicates at once the divisibility of time and the divisibility of matter 
-    * Bergson: In following the second, on the contrary, he would have been led to all the consequences which the intuition of true duration implies. Creation would have appeared not simply as continued, but also as continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present
+    
+    > Kherimov: The conception of the divisibility of time being necessary for Cartesian mechanics, the idea of motion implicates at once the divisibility of time and the divisibility of matter
+
+    > Bergson: In following the second, on the contrary, he would have been led to all the consequences which the intuition of true duration implies. Creation would have appeared not simply as continued, but also as continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present
   * Unforseeable  
-    * 33 Henri Bergson (2007), L’évolution créatrice, p. 30: « a continuous creation of an unforeseeable form ».
-    * 67 Henri Bergson (2017), L’évolution du problème de la liberté, p. 201: « the human being finds before himself nature and truth that have already been created ».
+    
+    > 33 Henri Bergson (2007), L’évolution créatrice, p. 30: « a continuous creation of an unforeseeable form ».
+    
+    > 67 Henri Bergson (2017), L’évolution du problème de la liberté, p. 201: « the human being finds before himself nature and truth that have already been created ».
   * Life Death rebirth: Jean Wahl
-    * « [the] thought of death and the thought of forgetting—it is under this double form that the idea of the independence of moments of time is affirmed here »75. Jean Wahl
+    > « [the] thought of death and the thought of forgetting—it is under this double form that the idea of the independence of moments of time is affirmed here »75. Jean Wahl
   * Indeterminacy and freedom
-    * something like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
-    * From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
+    
+    > something like continuous (as opposed to continued) creation can be glimpsed. What the adjective « continue » suggests here is a kind of creation that never ceases to be creative (in the full sense of the word), inventive, free. It is a creation whose future is indeterminate, unforeseeable, a creation that cannot but unfold « from one moment to another [d'un instant à l'autre] »92. There is something dreamlike or ghostlike about human beings in their freedom. What makes us free is that we comprehend neither whence we are coming nor whither we are going.
+    
+    > From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
 
 ## THE ELEMENTAL AS THE FACE OF THE EARTH
 
@@ -115,10 +127,12 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
    * This theme has been explored by many others thinkers of Levinas
    
    >    "Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément."
+
    >    Or rather it has but a side: the surface of the sea and of the field, the edge of the wind; the medium upon which this side** takes form is not composed of things.
 
 2. In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. 
 3. Lingis, however, translates the face as side, explaining
+   
    > “It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.”70 Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  70 Ibid., p. 131. Translator’s footnote.  3. Element and Things, Implements
 
 4. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
@@ -149,11 +163,17 @@ There is a sense in which Totality and Infinity may be read as if were the first
 2. Oscillations and periodicities, sounds, rhythms, reverberations of Xennakis 
 3. Examples / Quotes
    * Breathing: inspiration / expiration / respiration, etch
+   
      > The expression "in one's skin" is not a metaphor for the in-itself; it refers to a recurrence in the dead time or the meanwhile which separates inspiration and expiration, the diastole and systole of the heart beating dully against the walls of one's skin. The body is not only an image or figure here; it is the distinctive in-oneself of the contraction of ipseity and its breakup.12 This contraction is not an impossibility to forget oneself, to detach oneself from oneself, in the concern for oneself. It is a recurrence to oneself out of an irrecusable exigency of the other, a duty overflowing my being, a duty becoming a debt and an extreme passivity prior to the tran- quillity, still quite relative, in the inertia and materiality of things at rest. It is a restlessness and patience that support prior to action and passion. Here what is due goes beyond having, but makes giving possible. This recurrence is incarnation. In it the body which makes giving possible makes one other without alienating. For this other is the heart, and the goodness, of the same, the inspiration or the very psyche in the soul.
+   
     * River / Water / Heraclitus 
+   
       > Rather than being a metaphor taken from the movement of waters in a river, would not flowing be the very temporality of time and the "science" of which "consciousness" (conscience) is made? To speak of time in terms of flowing is to speak of time in terms of time and not in terms of temporal events.18 The temporalization of time-the openness by which sensation manifests itself, is felt, modifies itself without altering its identity, doubling itself up by a sort of diastasis of the punctual, putting itself out of phase with itself-is neither an attribute nor a predicate expressing a causality "sensed" as a sensation. The temporal modification is not an event, nor an action, nor the effect of a cause. It is the verb to be.
+   
       > The ego is in itself like a sound that would resound in its own echo, the node of a wave which is not once again consciousness.6 The term in recurrence will be sought here beyond or on the hither side of consciousness and its play, beyond or on the hither side of being which it thematizes, outside of being, and thus in itself as in exile. 
+   
     * Diachrony, Systole / Diastole, Heart Beat, etc.
+   
       > Indeed in the transcendence of intentionality diachrony is reflected, that is, the psyche itself, in which the inspiration of the same by the other is articulated as a responsibility for another, in proximity. Sensibility is in this way situated back in the human exception. But one has to go back from this reflection to the diachrony itself, which is the-one-for-the-other in proximity. It is then not a particular signification. The-one-for-another has the form of sensibility or vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
 
 
@@ -169,13 +189,15 @@ There is a sense in which Totality and Infinity may be read as if were the first
        towards the Other, a different hyperbolic Riemann curvature of intersubjective
        space.
   2. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluctuation of the continuous creation of becoming
-  3. De Broglie called this wave the "phase wave" («onde de phase» in French)
-  4. Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.  
-  * The audio mark we leave on the world with our communal electronics usage
-  * How the Hum of a Fridge Can Tell the Time
-    https://www.wnycstudios.org/podcasts/otm/segments/how-hum-lightbulb-can-tell-time-on-the-media?tab=summary
-  * Matter as an intersection with itself.  A standing wave.s
+  3. Matter as an intersection with itself.  A standing wave.s
 
+  4. De Broglie called this wave the "phase wave" («onde de phase» in French)
+  5. Electric Network Frequency
+     * Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.  
+     * The audio mark we leave on the world with our communal electronics usage
+     * How the Hum of a Fridge Can Tell the Time
+     *  https://www.wnycstudios.org/podcasts/otm/segments/how-hum-lightbulb-can-tell-time-on-the-media?tab=summary
+  
 ## Being born and Birthing instead of Being-towards death
 
 1. Substitution is Metaphor
