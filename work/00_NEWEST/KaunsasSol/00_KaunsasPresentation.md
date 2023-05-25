@@ -27,6 +27,7 @@ In a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of 
 
 The first part of this paper will begin by considering Levinas's writings as a response to Heraclitus's thinking of becoming -- thinking that flows from his aphorism 
 > As they step into the same rivers, different and still different waters flow upon them[^2] 
+
 into his nakedly political assertion 
 
 > War is the master-father of all beings;  and some he has made gods and some men, some slaves and some free.[^3]  
