@@ -36,7 +36,7 @@ This conception of the master-father as the source of Becoming is paradigmatic o
  Levinas's deepens the question of becoming by conceiving it as a continuous creation, as borne through metaphors found in Bergson and Descartes as well as the Jewish morning prayer taken from Psalm 104:30 
  > When you send your breath/spirit, they are created,  and you renew the face of the earth[^4] 
 
-For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
+For Levinas "la face de l'élément"[^5], the sensible material of becoming, becomes generated through regeneration, the generation of gendered generations.  Through the metaphor of substitution, Levinas replaces the metaphor of becoming through death central to the heroic myth of patrarichal warrior-hero[^6] with a dynamic of giving birth and having-been-born.  
 
 (2) We will explore the black and indigenous understandings of maternity through  Ariel Salleh's[^7] ecological reading of Sara Ruddick's mothering as a loving practice of preservative holding [^8], (also mention here Genevieve Vaughan about motherers) Sarah Hrdy[^9] and Alexis Pauline Gumb's[^10] discussions of allomothering as constituting matrisocial epigenetics,  the Gantowisa maternal culture of the Haudenosaunee and its myth of the fertile Mother Earth who nourishes the people: corn, or “earth-milk,” grows from her breasts, squash from her navel, and beans from her feet[^11] [^12] -- her three daughters the sacred Three Sisters.
 
@@ -135,10 +135,12 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
 2. In contrast to the visage, Levinas uses the French word face to describe the façade or surface of the elemental, the formless depth of materiality. 
 3. Lingis, however, translates the face as side, explaining
    
-   > “It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.”70 Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  70 Ibid., p. 131. Translator’s footnote.  3. Element and Things, Implements
+   > It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
+    
+   Yet readers should hear both the height of the visage and the depth of the face in the ethical confrontation of the face-à-face.  x
 
 4. In his essay on Hitlerism, the is embodied by a force the elemental forces of hitlerism
-5. humanism of the other is a series of essays responding to the antihumanism of merleua ponty and heidegger but also a struggle with nietzcheanism.  "Where unfaithfulness to Nietzsche is seen as blasphemy"
+5. humanism of the other is a series of essays responding to the antihumanism of Merleau-Ponty and heidegger but also a struggle with Nietzcheanism.  "Where unfaithfulness to Nietzsche is seen as blasphemy"
 6. Check "Time and the Other" / "Existence and Existents" for any connection between il y a and the element
 7. In Totality and Infinity 
    * The face of side of the element, 
@@ -148,6 +150,7 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
    * Check to see if he uses the word "inhuman" anywhere
    * which is the status of the
    * unforseeabilty of the future (Bergson)
+   
 8. Otherwise than Being
    * Sensibility 
 
@@ -181,8 +184,8 @@ There is a sense in which Totality and Infinity may be read as if were the first
 
 ## Quantum and Relativity Physics Temporalized Matter-Waves
 
-  1. Totality and Infinity: Reimann/ Einstein curvature of space time  gravity  
-     * Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height”75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.
+  1. Totality and Infinity: Reimann/ Einstein curvature of space-time  gravity  
+     * Levinas explains this distortion by using the metaphor of a “curvature of intersubjective space” 74 that deforms the synoptic viewpoint. He attributes this curvature to the fact that the Other appears in a “dimension of height” 75, yet the terminology of curvature implies another dimensional warping. Emerging out of 19th century research into non-Cartesian geometries and non-Euclidean spaces, the concept of curvature became famous in the 20th when Einstein employed the work of Bernard Riemann to explain how gravity bends light.
      * Although the Face-to-Face
        does describe a relationship between adult males, it would wrong to consider
        this relationship as the goal of one’s ethical development.  Although Levinas
@@ -218,7 +221,7 @@ There is a sense in which Totality and Infinity may be read as if were the first
 
 But is it possible to think outside of these patriarchal models?  Can we conceive of becoming in terms of regeneration rather than domination and creative destruction?  Can we consider community in terms of nurturance rather than dominion and property?
 
-My understanding of becoming is here influenced by French philosopher Emmanuel Levinas, whose writings describe how every stage of becoming becomes produced not from the collision of nameless forces but from relationships with other persons.  Levinas describes the emergent individual as being steeped within an elemental medium, filling itself with what is other than itself.  This relationship is fundamentally a metabolic one, in which the newborn entity relates to its environment as nourishment, feeding from the world in order to constitute its own selfhood.  However, the otherness of the world ultimately comes to us through relations with other persons.  Our subsistence and persistence in the world is already constituted by a debt to other people who have provided us with the material substance for existence.  The oxygen that constitutes the substance of our being once constituted the substance of another person. The products that we consume are the the alienated remnants of the lives of others, cadaverous remains of their  living labor-power.
+My understanding of becoming is here influenced by French philosopher Emmanuel Levinas, whose writings describe how every stage of becoming becomes produced not from the collision of nameless forces but from relationships with other persons.  Levinas describes the emergent individual as being steeped within an elemental medium, filling itself with what is other than itself.  This relationship is fundamentally a metabolic one, in which the newborn entity relates to its environment as nourishment, feeding from the world in order to constitute its own selfhood.  However, the otherness of the world ultimately comes to us through relations with other persons.  Our subsistence and persistence in the world is already constituted by a debt to other people who have provided us with the material substance for existence.  The oxygen that constitutes the substance of our being once constituted the substance of another person. The products that we consume are the alienated remnants of the lives of others, cadaverous remains of their  living labor-power.
 
 THe dynamic of human becoming isn't simply a metabolic one but also a generational one, resulting not only from the incorporation of our environment, but also from the events of birthing and childraising that connect us to generations of persons.  We are neither self-created nor spontaneously emergent but rather born into the world, dependent upon others for our sustenance.  Levinas refers to this combination of material and historical debt as an anarchy because it occurs before the person's beginning and as a maternity in which "I am bound to others before being tied to my own body"
 
@@ -233,11 +236,11 @@ The presence of these allomothers is essential for the evolution and development
 
 ### Alexis Pauline Gumbs
 
-> THE BLACK FEMINIST AUTHOR (AND pleasure activism ancestor!) Toni Cade Bambara used to sign her emails “Take Care of your Blessings,” an acronym of her initials, TCB. This section looks at the revolutionary parenting and community-care practices modeled by marine mammals. Consider singing seals, who use delayed implantation to give birth when and where they want life to enter or marine otters who make their bodies into rafts for their children. Note crabeater seals, who organize themselves to protect parent–child bonding, and the range of what scientists call the allomaternal behavior of marine mammals that adopt each other beyond birth relation or even species. The question is, how can we best care for each other across generations, borders, and other barriers? Or as Audre Lorde said, “we must be very strong/and love each other/ in order to go on living.”49
+> THE BLACK FEMINIST AUTHOR (AND pleasure activism ancestor!) Toni Cade Bambara used to sign her emails “Take Care of your Blessings,” an acronym of her initials, TCB. This section looks at the revolutionary parenting and community-care practices modeled by marine mammals. Consider singing seals, who use delayed implantation to give birth when and where they want life to enter or marine otters who make their bodies into rafts for their children. Note crabeater seals, who organize themselves to protect parent–child bonding, and the range of what scientists call the allomaternal behavior of marine mammals that adopt each other beyond birth relation or even species. The question is, how can we best care for each other across generations, borders, and other barriers? Or as Audre Lorde said, “we must be very strong/and love each other/ in order to go on living.” 49
 
 ### Zapatistas: Zapatista Stories for Dreaming An-Other World
 
-> Old Antonio says that the eldest of the elderss told him that the sassembly of the first gods, those who gave birth to the world, happened very long ago, so long ago, in fact, that thime didn't exist yet.   And the elders said tha t in that assembly each of the gods spoke their word and each said "The thoughts I have are different from those of the others"  At that point, the gods fell silent , because they realized that wehn each of them said "the others" they meant different "others."
+> Old Antonio says that the eldest of the elders told him that the assembly of the first gods, those who gave birth to the world, happened very long ago, so long ago, in fact, that thime didn't exist yet.   And the elders said tha t in that assembly each of the gods spoke their word and each said "The thoughts I have are different from those of the others"  At that point, the gods fell silent , because they realized that wehn each of them said "the others" they meant different "others."
 
 ### Joy Harjo
 
@@ -282,21 +285,21 @@ The presence of these allomothers is essential for the evolution and development
 
 ## Unstructured Notes
 
-, wse find a argument agains this that the relationship of being and becoming is one of continuous creation,  
+* we find a argument against this that the relationship of being and becoming is one of continuous creation,  
 * continuous creation t
 * the elemental as part of the earth
-* the breating of things
+* the breathing of things
 * that our connection is not a collision of forces but a relationship with others and otherness
 * how then is the elemental connected to the person ?
 * sensibiilty and 
 * reconsideration of sensibility and the elemental 
 * maternal creation and the other stuff
-* and we can explore this realtionshi
-* a dual relatinship of having-been-born and giving-birth 
-continouus creation and that relates to the nature
+* and we can explore this realtionship
+* a dual relationship of having-been-born and giving-birth 
+* continuous creation and that relates to the nature
 * it's the way that we are in touch with them and stuff
 * it's what exactly
-* we will illustrate taht with our little indigenous so and so 
+* we will illustrate that with indigenous and black examples 
 
 
 FOOTNOTES
