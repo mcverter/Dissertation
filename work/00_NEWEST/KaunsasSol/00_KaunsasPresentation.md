@@ -120,6 +120,9 @@ Levinas's response to this Heraclitus's truth of becoming as war takes many form
     
     > From the standpoint of universal mechanism, creation is indeed continued: due to the selfsameness of God’s activity, the future is determinable on the basis of the present. From the standpoint of human freedom, on the other hand, creation is continuous, which means that the future is unforeseeable, indeterminate. The time of continuous creation is the time of freedom. Yet, human freedom is inextricably connected with human finitude. To be free for a human being is to be in doubt concerning the future, concerning one’s destination. If Descartes’ chief motivation for continued creation stems from the thesis about the reciprocal independence of temporal moments, then it can be explained equally well by the project of mechanism and by human finitude. If I may cease to exist at the next moment, then the present moment does not entail the existence of the next one. Thus, we see Descartes’ decision to make freedom an exception to mechanism result in two divergent aspects of one and the same doctrine of creation: continued versus continuous creation.
 
+    *  "from one moment to another" [d'un instant à l'autre]
+      * We are always become other through time 
+
 ## THE ELEMENTAL AS THE FACE OF THE EARTH
 
 1. Introduction
