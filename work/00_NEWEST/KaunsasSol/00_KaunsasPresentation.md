@@ -255,15 +255,28 @@ The presence of these allomothers is essential for the evolution and development
 > her life, and her mother’s, and hers.
 
 ### Kyle Taylor Lucas
+* https://olywip.org/olympia-fracking-blockade-indigenous-peoples-speak/
 
 > Kyle Taylor Lucas, an enrolled member of the Tulalip Tribes (USA) and the Nlaka’pamux First Nation (Canada), speaks eloquently on the importance of the Olympia Port Blockade. “This struggle is important because our planet is on fire. As an indigenous woman, I feel a duty to honor my elders and the legacy of my ancestors in caring for this mother earth – and, moreover; I feel a responsibility to my grandchildren and the next seven generations to stand up to the economic machinery propped up by the government, specifically the Port of Olympia, in perpetuating the warming of this planet and the poisoning of water, essential to life. We call ourselves Water Protectors and we were especially inspired by the courageous stand taken at Standing Rock during DAPL. We indigenous peoples came together with our allies here at Olympia Stand to resist the Port of Olympia’s forced complicity in propping up dirty hydraulic fracturing in North Dakota that these proppants support.”
 
 ### Earthfeather Sovereign
 
+* https://olywip.org/olympia-fracking-blockade-indigenous-peoples-speak/
+
 > Earth-Feather explains that this attack on women is also an attack on the earth. “We give birth to the next seven generations. If there are no more women, there will be no more indigenous people of the land. Then [the oil companies] will be able to do whatever they want with the land.” We must choose whether we will allow corporations to defile nature and to rape native women or whether we will instead create a world of nurturance and care.” She affirms, “Native women are the most oppressed members of our society. If we help them to heal, everyone can heal.”
 
+### Ricardo Flores Magon; *tequio*
 
-
+1. MOVEMENT FOUR: EXILE
+   1. In this period of the Porfiriato Ricardo Flores Magon was born in San Antonio Eloxochitlan, a small town in the north of the state of Oaxaca.
+   2.  According to Ricardo Flores Magon and his brother Enrique, this community survives in a life of mutual support. He says: 
+        >  Some four million Indians live in Mexico who, until twenty or twenty-five years ago, lived in communities owning land, water, and forests in common. Mutual support was the rule in those communities in which the Authority was only felt when the agent of the collection of rents made his periodic appearance or when the rurales arrived in looking for men to force them into the Army. In these communities there were no judges, nor mayors, nor jailers, nor any moth of that class. Everyone had the right to the land, to water for irrigation and to the forest for firewood and wood to build the huts. The plows went from hand to hand, as well as the pairs of oxen. Each family tilled their extension of land, which they calculated to be sufficient to produce what they needed, and the work of weeding and raising the crops was done in common, with the entire community coming together today to harvest Pedro's harvest and tomorrow to harvest Juan's. and so on. To make a jacal, all the members of the community got to work. 
+   
+   3. So this description may sound a bit sentimental to us who live in cultures of individualism, but that's the truth. 
+   4. For centuries until today, peasants practice a form of mutual support called "tequio", doing communal tasks to support the entire community.
+   5. When I visit the town of Eloxochitlan myself, people were preparing to build a road.
+   6. And more, I want to proclaim that this is one of the most important aspects of being indigenous
+   7. Indigenismo is not a question of race, of ethnic origin. Instead, it is a way of orienting, it is a relationship that people have towards the environment and to each other, and also to the ancestors and the generations that follow.
 
 ### Winona LaDuke, ‘A Society Based on Conquest Cannot be Sustained’, 
 * in R. Hofrichter (ed.), Toxic Struggles (Philadelphia: New Society, 1993), pp. 99–100. 
