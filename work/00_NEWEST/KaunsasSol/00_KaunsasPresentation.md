@@ -198,8 +198,8 @@ There is a sense in which Totality and Infinity may be read as if were the first
        towards the Other, a different hyperbolic Riemann curvature of intersubjective
        space.
   2. Material things as a standing wave, as an interference pattern, a deBroglie wave packet or matter wave, the amphibology of a standing presence and a fluctuation of the continuous creation of becoming
-  3. Matter as an intersection with itself.  A standing wave.s
-
+  3. Matter as an intersection with itself.  A standing wave.
+     * Investigate "corpuscles" in Bergson.  This also has to do with matter vs wave, ether, etc.   
   4. De Broglie called this wave the "phase wave" («onde de phase» in French)
   5. Electric Network Frequency
      * Background radiation.    Electrical network frequency (ENF) analysis is an audio forensics technique for validating audio recordings by comparing frequency changes in background mains hum in the recording with long-term high-precision historical records of mains frequency changes from a database. In effect the mains hum signal is treated as if it were a time-dependent digital watermark that can help identify when the recording was created, detect edits in the recording, or disprove tampering of a recording.  
