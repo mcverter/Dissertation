@@ -19,7 +19,8 @@
 9. [Being born and Birthing instead of Being-towards death](#Being-born-and-Birthing-instead-of-Being-towards-death)
 10. [Granarchism](#Granarchism)
 11. [Black and Indigenous Matrisocial](#Black-and-Indigenous-Matrisocial)
-
+12. [Bibliography](#bibliography)
+12. [Footnotes](#footnotes)
 
 ## ABSTRACT
 
