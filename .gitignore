@@ -11,3 +11,6 @@
 *lock
 .history
 OriginalTexts
+
+.DS_Store
+.idea
