@@ -368,6 +368,8 @@ Filmer etc
 * Ruddick, Sarah.  Maternal Thinking: Towards a Politics of Peace, p. 656 ff.
 * Salleh, Ariel. ECOFEMINISM AS POLITICS: NATURE, MARX AND THE POSTMODERN.
 
+[More Bibliography](../Bibliography/Bibliography.md)
+
 FOOTNOTES
 =========
 
