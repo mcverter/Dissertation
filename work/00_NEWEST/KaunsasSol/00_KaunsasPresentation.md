@@ -20,7 +20,8 @@ wolodichnon
 
 Phenomenal, non?
 I don't know what it means. 
-I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land, where Sol Taught at University of Alaska Southeast (UAS), what thTlingit/Inupiaq writer Ishmael Angaluuk Hope calls the "Raven Creator Bioregion" 
+I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land, where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope.  Hope explains that through the wild trickster Raven are told epic stories of the transfomration of the land of the Tinglit
+
 
 ![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](./CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
 
