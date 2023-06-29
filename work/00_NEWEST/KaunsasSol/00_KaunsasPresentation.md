@@ -53,7 +53,10 @@ SOL NOTES
 eco-phenomenology. For example, there is an interview with Levinas to which many eco-phenomenologists appeal in which Levinas is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.” Responses to Levinas’s lack of a response vary:
 
 ### THE POWER OF THE NEGATiVE. THE UNKNOWING, THE OTHERNESS
-The Other in Parmenides is non-being.  Quote from Levinas here
+* The Other in Parmenides is non-being.  
+* Quote from Levinas here Theory of Intuition
+* Weird interpretation of some that the *il y a* in Levinas, the hum of negation that persists after the elimination of any particular beings, is something bad.
+* but ths negativity is the crux of otherness, exploration of this negativity is what Levinas explores over and over
 
 “I don’t know if a snake has a face”—then—is not to hierarchize the human over the other-than-human in the reductive speciesism Levinas’s critics want to attribute to him; rather, it’s to say, I don’t know if a snake (or even stones or streams) experiences revelation and inspiration in this way that constitutes my humanity. To become human, however, is to take up this responsiveness.
 
@@ -93,12 +96,25 @@ The face-to-face is a man-to-man faceoff, a reconsideration of Hegel’s struggl
 
 
 Iconoclasm Anarchic, Faceless Levinas
-In his later work, Levinas stops using the language of the face
-Prevents the ontological error of thinking the face is a thing
-His work foregrounds the depths from which subjectivity is given birth by maternity
+* In his later work, Levinas stops using the language of the face
+* Prevents the ontological error of thinking the face is a thing
+* His work foregrounds the depths from which subjectivity is given birth by maternity
 Faceless becoming
 
 
+
+
+
+
+['./']()
+
+
+on al lingis: i visited him in baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
+![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
+
+![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
+
+![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
 
 
 
@@ -109,17 +125,8 @@ in jewish, the schul, the learning center,
 teaching as allomothering
 
 ![Sol Neely, Granarchist!](AllomotheringFlyingUniversity.PNG "Sol Neely, Granarchist")
-
-['./']()
 LEmon Creek Correctional Facility 
 
-
-on al lingis: i visited him in baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
-![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
-
-![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
-
-![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
 
 
 
