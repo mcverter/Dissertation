@@ -34,6 +34,16 @@ The sound of Sol's speech begins with the regard of an other person, the smiling
 
 We tricksters have to honor each other so I give this talk in honor of Sol Neely 
 
+Eric Garret:
+    two weeks ago exactly we lost a friend a
+    father husband son teacher activist and
+    a great Levinas scholar Dr Sal
+    janeeli Saul was a force of nature he
+    was the epitome of action and kindness
+    itself
+    so quipped that when he passed he went
+
+
 We must hear the speaking of Sol Neely again, allow us to inspire us, listen to his recurrent cry to hear Levinas translated 
 n a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."1. The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world.
 
