@@ -1,4 +1,4 @@
-[![Sol Neely Cherokee Introduction](CherokeeSol.PNG)](https://www.youtube.com/clip/UgkxpS_nhypcYH4Wj3dLVScyy020w5jWxXC9)
+[![Sol Neely Cherokee Introduction](images/CherokeeSol.PNG)](https://www.youtube.com/clip/UgkxpS_nhypcYH4Wj3dLVScyy020w5jWxXC9)
 
 >>Chalagi gadi soli dagudoa  
 Sol Neely daguadoa  
@@ -26,7 +26,7 @@ Sol/Vinzenor:
 * Trickster stories are the translation of liberation, and the shimmer of imagination is the liberation of the last trickster stories. ( Manifest Manners,
 * and (3) recover the polyhistorical mind of a “trickster hermeneutics”—as a translation of creation and liberation—that enables a rich encounter with story and the deep, abiding kinship it supports. 
 
-![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](./CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
+![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
 
 
 The sound of Sol's speech begins with the regard of an other person, the smiling face of his friend to say "me voici"
@@ -71,7 +71,7 @@ eco-phenomenology. For example, there is an interview with Levinas to which many
 
 # Faceless Levinas
 
-![Faceless Levinas](FacelessLevinas.jpg "Faceless Levinas")
+![Faceless Levinas](images/FacelessLevinas.jpg "Faceless Levinas")
 
 We will begin with the anarchy of a faceless Levinas, considering what Levinas means by the "face of the earth" in Totaltiy and Infinity the depht and gravity of materiality, of motherhood in Otherwise than Being. 
 
@@ -125,7 +125,7 @@ The van from Bloomington was running on vegetable oil or something and kept on s
 
 > It unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins.
 
-![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
+![The Face of the Element](images/FaceOfTheElement.PNG "The Face of the Element")
 
 
 > Translator’s Note: 
@@ -278,7 +278,7 @@ in indigenous it's the house
 in jewish, the schul, the learning center,
 teaching as allomothering
 
-![Sol Neely, Granarchist!](AllomotheringFlyingUniversity.PNG "Sol Neely, Granarchist")
+![Sol Neely, Granarchist!](images/AllomotheringFlyingUniversity.PNG "Sol Neely, Granarchist")
 LEmon Creek Correctional Facility 
 
 
