@@ -1,4 +1,3 @@
-import yt_dlp
 import os
 
 videos = [
@@ -14,7 +13,6 @@ videos = [
 
 for video in videos:
     url = video['url']
-    print(url)
     os.system(f'yt-dlp -x --audio-format mp3 --audio-quality 0 {url}')
 
 name = 'World'
