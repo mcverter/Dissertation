@@ -109,11 +109,24 @@ I dare Levinas scholars to become iconoclasts, like Abraham, to smash the idol o
 
 
 ### The Face is Not The Face
-
-on al lingis: i visited him in baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
+I visited World traveler, philosopher, translator Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
+
+![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")
+
+
 
 ![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
+Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence. »”
+It unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins.
+Translator’s Note: 
+It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
+The dimension here is *depth* as opposed to *height*
+Materiality, The Self attached to the Ego in Time and the Other
+Materiality of Maternity in Otherwise than Being
+Gravity, Curvature of Space Time, etc
+
+
 
 ![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
 
