@@ -18,16 +18,13 @@ digay
 wolodichnon  
 
 
-Phenomenal, non?
-I don't know what it means. 
+Phenomenal, non?  
+I don't know what it means.
+ 
 I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land (the word “lingít” means “human”), where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope.  Hope explains that through the wild trickster Raven are told epic stories of the transfomration of the land of the Tinglit.
-
-Trickster stories are the translation of liberation, and the shimmer of imagination is the liberation of the last trickster stories. ( Manifest Manners,
-and (3) recover the polyhistorical mind of a “trickster hermeneutics”—as a translation of creation and liberation—that enables a rich encounter with story and the deep, abiding kinship it supports. 
-
-
-
-
+Sol/Vinzenor:  
+* Trickster stories are the translation of liberation, and the shimmer of imagination is the liberation of the last trickster stories. ( Manifest Manners,
+* and (3) recover the polyhistorical mind of a “trickster hermeneutics”—as a translation of creation and liberation—that enables a rich encounter with story and the deep, abiding kinship it supports. 
 
 ![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](./CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
 
@@ -39,9 +36,6 @@ We tricksters have to honor each other so I give this talk in honor of Sol Neely
 
 We must hear the speaking of Sol Neely again, allow us to inspire us, listen to his recurrent cry to hear Levinas translated 
 n a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."1. The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world.
-
-
-
 
 SOL NOTES
 ==========
@@ -55,11 +49,10 @@ SOL NOTES
 * become human, to become Tlingít, means to take up our responsibility inspired by the voices of ancestry made legible through the language and the sounds of nature. To become human means becoming responsible in a rich kinship of human and other-than-human relations. This content downloaded from
 
 
-SNAKE FACE
-eco-phenomenology. For example, there is an interview with Levinas to which many eco-phenomenologists appeal in which
-Levinas is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.” Responses to Levinas’s lack of a response vary:
+### SNAKE FACE
+eco-phenomenology. For example, there is an interview with Levinas to which many eco-phenomenologists appeal in which Levinas is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.” Responses to Levinas’s lack of a response vary:
 
-THE POWER OF THE NEGATiVE. THE UNKNOWING, THE OTHERNESS
+### THE POWER OF THE NEGATiVE. THE UNKNOWING, THE OTHERNESS
 The Other in Parmenides is non-being.  Quote from Levinas here
 
 “I don’t know if a snake has a face”—then—is not to hierarchize the human over the other-than-human in the reductive speciesism Levinas’s critics want to attribute to him; rather, it’s to say, I don’t know if a snake (or even stones or streams) experiences revelation and inspiration in this way that constitutes my humanity. To become human, however, is to take up this responsiveness.
@@ -67,8 +60,6 @@ The Other in Parmenides is non-being.  Quote from Levinas here
 # Faceless Levinas
 
 ![Faceless Levinas](FacelessLevinas.jpg "Faceless Levinas")
-
-
 
 We will begin with the anarchy of a faceless Levinas, considering what Levinas means by the "face of the earth" in Totaltiy and Infinity the depht and gravity of materiality, of motherhood in Otherwise than Being. 
 
@@ -124,7 +115,17 @@ LEmon Creek Correctional Facility
 
 
 on al lingis: i visited him in baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
-!["Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
+![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
+
+![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
+
+![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
+
+
+
+
+
+
 
 
 
