@@ -113,7 +113,11 @@ I dare Levinas scholars to become iconoclasts, like Abraham, to smash the idol o
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
 I visited World traveler, philosopher, translator Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
 
+Shorty The Dog, snuck onto a Greyhound Bus
 ![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")
+
+The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.
+![Road to NALS 2007](./images/RoadToNALS2007.jpg "Road to NALS 2007")
 
 
 
