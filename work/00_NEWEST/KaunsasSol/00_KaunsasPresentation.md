@@ -62,11 +62,12 @@ eco-phenomenology. For example, there is an interview with Levinas to which many
 
 ### THE POWER OF THE NEGATiVE. THE UNKNOWING, THE OTHERNESS
 * The Other in Parmenides is non-being.  
+* "Parricide of Parmenides."  Already a joke about the collapse of this patriarchal model in Totality and Infinity
 * Quote from Levinas here Theory of Intuition
 * Weird interpretation of some that the *il y a* in Levinas, the hum of negation that persists after the elimination of any particular beings, is something bad.
 * but ths negativity is the crux of otherness, exploration of this negativity is what Levinas explores over and over
 
-“I don’t know if a snake has a face”—then—is not to hierarchize the human over the other-than-human in the reductive speciesism Levinas’s critics want to attribute to him; rather, it’s to say, I don’t know if a snake (or even stones or streams) experiences revelation and inspiration in this way that constitutes my humanity. To become human, however, is to take up this responsiveness.
+> SOL: I don’t know if a snake has a face”—then—is not to hierarchize the human over the other-than-human in the reductive speciesism Levinas’s critics want to attribute to him; rather, it’s to say, I don’t know if a snake (or even stones or streams) experiences revelation and inspiration in this way that constitutes my humanity. To become human, however, is to take up this responsiveness.
 
 # Faceless Levinas
 
@@ -116,19 +117,144 @@ I visited World traveler, philosopher, translator Alphonso Lingis at the Baltimo
 
 
 
+> Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence. »”
+
+> It unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins.
+
 ![The Face of the Element](./FaceOfTheElement.PNG "The Face of the Element")
-Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence. »”
-It unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins.
-Translator’s Note: 
-It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
-The dimension here is *depth* as opposed to *height*
-Materiality, The Self attached to the Ego in Time and the Other
-Materiality of Maternity in Otherwise than Being
-Gravity, Curvature of Space Time, etc
 
 
-
+> Translator’s Note: 
+> It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
 ![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
+
+* The dimension here is *depth* as opposed to *height*
+* Materiality, The Self attached to the Ego in Time and the Other
+* Materiality of Maternity in Otherwise than Being
+* Gravity, Curvature of Space Time, etc
+
+
+### "Elemental Forces" in "Reflections on the Philosophy of Hitlerism"
+Elemental Force as Polemos
+• But the primitive powers that burn within it burst open its wretched phraseology under the pressure of an 
+elementary force. They awaken the secret nostalgia within the German soul. Hitlerism is more than a 
+contagion or a madness; it is an awakening of elementary feelings. But from this point on, this 
+frighteningly dangerous phenomenon becomes philosophically interesting. For these elementary 
+feelings harbor a philosophy. 
+• The mysterious urgings of the blood, the appeals of heredity and the past for which the body serves as 
+an enigmatic vehicle, lose the character of being problems that are subject to a solution put forward by 
+a sovereignly free Self. Not only does the Self bring in the unknown elements of these problems in 
+order to resolve them; the Self is also constituted by these elements. 
+• But force is characterized by another type of propagation. The person who exerts force does not 
+abandon it. Force does not disappear among those who submit to it. It is attached to the personality or 
+society exerting it, enlarging that person or society while subordinating the rest. Here the universal order 
+is not established as a consequence of ideological expansion; it is that very expansion that constitutes 
+the unity of a world of masters and slaves. Nietzsche's will to power, which modern Germany is 
+rediscovering and glorifying, is not only a new ideal; it is an ideal that simultaneously brings with it its 
+own form of universalization: war and conquest
+
+
+### Continuous Creation 
+30 You will send forth Your spirit and they will be created, 
+and You will renew the face of the earth.
+ל תְּ שַׁ לַׁ ַּ֣ ח ר֖ וּֽ חֲָך יִ ב ּֽ רֵ א֑ ון וּ֜ תְּ חַׁ דֵֵּ֗ ש פְּ נֵ ַּ֣י אֲד מ ּֽ ה
+Psalm 104:29-30
+Descartes: it does not follow that we shall exist a moment from now, 
+unless there is some cause—the same cause which originally produced us—
+which continually reproduces us, as it were, that is to say, which keeps us in existence
+Bergson: Creation would have appeared not simply as continued, but also as 
+continuous. The universe, regarded as a whole, would really evolve. The 
+future would no longer be determinable by the present
+
+
+
+
+
+
+
+
+### Regeneration precedes πόλεμος 
+• Levinas’s doctrine of non-Heraclitean Becoming
+On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre, 
+• Levinas famously starts Totality and Infinity declaring that “We do not need obscure fragments of Heraclitus to prove that being reveals itself as war.”
+• Heraclitus whose dictum Πάντα ῥεῖ1, everything flows, is 
+complemented by his assertion that war is the master-father of all 
+beings2
+War (πόλεμος) is the father-master (πατήρ) of all beings; and some he has made gods and some men, some slaves and some free.
+This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock 
+explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or 
+commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a 
+needy being into the world, breathed into the wold
+This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's 
+billiard ball empiricism4 and Hobbes's mechanistic5 and Hume6, Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's 
+will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.7
+• Deleuze and Spinoza are widely influential in contemporary ecological thought in for example in for example post-humanist 
+philosopher Ross Bradiotti’s conception of a “Politics of Life as Bios/Zoe”. Heidegger in deep ecology, anarchoprimitivism, and ecophenomenology
+
+
+
+### Regeneration of generations
+For Levinas, the generative family demonstrates that, rather than merely issuing from an 
+origin, existence is a continuous creation
+• Time as continuous creation, as the genesis of gendered generations, time as 
+continuous regeneration
+There is a sense in which Totality and Infinity may be read as if were the first Book of 
+Moses, Genesis or ית ִׁאש ֵר ְּב, } There is a footnote here } the story of the regenerating 
+engendering of generations. It tells a story of life stage development, from the newborn 
+nursing on the element through job and mature home ownership, through old age, through 
+sex and sacrifice and murder, to the rebirth of a new subjectivity who begins the story at 
+the start in naissance an . At the end you realize that the sacrifice and murder of the self is 
+what constituted the infant at the beginning
+
+
+### Continuous Rebirthing at Every moment
+• This is emphasized not just as the family scheme but showing how it is at every moment this 
+reorientation
+• The expression "in one's skin" is not a metaphor for the in-itself; it refers to a recurrence in 
+the dead time or the meanwhile which separates inspiration and expiration, the diastole 
+and systole of the heart beating dully against the walls of one's skin. The body is not only an 
+image or figure here; it is the distinctive in-oneself of the contraction of ipseity and its 
+breakup.12 This contraction is not an impossibility to forget oneself, to detach oneself from 
+oneself, in the concern for oneself. It is a recurrence to oneself out of an irrecusable 
+exigency of the other, a duty overflowing my being, a duty becoming a debt and an extreme 
+passivity prior to the tranquillity, still quite relative, in the inertia and materiality of things at 
+rest. It is a restlessness and patience that support prior to action and passion. Here what is 
+due goes beyond having, but makes giving possible. This recurrence is incarnation. In it the 
+body which makes giving possible makes one other without alienating. For this other is the 
+heart, and the goodness, of the same, the inspiration or the very psyche in the soul.
+The temporalization of time-the openness by which sensation manifests itself, is felt, modifies itself without altering its identity, doubling itself up by a sort of diastasis of the 
+punctual, putting itself out of phase with itself-is neither an attribute nor a predicate expressing a causality "sensed" as a sensation.
+The ego is in itself like a sound that would resound in its own echo, the node of a wave which is not once again consciousness.
+the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
+deBroglie matter waves
+
+
+### Maternal Body
+◦ Indeed in the transcendence of intentionality diachrony is reflected, that is, the psyche itself, 
+in which the inspiration of the same by the other is articulated as a responsibility for 
+another, in proximity. Sensibility is in this way situated back in the human exception. But 
+one has to go back from this reflection to the diachrony itself, which is the-one-for-the-other 
+in proximity. It is then not a particular signification. The-one-for-another has the form of 
+sensibility or vulnerability, pure passivity or susceptibility, passive to the point of becoming 
+an inspiration, that is, alterity in the same, the trope of the body animated by the soul, 
+psyche in the form of a hand that gives even the bread taken from its own mouth. Here the 
+psyche is the maternal body.
+◦ Again the question of body, of gravity, of weight that he was working on, the curvature of 
+space-time in Totality nd Infinity 
+1. Or do the being encumbered with oneself and the suffering of constriction in one's skin, better 
+than metaphors, follow the exact trope of an alteration of essence, which inverts, or would invert, 
+into a recurrence in which the expulsion of self outside of itself is its substitution for the other?
+
+
+
+
+
+
+
+
+
+
+
 
 
 
