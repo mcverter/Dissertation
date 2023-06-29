@@ -247,7 +247,10 @@ into a recurrence in which the expulsion of self outside of itself is its substi
 
 
 
-
+Anarchic Materiality, the Matrisocial
+• Also bring in Kropotkin
+* Charondas in Aristotle
+* Barbara Mann eating out of the same bowl
 
 
 
