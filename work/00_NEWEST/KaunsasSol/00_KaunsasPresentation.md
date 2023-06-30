@@ -21,15 +21,19 @@ wolodichnon
 Phenomenal, non?  
 I don't know what it means.
  
-I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land (the word “lingít” means “human”), where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope. 
+I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land (the word “lingít” means “human”), where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope, named for the Raven trcikster whose stories narrate the transformations of the land
 
-![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
+![Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "[Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion")
 
-The sound of Sol's voice in the video begins with the image of the smiling face of his friend listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to learn from hearing the teaching of Sol Neely.
+The sound of Sol's voice in the video begins with the image of the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to learn from hearing the teaching of Sol Neely.
 
-In a 2016 paper, Sol Neely, our great friend, a father, a husband, a son, a teacher, an activist, and a great Levinas scholar, asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology", to learn from the Tinglit that becoming human means to becoming responsible in a rich kinship of human and other-than-human relations. The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world.
+In a 2016 paper, Sol Neely, our great friend, a father, a husband, a son, a teacher, an activist, and a great Levinas scholar, asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."  
 
-In his paper, Sol explains that several eco-phenonenologist have taken exception with an interview with Levinas, in shich he is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.”
+He learned to become human in Linglit `Aani where he situated himself as a professor at University of Alaska South East and The Flying University at The Lemon Creek Correctional Facility, learning from those around him that becoming human entailed becoming responsible in a rich kinship of human and other-than-human relations. 
+
+The question of how we relate to nature and how we will liberate the incarcerated seems especially pertinent right now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world [ Add something about prison abolition ].
+
+In his paper, Sol explains that several eco-phenonenologist have accused Levinas of setting up human beings at the top of a heirarchy among species based on an interview with Levinas, in which he is asked, “Does a snake have a face?” And he responds, “I don’t know if a snake has a face. I can’t answer that question.”
 
 Sol responds to these objections by responding that Levinas is not creating a heirarchy here but instead is his acknowledgment that animals and nature in general experiences revelation and inspiration in a different way than we do.
 
