@@ -27,15 +27,18 @@ I recognize only the names given to relations with others: Sol Neely,  Allensber
 
 The sound of Sol's voice in the video begins with the image of the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to learn from hearing the teaching of Sol Neely.
 
-In a 2016 paper, Sol Neely, our great friend, a father, a husband, a son, a teacher, an activist, and a great Levinas scholar, asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."  
+In a 2016 paper, our great friend, whom Eric Garrett describes as a father, a husband, a son, a teacher, an activist, and a great Levinas scholar, Sol Neely asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."  
 
-He learned to become human in Linglit `Aani where he situated himself as a professor at University of Alaska South East and The Flying University at The Lemon Creek Correctional Facility, learning from those around him that becoming human entailed becoming responsible in a rich kinship of human and other-than-human relations. 
+He learned to become human in Linglit 'Aani where he took responsibity as a professor at University of Alaska Southeast and at The Flying University at The Lemon Creek Correctional Facility, learning from those around him that becoming human entailed becoming responsible in a rich kinship of human and other-than-human relations. 
 
-The question of how we relate to nature and how we will liberate the incarcerated seems especially pertinent right now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world [ Add something about prison abolition ].
+The question of how we relate to nature and how we will liberate all beings seems especially pertinent right now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for abolishing the carceral state and the exploitation and decimation of the natural world and ending the carceral state.  
 
-In his paper, Sol explains that several eco-phenonenologist have accused Levinas of setting up human beings at the top of a heirarchy among species based on an interview with Levinas, in which he is asked, “Does a snake have a face?” And he responds, “I don’t know if a snake has a face. I can’t answer that question.”
+In his paper, Sol explains that several eco-phenonenologist have accused Levinas of setting up human beings at the top of a heirarchy among species based on an interview with Levinas, in which he is asked, “Does a snake have a face?” And he responds, “I don’t know if a snake has a face. I can’t answer that question.”  Sol responds to these objections by explaining that, instead of endorsing domination, Levinas is simply admitting that animals and nature in general experiences revelation and inspiration in a different way than we do.  His has no sovereign sovereign power to know the interiority of other beings. 
 
-Sol responds to these objections by responding that Levinas is not creating a heirarchy here but instead is his acknowledgment that animals and nature in general experiences revelation and inspiration in a different way than we do.
+
+DRAFT BELOW 
+=============
+
 
 I would add my own notes to this.  
 First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in the work of Levinas.  From the very beginning of his writing, he indicates that negation is one of the modes of alterity.  As he states even already in his doctoral thesis:  the existence  of material things contains in itself a nothingness, à possibility of not-being and reiterated in Otherwise than Being .
