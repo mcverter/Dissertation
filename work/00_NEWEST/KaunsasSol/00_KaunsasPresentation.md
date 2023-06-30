@@ -35,16 +35,18 @@ The question of how we relate to nature and how we will liberate all beings seem
 
 In his paper, Sol explains that several eco-phenonenologist have accused Levinas of setting up human beings at the top of a heirarchy among species based on an interview with Levinas, in which he is asked, “Does a snake have a face?” And he responds, “I don’t know if a snake has a face. I can’t answer that question.”  Sol responds to these objections by explaining that, instead of endorsing domination, Levinas is simply admitting that animals and nature in general experiences revelation and inspiration in a different way than we do.  His has no sovereign sovereign power to know the interiority of other beings. 
 
+I would add my own notes to this.  
+First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in the work of Levinas. From the very start of his publications,  he indicates that negation is essential to otherness. As he states even already in his doctoral thesis, he states "the existence  of material things contains in itself a nothingness, à possibility of not-being." The me who is here now before you is not the same person as the person who was there in the past or the person who will be in the future.  Because beings become within duration, they alter themselves, becoming what they are not, transforming from self to other to self and other to self to other.
+> A multiplicity of sentients would be the very mode in which a becoming is possible-a becoming in which thought would not simply find again, now in movement, a being subject to a universal law, producing unity. Only in this way does becoming acquire the value of an idea radically opposed to the idea of being, does it designate the resistance to every integration expressed by the image of the river, in which, according to Heraclitus, one does not bathe twice, and according to Cratylus, not even once. A notion of becoming destructive of Parmenidean monism is acquired only through the singularity of sensation. (Totality and Infinity, page ____)
+In Totality and Infinity, Levinas explains that Plato therefore had to "commit a parricide on his father Parmenides", a reference to when the Eleatic Stranger pleads:
+> I have a yet more urgent request to make. Promise not to regard me as a parricide. Because, in self-defence, I must test the philosophy of my father Parmenides, and try to prove by main force, that in a certain sense not-being is, and that being, on the other hand, is not. ( Sophist, 241d)
+
+
 
 DRAFT BELOW 
 =============
 
 
-I would add my own notes to this.  
-First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in the work of Levinas.  From the very beginning of his writing, he indicates that negation is one of the modes of alterity.  As he states even already in his doctoral thesis:  the existence  of material things contains in itself a nothingness, à possibility of not-being and reiterated in Otherwise than Being .
-The genealogy of self and othe ris not just a relation between two people but also the modality of the becoming of the individual rhgouth a continuous creation where self becomes other to self.
-
-Parracide of Parmenides who states that you cannot speak about (? is it just a metter of speaking -- check plato ) non-being.
 Parricide is actualy  areference to a moment of this genealogy where the other of the father is murdered or commits suicide or sacrifices hiimself for the son. Otherwise than Being focuses on the mother trather than the son.  (add a reference to the section in TI)
 parricide is also an oblique reference to the narrative of continuous creation, 
 quote here from Levinas OTB
