@@ -127,10 +127,13 @@ It's important to understand a proper understanding of the element in order to c
 
  an idea that is central to Nietzche's creation, Heidgerr's ecstases, Deleuze's becoming, Foucault's geneaology and so on.  
 
+Heraclitus Fragment that asserting that no one can step into the same river once is 
 
+To do this, we begin by considering Levinas's work as an inversion of not only Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the
+> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]   
+ 
 
-
-
+"the discontinuity of Cartesian time, which requires a continuous creation,"
 
 But he starts working there already with the idea of continuous cretion, which appears in his post-war essays.  
 
@@ -141,6 +144,10 @@ The indeterminacty of futurity is one oof the aspects of alterity (Find TI quote
 
 
 The idea of continuous creation is used as a foil to the theory of becoming
+
+
+
+
 
 
 ### Continuous Creation 
@@ -417,3 +424,25 @@ autoethnography  is always a heteroethnograpy
 sol of the past -> self as other
 sol's family
 others, both friendly and unfriendly
+
+
+Why UAS Faculty
+I find Alaska especially inspiring because you walk out into the woods and there's a holiness and there's a magic to the forest that can't be found anywhere else. You become immediately connected to the environment around you. 
+
+That is literally inspiring. The word inspiring means to breathe life into. You can walk out into the forest and you can walk out into the glacier fields and you can be renewed and restored in spirit. 
+
+
+You find a kind of relation with the world that you don't find elsewhere. Oftentimes you, you know, the city urban centers cut you off your relations with others and with the world around you. 
+
+
+ROBIN WALL KIMMERER
+
+
+frustration. “She’s going to surrender,” they said. And then I swear I heard the zap of synapses firing. An electric current sizzled down my arm and through my finger, and practically scorched the page where that one word lay. In that moment I could smell the water of the bay, watch it rock against the shore and hear it sift onto the sand. A bay is a noun only if water is dead. When bay is a noun, it is defined by humans, trapped between its shores and contained by the word. But the verb wiikwegamaa— to be a bay— releases the water
+from bondage and lets it live. “To be a bay” holds the wonder that, for this moment, the living water has decided to shelter itself between these shores, conversing with cedar roots and a flock of baby mergansers. Because it could do otherwise— become a stream or an ocean or a waterfall, and there are verbs for that, too. To be a hill, to be a sandy beach, to be a Saturday, all are possible verbs in a world where everything is alive. Water, land, and even a day, the language a mirror for seeing the animacy of the world, the life that pulses through all things, through pines and nuthatches and mushrooms. This is the language I hear in the woods; this is the language that lets us speak of what wells up all around us. And the vestiges of boarding schools, the soap-wielding missionary
+This is the grammar of animacy. Imagine seeing your grandmother standing at the stove in her apron and then saying of her, “Look, it is making soup. It has gray hair.” We might snicker at such a mistake, but we also recoil from it. In English, we never refer to a member of our family, or indeed to any person, as it. That would be a profound act of disrespect. It robs a person of self hood and kinship, reducing a person to a mere thing. So it is that in Potawatomi and most other indigenous languages, we use the same words to address the living world as we use for our family. Because they are our family. To whom does our language extend the grammar of animacy? Naturally, plants and animals are animate, but as I learn, I am discovering that the Potawatomi understanding
+of what it means to be animate diverges from the list of attributes of living beings we all learned in Biology 101. In Potawatomi 101, rocks are animate, as are mountains and water and fire and places. Beings that are imbued with spirit, our sacred medicines, our songs, drums, and even stories, are all animate. The list of the inanimate seems to be smaller, filled with objects that are made by people. Of an inanimate being, like a table, we say, “What is it?” And we answer Dopwen yewe. Table it is. But of apple, we must say, “Who is that being?” And reply Mshimin yawe. Apple that being is. Yawe— the animate to be. I am, you are, s/ he is. To speak of those possessed with life and spirit we must say yawe. By what linguistic confluence do Yahweh of the Old Testament and yawe of the New World both fall from the mouths of the
+reverent? Isn’t this just what it means, to be, to have the breath of life within, to be the offspring of Creation? The language reminds us, in every sentence, of our kinship with all of the animate world. English doesn’t give us many tools for incorporating respect for animacy. In English, you are either a human or a thing. Our grammar boxes us in by the choice of reducing a nonhuman being to an it, or it must be gendered, inappropriately, as a he or a she. Where are our words for the simple existence of another living being? Where is our yawe? My friend Michael Nelson, an ethicist who thinks a great deal about moral inclusion, told me about a woman he knows, a field biologist whose work is among other-than-humans. Most of her companions are not two-legged, and so her
+
+Robin Wall K
+of what it means to be animate diverges from the list of attributes of living beings we all learned in Biology 101. In Potawatomi 101, rocks are animate, as are mountains and water and fire and places. Beings that are imbued with spirit, our sacred medicines, our songs, drums, and even stories, are all animate. The list of the inanimate seems to be smaller, filled with objects that are made by people. Of an inanimate being, like a table, we say, “What is it?” And we answer Dopwen yewe. Table it is. But of apple, we must say, “Who is that being?” And reply Mshimin yawe. Apple that being is.
