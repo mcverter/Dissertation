@@ -21,141 +21,126 @@ wolodichnon
 Phenomenal, non?  
 I don't know what it means.
  
-I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land (the word “lingít” means “human”), where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope.  Hope explains that through the wild trickster Raven are told epic stories of the transfomration of the land of the Tinglit.
-Sol/Vinzenor:  
-* Trickster stories are the translation of liberation, and the shimmer of imagination is the liberation of the last trickster stories. ( Manifest Manners,
-* and (3) recover the polyhistorical mind of a “trickster hermeneutics”—as a translation of creation and liberation—that enables a rich encounter with story and the deep, abiding kinship it supports. 
+I recognize only the names given to relations with others: Sol Neely,  Allensberg, Washington, and the concrete locality of Lingít Aaní, Tlingít ancestral land (the word “lingít” means “human”), where Sol Taught at University of Alaska Southeast (UAS), the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope. 
 
 ![Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "Ishmael Angaluuk Hope and Sol Neely in the Raven Bioregion")
 
+The sound of Sol's voice in the video begins with the image of the smiling face of his friend listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to learn from hearing the teaching of Sol Neely.
 
-The sound of Sol's speech begins with the regard of an other person, the smiling face of his friend to say "me voici"
+In a 2016 paper, Sol Neely, our great friend, a father, a husband, a son, a teacher, an activist, and a great Levinas scholar, asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology", to learn from the Tinglit that becoming human means to becoming responsible in a rich kinship of human and other-than-human relations. The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world.
 
+In his paper, Sol explains that several eco-phenonenologist have taken exception with an interview with Levinas, in shich he is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.”
 
-We tricksters have to honor each other so I give this talk in honor of Sol Neely 
+Sol responds to these objections by responding that Levinas is not creating a heirarchy here but instead is his acknowledgment that animals and nature in general experiences revelation and inspiration in a different way than we do.
 
-Eric Garret:
-    two weeks ago exactly we lost a friend a
-    father husband son teacher activist and
-    a great Levinas scholar Dr Sal
-    janeeli Saul was a force of nature he
-    was the epitome of action and kindness
-    itself
-    so quipped that when he passed he went
+I would add my own notes to this.  
+First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in the work of Levinas.  From the very beginning of his writing, he indicates that negation is one of the modes of alterity.  As he states even already in his doctoral thesis:  the existence  of material things contains in itself a nothingness, à possibility of not-being and reiterated in Otherwise than Being .
+The genealogy of self and othe ris not just a relation between two people but also the modality of the becoming of the individual rhgouth a continuous creation where self becomes other to self.
 
-
-We must hear the speaking of Sol Neely again, allow us to inspire us, listen to his recurrent cry to hear Levinas translated 
-n a 2016 paper, Sol Neely, our great friend, asked us to allow the writings of Emmanuel Levinas to become inspired by indigenous thought so that we could learn to take ethical responsibility through "the social relation—the irreducible kinship relation expressed by 'all my relations' — the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."1. The question of our ethical relationship to nature seems especially pertinent now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for the exploitation and decimation of the natural world.
-
-SOL NOTES
-==========
-
-* QUANTUM: tie this in with the refrigerator
-* before the tranquility of the “sounds and noises of nature.” But the transcendence of words also means this: “[I]n social relations the real presence of the other is important; but above all it means that this presence, far from sig-nifying pure and simple coexistence with me, or expressing itself through the romantic metaphor of ‘living presence,’ is fulfilled in the act of hearing” (148). This is radical, and
-* from the point of view of the utterance, when they remain mired in the tranquility and materiality of things at rest, registered only in the medium of sound with all its aesthetic self-sufficiency. In contrast, it is the social relation—the irreducible kinship relation expressed by “all my relations”— the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology. This does not mean that Levinas characteristically hierarchizes “ethical (i.e., human) language over the language of things” as Toadvine claims, nor does it mean that the sounds of nature are mere “themes” of human speech. Rather, it means that “becoming human”
-* requires this inspiration, this revelation of responsiveness to the transcendence of words that is neither entirely reducible to flesh—and thus, as Levinas writes, “assures a presence among us” (148)—nor to the aesthetic self-sufficiency of the inertia and materiality of things at rest.
-* become human, to become Tlingít, means to take up our responsibility inspired by the voices of ancestry made legible through the language and the sounds of nature. To become human means becoming responsible in a rich kinship of human and other-than-human relations. This content downloaded from
+Parracide of Parmenides who states that you cannot speak about (? is it just a metter of speaking -- check plato ) non-being.
+Parricide is actualy  areference to a moment of this genealogy where the other of the father is murdered or commits suicide or sacrifices hiimself for the son. Otherwise than Being focuses on the mother trather than the son.  (add a reference to the section in TI)
+parricide is also an oblique reference to the narrative of continuous creation, 
+quote here from Levinas OTB
+levinas is talking about a fundamental question of philsophy: in what way does identity or difference persist over time.  
+Firs of all, 
 
 
-### SNAKE FACE
-eco-phenomenology. For example, there is an interview with Levinas to which many eco-phenomenologists appeal in which Levinas is asked, “Does a snake have a face?” And Levinas responds, “I don’t know if a snake has a face. I can’t answer that question.” Responses to Levinas’s lack of a response vary:
+negative moment of the il y a what's happening in that moment of negation which Levinas refers to as the il y a, * but ths negativity is the crux of otherness, exploration of this negativity is what Levinas explores over and over
 
-### THE POWER OF THE NEGATiVE. THE UNKNOWING, THE OTHERNESS
-* The Other in Parmenides is non-being.  
-* "Parricide of Parmenides."  Already a joke about the collapse of this patriarchal model in Totality and Infinity
-* Quote from Levinas here Theory of Intuition
-* Weird interpretation of some that the *il y a* in Levinas, the hum of negation that persists after the elimination of any particular beings, is something bad.
-* but ths negativity is the crux of otherness, exploration of this negativity is what Levinas explores over and over
-
-> SOL: I don’t know if a snake has a face”—then—is not to hierarchize the human over the other-than-human in the reductive speciesism Levinas’s critics want to attribute to him; rather, it’s to say, I don’t know if a snake (or even stones or streams) experiences revelation and inspiration in this way that constitutes my humanity. To become human, however, is to take up this responsiveness.
 
 # Faceless Levinas
 
 ![Faceless Levinas](images/FacelessLevinas.jpg "Faceless Levinas")
 
-We will begin with the anarchy of a faceless Levinas, considering what Levinas means by the "face of the earth" in Totaltiy and Infinity the depht and gravity of materiality, of motherhood in Otherwise than Being. 
-
-
-I dare Levinas scholars to become iconoclasts, like Abraham, to smash the idol of the face
-
+But even more essentially that the negative, the question of the intereviewers betrays a fundamental misconception of the face.
 * “Does X have a face” is always the wrong question
 * Straightforwardly ontological, predicative
 * Reification of the face as a thing
-* Face is idolatry. You never look at the face of God
+"Does X have a face". This is very clearly an ontological question, one of predicaton, of the Being of Face. Clearly the wrong question, reifying question.
 
-> The problem begins in the book of Exodus, when the prophet Moses, speaking with God on Mount Sinai, asks God to show Moses his glory. God warns that: "…You cannot see my face, for no one may see me and live." (Exodus 33:20, NIV) 
-* The face isn't a thing. The mistake of reification, predication, ontological attribution is all over the scholarship. "The Face" is a mode of relating, one that is fundamentally ambiguous as you point out. This is an obvious truth: I see everything Gad presents as himself, as his Face, on his Facebook for example as a mode of self-presentation, but is that presentation of Face really who Gad is? Yes and no. The Face is a fundamentally ambiguous presentation. Moreover, "le visage" is a sort of a metonym for "intentionality" in general and sort of a wordplay on vision, vis-a-vis, videre (to see). It's an inquiry into the positionality of the one who sees, the one who looks, an inquiry into the position of the masculine, virile Subject. The face-to-face is a reconsideration of Hegel's struggle between self-consciousnesses, but this absolutely not the only nor the most important dynamic in Levinas. It's his undermining of all that macho bullshit of virile subjectivity. In his later works, he makes it more clear that the face is not the most important concept.
-* Really: worship of the Face in Levinas is flat out idolatry
-* I haven't read this article and I probably won't any time soon. In general, the idea of the "Face" is widely misunderstood. You get scholars asking dumb questions like "What is the face" and "Does X have a face". This is very clearly an ontological question, one of predicaton, of the Being of Face. Clearly the wrong question, reifying question.
-
-### “Le Visage” = Intentionality
-* Vision
-* Visuality
-* Intentionality The Subject Position
-* Man-to-Man position
-* Persectivism in Levinas the visage is not the only important viewpoint
-* “Le visage” is a straightforward wordplay, well-known philosophical trops
-* Vis a vis, vision
+* Face is idolatry. You never look at the face of God "You cannot see my face, for no one may see me and live." Exodus 33:xx (find citation)
+I dare Levinas scholars to become iconoclasts, like Abraham, to smash the idol of the face
+ The Face is a fundamentally ambiguous presentation. Moreover, "le visage" is a sort of a metonym for "intentionality" in general and sort of a wordplay on vision, vis-a-vis, videre (to see). 
+"In each of these acts, our gaze is directed like a ray from the pure ego to the object correlated to the relevant state of consciousness (thing, state of things, etc. ) and achieves the consciousness of this object which may be very different from case to case.” (Theory of Intuition in Husserl's Phenomenology)
 * Intentionality of the seer, the power of theoria, of consciousness to subsume the external as internal
 * A seer is a subject, a masculine and virile subjectivity
 * The face-to-face is a man-to-man faceoff, a reconsideration of Hegel’s struggle for self-consciousness
-* SOL: Such language is the in-verse of a Levinasian phenomenology for which inspiration precedes intentionality in a way that does, in fact, interrupt the intentional stance.
-* SOL: The purpose of this critical exposition of David Wood’s starting point is not necessarily to engage in polemics but to identify a tendency within phenomenology that does not sufficiently account for the persistence of intentionality that Levinas exposes as an aiming of thought—of the recuperation of the other into the sameness of intentional consciousness.
 
-### Iconoclasm and Anarchy of a  Faceless Levinas
+ It's an inquiry into the positionality of the one who sees, the one who looks, an inquiry into the position of the masculine, virile Subject. The face-to-face is a reconsideration of Hegel's struggle between self-consciousnesses, this man-to-man face off, but this absolutely not the only nor the most important dynamic in Levinas.  * Persectivism in Levinas the visage is not the only important viewpoint
+  It's his undermining of all that macho bullshit of virile subjectivity. In his later works, he makes it more clear that the visage is not the most important concept.
 * In his later work, Levinas stops using the language of the face
 * Prevents the ontological error of thinking the face is a thing
 * His work foregrounds the depths from which subjectivity is given birth by maternity
 * Faceless becoming
 
 
-### The Face is Not The Face
+
+### The Face is Not The Visage
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
-I visited World traveler, philosopher, translator Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks  
 
-Shorty The Dog, snuck onto a Greyhound Bus
+
+But Levinas does use the word "la face" in Totality and Infinity but in a way that is way that is profoundly mistranslated in the English renditiosn.  
+
+
+I visited World traveler, philosopher, translator, and fellow trickster Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2006 while hounding and hitchhiking to the NALS conference at Purdue i love that crazy fool and his pet peacocks. 
+
 ![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")
+Caption: Shorty The Dog, snuck onto a Greyhound Bus
 
-The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.
 ![Road to NALS 2007](./images/RoadToNALS2007.jpg "Road to NALS 2007")
+Caption: The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.
 
 
-
-> Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence. »”
+In TI (find the section), Levinas states"
+> Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend *la face de l'élément*. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence. » (my italics, gote)
 
 > It unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins.
-
 ![The Face of the Element](images/FaceOfTheElement.PNG "The Face of the Element")
 
+Lingis explains his choice:
 
 > Translator’s Note: 
 > It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
 ![Lingis's note on translating "face" as "side" and "visage" as "face"](./LingisTranslatorsNote.PNG "Lingis's note on translating 'face' as 'side' and 'visage' as 'face'")
 
+Several things to note here
 * The dimension here is *depth* as opposed to *height*
 * Materiality, The Self attached to the Ego in Time and the Other
 * Materiality of Maternity in Otherwise than Being
 * Gravity, Curvature of Space Time, etc
+(for further discussion see Metaphorics esssay) 
 
-
-### "Elemental Forces" in "Reflections on the Philosophy of Hitlerism"
-Elemental Force as Polemos
-• But the primitive powers that burn within it burst open its wretched phraseology under the pressure of an 
-elementary force. They awaken the secret nostalgia within the German soul. Hitlerism is more than a 
-contagion or a madness; it is an awakening of elementary feelings. But from this point on, this 
-frighteningly dangerous phenomenon becomes philosophically interesting. For these elementary 
-feelings harbor a philosophy. 
-• The mysterious urgings of the blood, the appeals of heredity and the past for which the body serves as 
-an enigmatic vehicle, lose the character of being problems that are subject to a solution put forward by 
-a sovereignly free Self. Not only does the Self bring in the unknown elements of these problems in 
-order to resolve them; the Self is also constituted by these elements. 
-• But force is characterized by another type of propagation. The person who exerts force does not 
-abandon it. Force does not disappear among those who submit to it. It is attached to the personality or 
-society exerting it, enlarging that person or society while subordinating the rest. Here the universal order 
-is not established as a consequence of ideological expansion; it is that very expansion that constitutes 
-the unity of a world of masters and slaves. Nietzsche's will to power, which modern Germany is 
-rediscovering and glorifying, is not only a new ideal; it is an ideal that simultaneously brings with it its 
+### THe question of the element is a hugely important question for Levinas, from the outset of his philosphjical inquriy
+Problem of war and polemos
+* Takes a special importance in the "Reflections on the Philosophy of Hitlerism" which he begins "The philosophy is simplistic.   But the primitive powers that burn within it burst open its wretched phraseology under the pressure of an 
+elementary force. . For these elementary 
+feelings harbor a philosophy. (LOOK THROUGH ESSAY FOR "ELEMENT")
+ the Self is also constituted by these elements -- the blood, the appeals of heredity and the past for which the body serves as an enigmatic vehicle,
+•WAR AND CONQUEST  it is that very expansion that constitutes 
+the unity of a world of masters and slaves ... an ideal that simultaneously brings with it its 
 own form of universalization: war and conquest
+
+### Continuous Creation: 
+So this problematic of the element runs throughout Levinas and Levinas seems to really think through it in Otherwise than Being when discussing themese of sensibility, of materiality and maternity
+
+It's important to understand a proper understanding of the element in order to counter the notion of Heraclitus's idea of brecoming
+
+ an idea that is central to Nietzche's creation, Heidgerr's ecstases, Deleuze's becoming, Foucault's geneaology and so on.  
+
+
+
+
+
+
+But he starts working there already with the idea of continuous cretion, which appears in his post-war essays.  
+
+Levinas attributes this idea of continuous creation to Descartes and Bergson 
+> Descartes: it does not follow that we shall exist a moment from now,  unless there is some cause—the same cause which originally produced us — which continually reproduces us, as it were, that is to say, which keeps us in existence
+> Bergson: Creation would have appeared not simply as continued, but also as  continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present
+The indeterminacty of futurity is one oof the aspects of alterity (Find TI quote)
+
+
+The idea of continuous creation is used as a foil to the theory of becoming
 
 
 ### Continuous Creation 
@@ -163,12 +148,7 @@ own form of universalization: war and conquest
 and You will renew the face of the earth.
 ל תְּ שַׁ לַׁ ַּ֣ ח ר֖ וּֽ חֲָך יִ ב ּֽ רֵ א֑ ון וּ֜ תְּ חַׁ דֵֵּ֗ ש פְּ נֵ ַּ֣י אֲד מ ּֽ ה
 Psalm 104:29-30
-Descartes: it does not follow that we shall exist a moment from now, 
-unless there is some cause—the same cause which originally produced us—
-which continually reproduces us, as it were, that is to say, which keeps us in existence
-Bergson: Creation would have appeared not simply as continued, but also as 
-continuous. The universe, regarded as a whole, would really evolve. The 
-future would no longer be determinable by the present
+Bergson: 
 
 
 
