@@ -57,11 +57,6 @@ The one who has a visage is one who sees, whose present stance postions the worl
 (Phenomenology of Spirit 178-188).  
 It would wrong to consider this face-to-face relationship between two adult males as the goal of one’s ethical development.  Although Levinas only employs the term “ethical” in certain sections of his texts, each moment of his genealogy opens up a new perspective, a different ethical orientation towards the Other, a different hyperbolic Riemann curvature of intersubjective space.  Although the face and the face-to-face are important metaphorics in Totality and Infinity, Levinas stops using them in his later work, partially to prevent the ontological error of considering the face to be a thing and to foreground the ethical depths from which subjectivity is given birth by maternity
 
-START DRAFT
-===========
-* Faceless becoming
-
-
 
 ### *La face* is not *le visage* 
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
@@ -104,71 +99,29 @@ Levinas's task from the outset is therefore to conceive the becoming of beings w
 > War (polemos) is the master-father (pater) of all beings; and some he has made gods and some men, some slaves and some free
 Levinas opens up Totality and Infinity renouncing the
 > obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]   
-While this is most likely a reference to Heidegger's embrace of Heraclitus, his belief that force and conflict are fundamental to the dynamic of becoming, to the flow of change over time has been widely influential: atomism, materialism, Spinoza, Hume, Locke, Hobbes, Hegel, Marx, Nietzsche, Deleuze, Foucault, Bradiotti and many others inherit this basic understanding from Heraclitus. 
+While this is most likely a reference to Heidegger's embrace of Heraclitus, his belief that force and conflict are fundamental to the dynamic of becoming, to the flow of change over time has been widely influential: atomism, materialism, Spinoza, Hume, Locke, Hobbes, Hegel, Marx, Nietzsche, Deleuze, Foucault, Bradiotti, deep ecology, ecophenomenology, anarchoprimitivism and many others inherit this basic understanding from Heraclitus. 
+
+### Continuous Creation
+
+In order to think otherwise than war and conquest, Levinas conceives of Becoming as continuous creation, as the generation and regeneration of gendered generations.  His conception of continuous creation comes from numerous sources.  He makes clear and distinct references to "the discontinuity of Cartesian time, which requires a continuous creation," an understanding that comes from Descartes through Bergson: 
+> Creation would have appeared not simply as continued, but also as  continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present.
+This indeterminacy occurs in Levinas as the transsubstantiation between self and other through time.   
+
+More interestingly, the idea of continuous creation is the theme in one of the Jewish morning prayers, a text taken from Psalm 104:30        
+> When you send your breath/spirit, they are created,  and you renew the face of the earth 
+>     לתְּשַׁלַּ֣ח ר֖וּֽחֲךָ יִבָּֽרֵא֑וּן וּ֜תְחַדֵּ֗שׁ פְּנֵ֣י אֲדָמָֽה:
+Jewish liturgy already understands that inspiration and creation come through the face of the earth, PNAY ADAMAH
 
 
-In order to think otherwise than war and conquest, Levinas conceives of Becoming as continuous creation, as the generation and regeneration of gendered generations.  
-
-
-of terefore is to conceive of Becoming in terms 
-
-### Continuous Creation: 
 So this problematic of the element runs throughout Levinas and Levinas seems to really think through it in Otherwise than Being when discussing themese of sensibility, of materiality and maternity
 
-
-Heraclitus Fragment that asserting that no one can step into the same river once is 
-
- 
-
-"the discontinuity of Cartesian time, which requires a continuous creation,"
-
-But he starts working there already with the idea of continuous cretion, which appears in his post-war essays.  
-
-Levinas attributes this idea of continuous creation to Descartes and Bergson 
-> Descartes: it does not follow that we shall exist a moment from now,  unless there is some cause—the same cause which originally produced us — which continually reproduces us, as it were, that is to say, which keeps us in existence
-> Bergson: Creation would have appeared not simply as continued, but also as  continuous. The universe, regarded as a whole, would really evolve. The future would no longer be determinable by the present
-The indeterminacty of futurity is one oof the aspects of alterity (Find TI quote)
-
-
-The idea of continuous creation is used as a foil to the theory of becoming
-
-
-
-
-
-
-### Continuous Creation 
-30 You will send forth Your spirit and they will be created, 
-and You will renew the face of the earth.
-ל תְּ שַׁ לַׁ ַּ֣ ח ר֖ וּֽ חֲָך יִ ב ּֽ רֵ א֑ ון וּ֜ תְּ חַׁ דֵֵּ֗ ש פְּ נֵ ַּ֣י אֲד מ ּֽ ה
-Psalm 104:29-30
-Bergson: 
-
-
-
-
-
-
-
-
-### Regeneration precedes πόλεμος 
-• Levinas’s doctrine of non-Heraclitean Becoming
-On n'a pas besoin de prouver par d'obscurs fragments d'Héraclite que l'être se révèle comme guerre, 
-• Levinas famously starts Totality and Infinity declaring that “We do not need obscure fragments of Heraclitus to prove that being reveals itself as war.”
-• Heraclitus whose dictum Πάντα ῥεῖ1, everything flows, is 
-complemented by his assertion that war is the master-father of all 
-beings2
-War (πόλεμος) is the father-master (πατήρ) of all beings; and some he has made gods and some men, some slaves and some free.
-This conception of the master-father as the source of Becoming is paradigmatic of the male barracks warrior-hero, as Nancy Hartsock 
-explains, finds its correspondence in the patriarchal political model found in Aristotle's politics, but an alternative for that koinon or 
+ics, but an alternative for that koinon or 
 commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a 
 needy being into the world, breathed into the wold
-This idea of becoming as force inspires the entire genealogy descended from Heraclitus, opposition of forces runs through Locke's 
-billiard ball empiricism4 and Hobbes's mechanistic5 and Hume6, Newton's forces, Spinoza's conatus, Hegel's dialectic, Nietzsche's 
-will to power, Heidegger's ecstatic Being, Deleuze, Foucault, as so on.7
-• Deleuze and Spinoza are widely influential in contemporary ecological thought in for example in for example post-humanist 
-philosopher Ross Bradiotti’s conception of a “Politics of Life as Bios/Zoe”. Heidegger in deep ecology, anarchoprimitivism, and ecophenomenology
 
+ but an alternative for that koinon or 
+commoning is the matrisocial sphere of take care of the needs sphere of the oikos. the needs that from birth as we are birthed as a 
+needy being into the world, breathed into the wold
 
 
 ### Regeneration of generations
