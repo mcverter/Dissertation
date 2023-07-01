@@ -100,22 +100,24 @@ These philosophies of elemental force inevitably lead to war and conquest, a wor
 > But force is characterized by another type of propagation. The person who exerts force does not abandon it. Force does not disappear among those who submit to it. It is attached to the personality or society exerting it, enlarging that person or society while subordinating the rest. Here the universal order is not established as a consequence of ideological expansion; it is that very expansion that constitutes the unity of a world of masters and slaves. Nietzsche’s will to power, which modern Germany is rediscovering and glorifying, is not only a new ideal; it is an ideal that simultaneously brings with it its own form of universalization: war and conquest.
 
 
+Levinas's task from the outset is therefore to conceive the becoming of beings within the flux of time that does not start with the assertion of force and conflict.  That is, Levinas's work is a subversion of not only Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is further elaborated by his assertion:
+> War (polemos) is the master-father (pater) of all beings; and some he has made gods and some men, some slaves and some free
+Levinas opens up Totality and Infinity renouncing the
+> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]   
+While this is most likely a reference to Heidegger's embrace of Heraclitus, his belief that force and conflict are fundamental to the dynamic of becoming, to the flow of change over time has been widely influential: atomism, materialism, Spinoza, Hume, Locke, Hobbes, Hegel, Marx, Nietzsche, Deleuze, Foucault, Bradiotti and many others inherit this basic understanding from Heraclitus. 
 
-START DRAFT
-===========
-The problem of war and conquest in an inheritance from Heraclitus
+
+In order to think otherwise than war and conquest, Levinas conceives of Becoming as continuous creation, as the generation and regeneration of gendered generations.  
+
+
+of terefore is to conceive of Becoming in terms 
 
 ### Continuous Creation: 
 So this problematic of the element runs throughout Levinas and Levinas seems to really think through it in Otherwise than Being when discussing themese of sensibility, of materiality and maternity
 
-It's important to understand a proper understanding of the element in order to counter the notion of Heraclitus's idea of brecoming
-
- an idea that is central to Nietzche's creation, Heidgerr's ecstases, Deleuze's becoming, Foucault's geneaology and so on.  
 
 Heraclitus Fragment that asserting that no one can step into the same river once is 
 
-To do this, we begin by considering Levinas's work as an inversion of not only Heidegger's thinking of Being but moreover as a perversion of Heraclitus's thinking of Becoming, whose dictum  Πάντα ῥεῖ[^1],  everything flows, is complemented by his assertion that war is the master-father of all beings[^2] .  Levinas opens up Totality and Infinity renouncing the
-> obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought.[^3]   
  
 
 "the discontinuity of Cartesian time, which requires a continuous creation,"
