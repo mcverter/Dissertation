@@ -42,6 +42,7 @@ The question of how we relate to nature and how we will liberate all beings seem
 He learned to become human in Linglit 'Aani where he took responsibity as a professor at University of Alaska Southeast and at The Flying University at The Lemon Creek Correctional Facility, learning from those around him that becoming human entailed becoming responsible in a rich kinship of human and other-than-human relations. 
 
 ### Does a snake have a face?
+![Faceless Snake](./images/facelessSnake.jpeg "Faceless Snake")
 
 In his paper, Sol explains that several eco-phenomenologists have accused Levinas of setting up human beings at the top of a hierarchy among species.  They base this claim upon an interview with Levinas, in which he is asked, “Does a snake have a face?” And he responds, “I don’t know if a snake has a face. I can’t answer that question.”  Sol responds to the objections of these eco-phenomenologists by explaining that, instead of endorsing domination, Levinas is simply admitting that animals and nature in general experience revelation and inspiration in a different way than we do.  He has no sovereign power to know the interiority of other beings. 
 
@@ -67,7 +68,7 @@ Levinas reiterates this critique of Parmenides in Otherwise than Being by explai
 Levinas's explicit usage of the term "parricide" and deliberate repetition with the word "father" indicates that the entire text of Otherwise than Being can be understood as a further exploration of his usage of the metaphor of murder in the section “Time and the Will” to describe the sacrifice of the paternity of the present necessary to father the future of the son. 
 In the being for death of fear I am not faced with nothingness, but faced with what is against me, as though murder, rather than being one of the occasions of dying, were inseparable from the essence of death, as though the approach of death remained one of the modalities of the relation with the Other"  (234)
 
-Dans · l'être pour la mort de la peur, je ne suis pas en face du néant, mais en face de ce qui est contre moi, comme si le meurtre, plutôt que d'être l'une des occasions de mourir, ne se séparait pas de l'essence de la mort, comme si l'approche de la mort de meurait l'une des modalités du rapport avec Autrui. (260)This proclamation of parricide within the book allows him to instead focus on the theme of maternity and other feminine themes
+> Dans · l'être pour la mort de la peur, je ne suis pas en face du néant, mais en face de ce qui est contre moi, comme si le meurtre, plutôt que d'être l'une des occasions de mourir, ne se séparait pas de l'essence de la mort, comme si l'approche de la mort de meurait l'une des modalités du rapport avec Autrui. (260)This proclamation of parricide within the book allows him to instead focus on the theme of maternity and other feminine themes
 
 
 # Faceless Levinas
@@ -174,6 +175,8 @@ While this is most likely a reference to Heidegger's writings on Heraclitus, Her
 ### Allomothering and Prison Maieutics
 
 ### Continuous Creation 
+![Psalm 104:30](./images/Psalm104_30.jpg "Psalm 104:30")
+
 
 In order to think otherwise than war and conquest, Levinas conceives of Becoming as continuous creation, as the generation and regeneration of gendered generations.  His conception of continuous creation comes from numerous sources.  He makes clear and distinct references to 
 > The discontinuity of Cartesian time, which requires a continuous crea­tion, indicates the very dispersion and plurality of created being (58)
@@ -238,3 +241,5 @@ The Ashinaabe biologist Robin Wall Kimmerer explains that most if not all Native
 In his lectures, Sol often liked to tell a Cherokee story that expresses their recognition of humanity’s deep connection with the Earth and our responsibility to nurture and protect it.  It tells of a Cherokee spirit who manifested in the council-house to foretell of their oncoming slaughter by white settler-colonialists.  Half of the people at the meeting followed him, where they found safety by hiding inside the sacred mountain of the Cherokee, now known as Clingman’s Dome.  It was so beautiful inside that he decided to go back to fetch his family and bring them back.  But when he came back, the mountain was closed so he sat there for seven days
 
 > The seventh day he began to hear the singing deep within the earth and so he went back to the village and from that day forward he told the people in the village that if you're quiet enough long enough and if you sit and listen to the streams and really are aware and very quiet and still that you too can hear the people singing within the earth those happy ones that went on before.  And sure enough the settlers came and they began to burn the villages and take away the land and the Cherokee people have been searching for that happiness they had long long ago and i think the teaching of this story not only was the fact there was a revelation of what was about to happen people losing their homeland on the trail of tears and so on but also to teach us that we should    never let the child disappear from us you remember when you were a child when you would take off your shoes and prawn through the mud puddles and laugh and sing remember when you were a child that not a butterfly passed that you didn't see it and chase it and not an animal or an insect were overlooked and that you were so close to nature and so close to mother earth that those were the things that were important to you we should remain like children and sometimes take our shoes off and plod through the mud puddles and sit by the streams and listen to the talking of the streams and the whispers of the wind. We must preserve the earth and we must value the lives of our elders in the lives of our children and save them a place to live if we don't then there will be a revelation for the people of today as well as for all of the Cherokee
+
+![Anarchic Plot](images/AllomotheringFlyingUniversity.PNG "Anarchic Plot")
