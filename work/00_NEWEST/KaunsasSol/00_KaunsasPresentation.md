@@ -31,6 +31,8 @@ The sound of Sol's speech in the video begins with the smiling face of his frien
 
 The sound of Sol's speech in the video begins with the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to hear in the teaching of Sol Neely. 
 
+### The Face of the Earth ( פְּנֵ֣י אֲדָמָֽה) : An Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
+
 We tricksters have much to learn from each other.  
 
 In a 2016 paper, our great friend Sol Neely -- whom Eric Garrett describes as a father, a husband, a son, a teacher, an activist, and a great Levinas scholar -- asked us to allow the writings of Emmanuel Levinas to  become inspired by indigenous thought so that we could learn to take ethical responsibility by becoming attuned to "the utterance itself of ancestry and place by which the noise and sounds of nature are at last heard through an inspired eco-phenomenology."  
@@ -49,9 +51,6 @@ In his paper, Sol explains that several eco-phenomenologists have accused Levina
 I would add my own notes to this.  
 
 First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in Levinas’s writing. From the very start of his publications, he explains that negation is essential to otherness. As he states even already in his doctoral thesis, he states "the existence of material things contains in itself a nothingness, à possibility of not-being." (Theory of Intuition in Husserl, p 23) The me who is here now before you is not the same person as the person who was there in the past or the person who will be in the future.  Because beings become within duration, they change, becoming what they are not, transforming from self to other to self and from other to self to other.
-
-I would add my own notes to this.  
-First of all, the uproar over a being "not having a face" indicates a wider misunderstanding of how negativity functions in the work of Levinas. From the very start of his publications,  he indicates that negation is essential to otherness. As he states even already in his doctoral thesis, he states "the existence  of material things contains in itself a nothingness, à possibility of not-being." The me who is here now before you is not the same person as the person who was there in the past or the person who will be in the future.  Because beings become within duration, they alter themselves, becoming what they are not, transforming from self to other to self and other to self to other.
 
 Levinas briefly explains this notion of becoming within Totality and Infinity
 
