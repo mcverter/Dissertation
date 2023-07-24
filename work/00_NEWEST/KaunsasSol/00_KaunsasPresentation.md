@@ -25,7 +25,7 @@ I don't know what it means.
  
 I recognize only the names given to relations with others: Sol Neely, Allensberg, Washington, and the concrete locality of Lingít ‘Aaní, Tlingít ancestral land (the word “lingít” means “human”), also called the "Raven Creator Bioregion", a term coined by the father of Tlingit/Inupiaq writer Ishmael Angaluuk Hope, named for the Raven trickster whose stories narrate the transformations of the land.
 
-From there, Sol journeyed out on what he called an "autoethnography" because he believed it told a story of himself and his origins, yet it was also a "heteroethnography" because the story of Sol himself already incorporates the stories of others --  his wife Kerry Neely, of his daughter Mila Neely, his father George Neely; 
+From there, Sol journeyed out on what he called an "autoethnography" because he believed it told a story of himself and his origins, yet it was also a "heteroethnography" because the story of Sol himself already incorporates the stories of others --  his wife Kerry Neely, of his daughter Mila Neely, his father George Neely; of generations of Cherokee persons and places; of friends he met on his way; of obstacles to his tortuouus path, his *conatus essendi*.
 
 ![Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "[Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion")
 
