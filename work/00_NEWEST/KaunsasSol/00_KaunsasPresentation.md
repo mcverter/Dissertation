@@ -103,9 +103,8 @@ It would wrong to consider this face-to-face relationship between two adult male
 
 
 Levinas does use the noun la face in Totality and Infinity but in a way that is way that has been profoundly betrayed in its English translation.  I visited World traveler, philosopher, translator, and fellow trickster Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2007 while hounding and hitchhiking to the NALS conference at Purdue. I love that crazy fool and his pet peacocks but I need to call him out on this error. 
-![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")
-![Road to NALS 2007](./images/RoadToNALS2007.jpg "Road to NALS 2007")
-Caption: The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.
+
+![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")  ![Road to NALS 200: The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.](./images/RoadToNALS2007.jpg)
 
 Levinas uses the la face not to refer to the human visage but rather to the surface or the side of the element.  Within Totality and Infinity, Levinas explains that the element
 
