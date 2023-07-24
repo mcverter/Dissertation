@@ -27,11 +27,10 @@ I recognize only the names given to relations with others: Sol Neely, Allensberg
 
 ![Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion](images/CarTurkeyTurkey.PNG "[Ishmael Angaluuk Hope and George Neely, Mila Neely, and Sol Neely in the Raven Bioregion")
 
-The sound of Sol's speech in the video begins with the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to hear in the teaching of Sol Neely.
-
-The sound of Sol's speech in the video begins with the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to hear in the teaching of Sol Neely. 
 
 ### The Face of the Earth ( פְּנֵ֣י אֲדָמָֽה) : An Indigenously-Inspired Levinasian Conception of Matrisocial Ecological Becoming
+
+The sound of Sol's speech in the video begins with the smiling face of his friend Wim Laven listening to him, regarding him, awaiting his revelation, his "me voici".  We still have much to hear in the teaching of Sol Neely.
 
 We tricksters have much to learn from each other.  
 
@@ -96,7 +95,7 @@ It would wrong to consider this face-to-face relationship between two adult male
 
 
 
-### The face is not the face
+### The Face is not the face
 
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
 
