@@ -42,8 +42,6 @@ He learned to become human in Linglit 'Aani where he took responsibility as a pr
 
 The question of how we relate to nature and how we will liberate all beings seems especially pertinent right now, both for us right here right now at this conference where we are considering the relationship between humanism and otherness, and for us as humans responsible for abolishing the carceral state and for ending the exploitation and decimation of the natural world.
 
-He learned to become human in Linglit 'Aani where he took responsibity as a professor at University of Alaska Southeast and at The Flying University at The Lemon Creek Correctional Facility, learning from those around him that becoming human entailed becoming responsible in a rich kinship of human and other-than-human relations. 
-
 ### Does a snake have a face?
 ![Faceless Snake](./images/facelessSnake.jpeg "Faceless Snake")
 
@@ -65,10 +63,13 @@ Levinas reiterates this critique of Parmenides in Otherwise than Being by explai
 
 > Voici encore une prière que j’ai à t’adresser.  C’est de ne pas me prendre pour une espèce de parricide.  Pour nous défendre, il nous faudra soumettre à l’examen la maxime de notre père Parménide, et à toute force établir que le non-être existe à certains égards, et qu’à certains égards aussi l’être n’est pas.
 
-Levinas's explicit usage of the term "parricide" and deliberate repetition with the word "father" indicates that the entire text of Otherwise than Being can be understood as a further exploration of his usage of the metaphor of murder in the section “Time and the Will” to describe the sacrifice of the paternity of the present necessary to father the future of the son. 
-In the being for death of fear I am not faced with nothingness, but faced with what is against me, as though murder, rather than being one of the occasions of dying, were inseparable from the essence of death, as though the approach of death remained one of the modalities of the relation with the Other"  (234)
+Levinas's explicit usage of the term *parricide* and deliberate repetition with the word *father* indicates that the entire text of Otherwise than Being can be understood as a further exploration of his usage of the metaphor of murder in the section “Time and the Will” to describe the sacrifice of the paternity of the present necessary to father the future of the son. 
 
-> Dans · l'être pour la mort de la peur, je ne suis pas en face du néant, mais en face de ce qui est contre moi, comme si le meurtre, plutôt que d'être l'une des occasions de mourir, ne se séparait pas de l'essence de la mort, comme si l'approche de la mort de meurait l'une des modalités du rapport avec Autrui. (260)This proclamation of parricide within the book allows him to instead focus on the theme of maternity and other feminine themes
+> In the being for death of fear I am not faced with nothingness, but faced with what is against me, as though murder, rather than being one of the occasions of dying, were inseparable from the essence of death, as though the approach of death remained one of the modalities of the relation with the Other"  (234)
+
+> Dans · l'être pour la mort de la peur, je ne suis pas en face du néant, mais en face de ce qui est contre moi, comme si le meurtre, plutôt que d'être l'une des occasions de mourir, ne se séparait pas de l'essence de la mort, comme si l'approche de la mort de meurait l'une des modalités du rapport avec Autrui. (260)
+
+This proclamation of parricide within the book allows him to instead focus on the theme of maternity and other feminine themes
 
 
 # Faceless Levinas
@@ -96,17 +97,16 @@ The one who has a visage is one who sees, whose present stance positions the wor
 It would wrong to consider this face-to-face relationship between two adult males as the goal of Levinas’s ethical project.  Each section of his text, each moment of his genealogy opens up a new perspective, a different ethical orientation towards the Other, a different hyperbolic Riemann curvature, a different gravitational warping of intersubjective space.  Although the face and the face-to-face are important metaphors in Totality and Infinity, Levinas stops using them in his later work, both to prevent the ontological error of considering the face to be a thing as well as to foreground the ethical depths from which subjectivity is given birth by maternity
 
 
-
 ### The Face is not the face
 
 ![Al Lingis farewell at the Baltimore Travel Plaza](../../al.jpg "Al Lingis farewell at the Baltimore Travel Plaza")
 
 
-Levinas does use the noun la face in Totality and Infinity but in a way that is way that has been profoundly betrayed in its English translation.  I visited World traveler, philosopher, translator, and fellow trickster Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2007 while hounding and hitchhiking to the NALS conference at Purdue. I love that crazy fool and his pet peacocks but I need to call him out on this error. 
+Levinas does use the feminine noun *la face* in Totality and Infinity but in a way that is way that has been profoundly betrayed in its English translation.  I visited World traveler, philosopher, translator, and fellow trickster Alphonso Lingis at the Baltimore Travel Plaza with my bestest pal Shorty The Dog -- to he i am for evva true -- in Baltimore in 2007 while hounding and hitchhiking to the NALS conference at Purdue. I love that crazy fool and his pet peacocks but I need to call him out on this error. 
 
 ![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")  ![Road to NALS 200: The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.](./images/RoadToNALS2007.jpg)
 
-Levinas uses the la face not to refer to the human visage but rather to the surface or the side of the element.  Within Totality and Infinity, Levinas explains that the element
+Levinas uses the *la face* not to refer to the human visage but rather to the surface or the side of the element, its feminine and material aspect.  Within Totality and Infinity, Levinas explains that the element
 
 > unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins. (p 132)
 
@@ -116,9 +116,9 @@ Lingis explains his regrettable decision to not translate la face as “face”:
 
 > It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
 
-However, for Levinas, la face is in many ways the subversion of le visage. It exposes raw materiality, the way that the other person’s gravity warps space-time. It extends in the dimension of *depth* rather than the *height* of le visage.  
+However, for Levinas, *la face* is in many ways the subversion of *le visage*. It exposes raw materiality, the way that the other person’s gravity warps space-time. It extends in the dimension of *depth* rather than the *height* of le visage.  
 
-The ethical face-to-face is in actuality both a relationship between visages and a relationship between facades.  This confrontation can never reveal the interiority of the Other’s exteriority, his position as visage. It only shows the surface of his self-presentation.  
+The ethical *face-to-face* is in actuality both a relationship between *visages* and a relationship between *facades*.  This confrontation can never reveal the interiority of the Other’s exteriority, his position as visage. It only shows the surface of his self-presentation.  
 
 
 ### Elemental Questions 
@@ -157,10 +157,6 @@ Levinas's task from the outset of his philosophical project is therefore to conc
 
 > πόλεμος πάντων μὲν πατήρ ἐστι, πάντων δὲ βασιλεύς, καὶ τοὺς μὲν θεοὺς ἔδειξε τοὺς δὲ ἀνθρώπους, τοὺς μὲν δούλους ἐποίησε τοὺς δὲ ἐλευθέρους. (53)
 
-This indeterminacy occurs in Levinas as the transsubstantiation between self and other through time.   
-
-More interestingly, the idea of continuous creation is the theme in one of the Jewish morning prayers, a text taken from Psalm 104:30        
-
 Levinas opens up Totality and Infinity renouncing the
 
 > obscure fragments of Heraclitus { that } prove that being reveals itself as war to philosophical thought (21)
@@ -169,12 +165,11 @@ Levinas opens up Totality and Infinity renouncing the
 
 While this is most likely a reference to Heidegger's writings on Heraclitus, Heraclitus’s belief that force and conflict are fundamental to the dynamic of becoming, to the flow of change over time, has been widely influential, especially on antihumanist thought:  Atomism, materialism, Spinoza, Hume, Locke, Hobbes, Hegel, Marx, Nietzsche, Deleuze, Foucault, Bradiotti, deep ecology, ecophenomenology, anarchoprimitivism and many others inherit this basic understanding from Heraclitus. 
 
->The-one-for-another has the form of sensibility or  vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body.
 
-### Allomothering and Prison Maieutics
 
 ### Continuous Creation 
 ![Psalm 104:30](./images/Psalm104_30.jpg "Psalm 104:30")
+
 
 
 In order to think otherwise than war and conquest, Levinas conceives of Becoming as continuous creation, as the generation and regeneration of gendered generations.  His conception of continuous creation comes from numerous sources.  He makes clear and distinct references to 
@@ -199,7 +194,7 @@ More interestingly, the idea of continuous creation is the theme in one of the J
 
 That is, Jewish liturgy already understands that inspiration and creation come through the face of the earth, PNAY ADAMAH
 
-Levinas seemingly draws from this verse by conceiving creation as a being inspired, breathed-into, birthed through the matrix of maternity into a world of sensible materiality, where it nurses on the element. According to the coming-of-age narrative told through the sections of Totality and Infinity, this newborn grows up, marries a wife, moves into a house, gets a job, grows older, has sex, dies, and is reborn as a new subjectivity.  In Otherwise than Being, Levinas focuses instead on the ethical-phenomenological relations of maternity and of being-born.
+Levinas seemingly draws from this verse by conceiving creation as a being inspired, breathed-into, birthed through the matrix of maternity into a world of sensible materiality, where it nurses on the element. According to the coming-of-age narrative told through the sections of Totality and Infinity, this newborn grows up, marries a wife, moves into a house, gets a job, grows older, has sex, dies, and is reborn as a new subjectivity.   This transsubstantiation between self and other through time, an idea of continuous creation, of the regeneration of gendered generations, a birthing into the material and temporal responsibilties of maternal birthing and being-born. 
 
 > The-one-for-another has the form of sensibility or  vulnerability, pure passivity or susceptibility, passive to the point of becoming an inspiration, that is, alterity in the same, the trope of the body animated by the soul, psyche in the form of a hand that gives even the bread taken from its own mouth. Here the psyche is the maternal body. (67)
 
@@ -218,12 +213,9 @@ LEmon Creek Correctional Facility
 
 > The mother is our the house so to say, but the grandmother is the pillars, the foundation. In a bigger picture, mother earth, who fits mother earth's grandmother.  ... But yes, if you quote levinas, then you must bring up sol. Think of it this way. Levinas was a "grandmother" Martin matustik was a "mother" and sol the "child" but also the "grandmother" to his students and so on.
 
-
-
  Another student, who was not an inmate himself but who grew up with an imprisoned father, remarked that his father told him that his best days in prison were 
 
-> the days that people would come in and play Monopoly or checkers or have a book club or teach a class or have a religious service or those types of events because in those moments he encountered strangers but those strangers would look him in the face and those strangers would look him and they would meet his gaze and he said it made him feel human and so what I thought Saul was offering me was the opportunity to go and maybe try to make  some other people feel human that could use that in their lives
-
+> the days that people would come in and play Monopoly or checkers or have a book club or teach a class or have a religious service or those types of events because in those moments he encountered strangers but those strangers would look him in the face and those strangers would look him and they would meet his gaze and he said it made him feel human and so what I thought Sol was offering me was the opportunity to go and maybe try to make  some other people feel human that could use that in their lives
 
 # Singing in the earth with an indigenously-inspired Levinas
 
