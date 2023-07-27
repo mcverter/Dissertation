@@ -77,7 +77,9 @@ This proclamation of parricide within the book allows him to instead focus on th
 ![Faceless Levinas](images/FacelessLevinas.jpg "Faceless Levinas")
 
 But even more troublesome than its misunderstanding of the negative in Levinas, the question betrays a profound misconception of Levinas's term le visage.   
-*Does X have a face* is always the wrong question.  It is straightforwardly an ontological question, one of predication, a reifying question, of the Being of Face, of its *quiddity*.  The worship of the Face is idolatry, as we read in the biblical book of Exodus 33:20
+*Does X have a face* is always the wrong question.  It is straightforwardly an ontological question, of a thing's thingfulness, one of predication, a reifying question, of the Being of Face, of its *quiddity*.  
+
+The worship of the Face is idolatry, as we read in the biblical book of Exodus 33:20
 
 > And He said, "You will not be able to see My face, for man shall not see Me and live. (Exodus 33:20)
 
@@ -88,7 +90,7 @@ But even more troublesome than its misunderstanding of the negative in Levinas, 
 
 I challenge Levinas scholars to themselves become iconoclasts, to emulate the patriarch Abraham and to smash the idol of the face and to put an end to its worship.
 
-For Levinas, le visage is not a thing; rather it functions in his work as a metaphor for intentionality.  He expresses this clearly in his doctor d'etat that for Husserl's intentionality 
+For Levinas, *le visage* is not a thing; rather it functions in his work as a metaphor for intentionality.  He expresses this clearly in his doctor d'etat that for Husserl's intentionality 
 
 > … all the forms of our life, affective, practical, and aesthetic, are characterized by a relation to an object. ... Our gaze is directed like a ray from the pure ego to the object correlated to the relevant state of consciousness (thing, state of things, etc. ) and achieves the consciousness of this object which may be very different from case to case.” (Theory of Intuition in Husserl's Phenomenology)
 
@@ -106,9 +108,9 @@ Levinas does use the feminine noun *la face* in Totality and Infinity but in a w
 
 ![Shorty Hounding](./images/ShortyHounding.jpg "Shorty Hounding")  ![Road to NALS 200: The van from Bloomington was running on vegetable oil or something and kept on stalling on the highway. Just as we pulled into West Lafayette, it ran out of diesel too.](./images/RoadToNALS2007.jpg)
 
-Levinas uses the *la face* not to refer to the human visage but rather to the surface or the side of the element, its feminine and material aspect.  Within Totality and Infinity, Levinas explains that the element
+Levinas uses the *la face* not to refer to the human visage but rather to the facade or surface -- what becomes translated as "side" -- of the element, its feminine and material aspect.  Within Totality and Infinity, Levinas explains that the element
 
-> unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins. (p 132)
+> unfolds in its own dimension: depth, which is inconvertible into the breadth and length in which the side of the element extends [*s'étend la face de l'élément*]. To be sure, a thing likewise presents itself by but one unique side; but we can circle round it, and the reverse is equivalent to the obverse; all the points of view are equivalent. The depth of the element prolongs it till it is lost in the earth and in the heavens. “Nothing ends, nothing begins. (p 132)
 
 > Il se déploie dans sa propre dimension la profondeur, inconvertible en largeur et en longueur où s'étend la face de l'élément. La chose, certes, elle non plus, ne s'offre que par une face unique; mais nous pouvons en faire le tour, et l'envers en vaut l'endroit. Tous les points de vue se valent. La profondeur de l'élément le prolonge et le perd dans la terre et dans le ciel « Rien ne finit, rien ne commence.
 
@@ -118,7 +120,7 @@ Lingis explains his regrettable decision to not translate la face as “face”:
 
 However, for Levinas, *la face* is in many ways the subversion of *le visage*. It exposes raw materiality, the way that the other person’s gravity warps space-time. It extends in the dimension of *depth* rather than the *height* of le visage.  
 
-The ethical *face-to-face* is in actuality both a relationship between *visages* and a relationship between *facades*.  This confrontation can never reveal the interiority of the Other’s exteriority, his position as visage. It only shows the surface of his self-presentation.  
+The ethical *face-to-face* is in actuality both a relationship between *visages* and a relationship between *facades*.  This confrontation can never reveal the interiority of the Other’s exteriority, *his* position as visage. It only shows the facade of *her* self-presentation.  
 
 
 ### Elemental Questions 
