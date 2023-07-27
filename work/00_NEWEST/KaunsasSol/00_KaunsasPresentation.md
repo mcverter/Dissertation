@@ -206,8 +206,6 @@ In her book *Maternal Thinking*, Sarah Ruddick defines the maternal standpoint n
 
 According to Sol's students at the Flying University, Sol could be understood as a maternal figure. Sol turned the Lemon Creek Correctional Facility into a *schul*, teaching them, enacting the practice of *maieutics*, acting as a midwife to aid in the birthing of their philosophical understanding.  His student Shawn Jessup explains 
 
->    the seventh day he began to hear the singing deep within the earth and so he went back to the village and from that day forward he told the people in the village that if you're quiet enough long enough and if you sit and listen to the streams and really are aware and very quiet and still that you too can hear the people singing within the earth those happy ones that went on before ...  We must preserve the earth and we must value the lives of our elders in the lives of our children and save them a place to live if we don't then there will be a revelation for the people of today as  well as for all of the cherokee
-
 ![Sol Neely, Granarchist!](images/AllomotheringFlyingUniversity.PNG "Sol Neely, Granarchist")
 LEmon Creek Correctional Facility 
 
