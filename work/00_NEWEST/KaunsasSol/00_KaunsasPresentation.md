@@ -118,7 +118,7 @@ Lingis explains his regrettable decision to not translate la face as “face”:
 
 > It is in order to reserve the English word ‘face’ to translate ‘visage’ — the countenance of the Other — that we are using the term ‘side’ to translate ‘face’ in this context.
 
-However, for Levinas, *la face* is in many ways the subversion of *le visage*. It exposes raw materiality, the way that the other person’s gravity warps space-time. It extends in the dimension of *depth* rather than the *height* of le visage.  
+However, for Levinas, *la face* is in many ways the subversion of *le visage*. It exposes raw materiality, the way that the other person’s gravity warps space-time. It extends in the dimension of feminine *depth* rather than the masculine *height* of le visage.  
 
 The ethical *face-to-face* is in actuality both a relationship between *visages* and a relationship between *facades*.  This confrontation can never reveal the interiority of the Other’s exteriority, *his* position as visage. It only shows the facade~ of *her* self-presentation.  
 
