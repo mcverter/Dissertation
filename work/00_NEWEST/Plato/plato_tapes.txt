@@ -1,250 +1,155 @@
 1872
-Plato_466__SYMPOSIUM__Track_8.3 
-
+Plato_466__Symposium__Track_8.3
 1878 
-Plato_67__Phaedo 
-
-
+Plato_67__Phaedo
 1881
-Plato_547__phaedrus 270d
-
+Plato_547__Phaedrus
 1883
-Plato_219_296__Tape 5Track_  
-
-
+Plato_219_296__Track_5  
 1893
-Plato_498_563 Dialogue 12-14 Title__Track_9.0 
-
+Plato_498_563__Track_9.0 
 1918
-Plato_114__cratylus__Track_3.2 
-
+Plato_114__Cratylus__Track_3.2 
 1923
-Plato_666__laches__Track_11.3 
-
-
+Plato_666__Laches__Track_11.3 
 1930
-Plato_36_97 Dialogue 2-4 Title__Track_2.0 
-
+Plato_36_97__Track_2.0 
 1964
 Plato_186__Theatetus__Track_4.3 
-
 1981
 Plato_138__Cratylus__Track_3.4 
-
 1989
 Plato_529__Phaedrus__Track_9.3 
-
-
 1999
-Plato_170__theatutus__Track_4.2 
-
+Plato_170__Theatutus__Track_4.2 
 1072
-Plato_1174__ 1242 Dialogue 30-32 Title__Tape 19Track_ 
-
+Plato_1174_1242__Track_19 
 1152
-Plato_1333__laws book 1__Track_21.3 
-
+Plato_1333__Laws_1__Track_21.3 
 1158
-Plato_1228__timeaus__Track_19.4 
-
+Plato_1228__Timeaus__Track_19.4 
 1192
 Plato_1065__Republic__Track_17.3 
-
 1200
 Plato_895_961__Track_15.0 
-
 1212
-Plato_1285__TIMaueus__Track_20.4 
- 
+Plato_1285__Timaueus__Track_20.4 
 1217
 Plato_1048__Republic__Track_17.2 
-
-
 1232
 Plato_830_895__Track_14.0 
-
 1244
-Plato_1212__Republic X__Track_19.3 
-
+Plato_1212__Republic_X__Track_19.3 
 1266
-Plato_1447__Laws 6__Track_23.2 
-
+Plato_1447__Laws_6__Track_23.2 
 1289
-Plato_1243__Timaeus__TapeTrack_ 
-
-
+Plato_1243__Timaeus 
 1318
 Plato_1031__Critias__Track_21.1 
-
 1334
 Plato_862__Gorgias__Track_14.3 
-
 1375
 Plato_732__Euthydimus__Track_12.3 
-
 1420
 Plato_1010__Republic2__Track_16.4 
-
-
 1421
-Plato_911__Greateter Hippias__Track_15.2  
-
+Plato_911__Greater Hippias__Track_15.2  
 1431
 Plato_1463__Laws__Track_23.3 
-
 1450
-Plato_846__gorgias__Track_14.2 
-
-
+Plato_846__Gorgias__Track_14.2 
 1455
-Plato_813__gprgoas__Track_13.4 
-
-
+Plato_813__Gorgias__Track_13.4 
 1460
 Plato_1139__Republic__Track_18.3 
-
-
 1463
 Plato_778__Protagoras__Track_13.2 
-
-
 1466
-Plato_1258__timaues
-
+Plato_1258__Timaeus
 1479
-Plato_763__ 829__Track_13.0 
-
-
+Plato_763-829__Track_13.0 
 1488
-Plato_1367__ 1431__Track_22.0 
-
+Plato_1367_1431__Track_22.0 
 1498 
-Plato_1317__MENOS__Track_21.2 
-
+Plato_1317__Menos__Track_21.2 
 1500
-Plato_1400__LAWS__Track_22.3 
-
-
+Plato_1400__Laws__Track_22.3 
 1507
-Plato_878__meno__Track_14.4 
-
+Plato_878__Meno__Track_14.4 
 1545
-Plato_1350__laws__Track_21.4 
-
-
+Plato_1350__Laws__Track_21.4 
 1587
-Plato_1271__timaeus__Track_20.3 
-
+Plato_1271__Timaeus__Track_20.3 
 1646
-Track_17.1030-1101 Page Dialogue Title
-
+Plato_1030_1101__Track_17.0
 1655
 Plato_1115__laws 5
-
-
 1661
-Plato_1156__ Dialogue Republic 8 Title__Track_18.4 
-
+Plato_1156__Republic_8__Track_18.4 
 1665
 Plato_975__Republic__Track_16.2 
-
-
 1673
 Plato_961_1030__Track_16.0 
-
 1724
 Plato_994__Republic__Track_16.3 
-
 1725
 Plato_1384__Laws3__Track_22.2 
-
-
 1731
-Plato_946__ion__Track_15.4 
-
+Plato_946__Track_15.4 
 1782
-Plato_796__gorgias__Track_13.3 
-
+Plato_796__Gorgias__Track_13.3 
 1816
 Plato_749__Protagoras__Track_12.4 
-
-
 1869
-Plato_1120__Republic6__Track_18.2 
-
+Plato_1120__Republic_6__Track_18.2 
 1876
 Plato_1102_1174__Track_18.0 
-
 1889
-Plato_1083__ Dialogue Republic 5__Track_17.4 
-
-
+Plato_1083__Republic_5__Track_17.4 
 1941
-Plato_1431_1494 Dialogue itle__Track_23.0 
-
+Plato_1431_1494__Track_23.0 
 1986
-Plato_1193__Repulbiv9__Track_19.2 
-
+Plato_1193__Repulbic_9__Track_19.2 
 1144
-Plato_1605__laws12__Track_25.4 
-
+Plato_1605__Laws_12__Track_25.4 
 1152
-Plato_1620__ - 1682__Track_26.0 
-
+Plato_1620_1682__Track_26.0 
 1230
-Plato_1635__ Dialogue Letters__Track_26.2 
-
+Plato_1635__Letters__Track_26.2 
 1317
-Plato_1510__ Dialogue Laws__Track_24.2 
-
+Plato_1510__Laws__Track_24.2 
 1332
-Plato_1697__ Dialogue On virtue__Track_27.2 
-
+Plato_1697__On_Virtue__Track_27.2 
 1354
 Plato_1716__Halceon__Track_27.3 
-
 1517
 Plato_1682_1746__Track_27.0 
-
 1542
 Plato_1667__Letters__Track_26.4 
-
-
 1598
 Plato_1558_1620__Track_25.0 
-
 1667
-Plato_1542__ Dialogue Laws__Track_24.4 
-
+Plato_1542__Laws__Track_24.4 
 1678
-Plato_1651__ Dialogue Letters7__Track_26.3 
-
-
+Plato_1651__Letters_7__Track_26.3 
 1713
-Plato_1589__ Dialogue Lqws11__Track_25.3 
-
+Plato_1589__Laws_11__Track_25.3 
 1778
 Plato_1479__Laws__Track_23.4 
-
 1786
-Plato_1573__Laws11__Track_25.2 
-
+Plato_1573__Laws_11__Track_25.2 
 1823
 Plato_1735__Axiochus__Track_27.4 
-
 1954
-Plato_15__Laws9__Track_24.3 
-
+Plato_15__Laws_9__Track_24.3 
 1967
 Plato_1494_1557__Track_24.0 
 
 
-
-
 Plato_xix__Introduction__Track_1.2 
-Plato_21__ Dialogue 2 Continued Title   Title Apology.mp3__Track_1.4 
+Plato_21__2 Continued Title   Title Apology.mp3__Track_1.4 
 Plato_631_698Title Theagues.mp3__Track_11.1 
-Plato_649__ Dialogue 18 Continued.mp3   __Track_11.2 
+Plato_649__18 Continued.mp3   __Track_11.2 
 Plato_681__Laches   Title Continued.mp3__Track_11.4 
 Plato_732_Euthidemes.mp3__Track_12.3         
 Plato_83__Phaedo__Track_2.4
