@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Self and Property | The Anarchist Library</title>
+    <meta name="generator" content="AMuseWiki - https://amusewiki.org" />
+    <meta name="description" content="Mitchell Cowen Verter Self and Property The Production and Consumption Of Self and Property In Locke, Hegel, and Levinas May 15, 2009" />
+    <link rel="shortcut icon"
+          href="../sitefiles/en/favicon.ico" />
+    
+    <link rel="icon"             href="../sitefiles/en/opengraph.png" type="image/png" />
+    <link rel="apple-touch-icon" href="../sitefiles/en/opengraph.png" type="image/png" />
+    <link rel="search" href="https://theanarchistlibrary.org/opensearch.xml"
+          type="application/opensearchdescription+xml"
+          title="The Anarchist Library">
+    <link rel="alternate" type="application/rss+xml"
+          title="The Anarchist Library" href="https://theanarchistlibrary.org/feed" />
+    <link rel="alternate" type="application/atom+xml;profile=opds-catalog;kind=navigation"
+          href="https://theanarchistlibrary.org/opds" title="OPDS"/>
+    
+
+    
+
+    <!-- open graph stanza -->
+    <meta property="og:title" content="Self and Property" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:author" content="Mitchell Cowen Verter" />
+    <meta property="og:article:tag" content="Emmanuel Levinas" />
+    <meta property="og:article:tag" content="Hegel" />
+    <meta property="og:article:tag" content="Intellectual Property" />
+    <meta property="og:article:tag" content="John Locke" />
+    <meta property="og:article:tag" content="property" />
+    <meta property="og:image" content="https://theanarchistlibrary.org/sitefiles/en/opengraph.png" />
+    <meta property="og:image:width" content="300" />
+    <meta property="og:image:height" content="238" />
+    <meta property="og:url" content="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property" />
+    <meta property="og:site_name" content="The Anarchist Library" />
+    <meta property="og:description" content="Mitchell Cowen Verter Self and Property The Production and Consumption Of Self and Property In Locke, Hegel, and Levinas May 15, 2009" />
+    <!-- end graph stanza -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="../static/js/jquery-3.7.0.min.js">
+    </script>
+    <link rel="stylesheet"
+          href="../static/css/bootstrap.amusewiki.css?v=4" />
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../static/js/bootstrap.min.js?v=5">
+    </script>
+
+    <link rel="stylesheet"
+          href="../static/css/fork-awesome.min.css?v=3" />
+
+    <!-- jquery-ui for the highlight effect everywhere and autocompletion
+         source in https://theanarchistlibrary.org/static/js/jquery-ui-1.13.2.custom/jquery-ui.js -->
+
+    <script src="../static/js/jquery-ui-1.13.2.custom/jquery-ui.min.js" >
+    </script>
+
+    
+
+    
+    <link rel="stylesheet" type="text/css"
+          href="../static/css/amuse.css?v=9" />
+
+    
+
+    
+    <link rel="stylesheet" type="text/css"
+          href="../static/css/amusewiki.css?v=44" />
+    <script src="../static/js/amuse.js?v=6"></script>
+    <script>
+      function amw_confirm() { return confirm('Are you sure?') }
+    </script>
+
+    
+
+    <script src="../static/js/imagesloaded.pkgd.min.js?v=1"></script>
+    <script src="../static/js/amw-anchors.js?v=2"></script>
+    <script type="application/ld+json">
+{
+   "@context" : "http://schema.org",
+   "@type" : "WebSite",
+   "potentialAction" : {
+      "@type" : "SearchAction",
+      "query-input" : "required name=search_term_string",
+      "target" : "https://theanarchistlibrary.org/search?query={search_term_string}"
+   },
+   "url" : "https://theanarchistlibrary.org/"
+}
+
+    </script>
+  </head>
+  <body>
+    <div id="amw-nav-bar-top" class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse"
+                  data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span>          <a class="amw-navlogo" href="https://theanarchistlibrary.org/">
+            <img src="../sitefiles/en/navlogo.png"
+                 title="The Anarchist Library"
+                 class="amw-navlogo-img"
+                 alt="The Anarchist Library" />
+          </a>
+                    </span>
+        </div>
+        <div class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right"
+                method="get" role="search"
+                id="formsearchbox" action="https://theanarchistlibrary.org/search">
+            <div class="form-group">
+              <div class="input-group">
+		        <input type="text" class="form-control search-autocomplete"
+                       aria-label="Search"
+                       placeholder="Search"
+                       name="query" value=""/>
+                <div class="input-group-btn">
+                  <button type="submit" class="btn btn-primary">
+                    <span class="sr-only">Search</span>
+                    <span class="fa fa-search fa-fw"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </form>
+          <ul id="amw-top-nav-right-menu" class="nav navbar-nav navbar-right">
+            <li class="dropdown hidden-when-no-toc" style="display:none">
+              <a class="amw-navlogo dropdown-toggle" href="mitchell-cowen-verter-self-and-property#"
+                 data-toggle="dropdown"
+                 title="Table of Contents">
+                <span class="fa fa-list text-primary fa-fw"></span>
+                <span class=" visible-xs-inline">
+                  Table of Contents
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul id="amw-top-nav-toc" class="dropdown-menu dropdown-menu-left">
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="mitchell-cowen-verter-self-and-property#" class="dropdown-toggle"
+                 id="amw-top-nav-archive-menu"
+                 title="texts by authors, title, topic..."
+                 data-toggle="dropdown">
+                <span class="fa fa-heart fa-fw"></span>
+                <span class="hidden-sm" id="amw-catalog-label">
+                  Archive
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+	            <li class="active" 
+                      id="amw-nav-bar-titles">
+                  <a href="https://theanarchistlibrary.org/listing"
+		             title="texts sorted by title">
+                    Titles
+                  </a>
+                </li>
+
+                
+                  <li
+                                                     id="amw-nav-bar-authors">
+                    <a href="https://theanarchistlibrary.org/category/author"
+		               title="Authors">
+                      Authors
+                    </a>
+                  </li>
+                
+                  <li
+                                                     id="amw-nav-bar-topics">
+                    <a href="https://theanarchistlibrary.org/category/topic"
+		               title="Topics">
+                      Topics
+                    </a>
+                  </li>
+                
+                
+                <li role="presentation" class="divider"
+                    id="amw-nav-bar-latest-separator"></li>
+                <li
+                   id="amw-nav-bar-latest">
+                  <a href="https://theanarchistlibrary.org/latest"
+		             title="Latest entries">
+                    Latest entries
+                  </a>
+                </li>
+
+                
+
+                
+                
+                <li >
+                  <a href="https://theanarchistlibrary.org/stats/popular">Popular Texts</a>
+                </li>
+                
+                
+
+
+                
+                <li role="presentation" class="divider"></li>
+                <li>
+                  <a href="https://theanarchistlibrary.org/action/text/new">
+                    Add a new text
+                  </a>
+                </li>
+                
+                
+              </ul>
+            </li>
+            
+
+            
+            <li class="dropdown" id="amw-top-nav-specials">
+              <a href="mitchell-cowen-verter-self-and-property#" class="dropdown-toggle"
+                 title="about, links..."
+                 data-toggle="dropdown">
+                <span class="fa fa-ellipsis-h fa-fw"></span>
+                <span class="visible-lg-inline visible-xs-inline" id="awm-special-label">
+                  More
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/about">About the project</a>
+                </li>
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/webchat">Live Chat (IRC/Matrix)</a>
+                </li>
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/tor-onion-services">Tor Onion Services</a>
+                </li>
+                
+                <li>
+                  <a href="https://bookshelf.theanarchistlibrary.org/">Bookshelf (wiki)</a>
+                </li>
+                
+                <li>
+                  <a href="https://littleblackcart.com/index.php?dispatch=products.view&amp;product_id=852">Donate</a>
+                </li>
+                
+                <li>
+                  <a href="https://shh.anarchyplanet.org/">SHH! THIS IS A LIBRARY! (forums)</a>
+                </li>
+                
+                <li>
+                  <a href="https://bookshelf.theanarchistlibrary.org/library/librarian-picks">Librarian Picks</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+
+            
+            <li class="dropdown" id="amw-top-nav-projects">
+              <a href="mitchell-cowen-verter-self-and-property#" class="dropdown-toggle"
+                 title="Other languages"
+                 data-toggle="dropdown">
+                <span class="fa fa-th fa-fw"></span>
+                <span class="hidden-sm" id="amw-sitegroup-label">
+                  Other languages
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+                
+                <li >
+                  <a href="https://anarhisticka-biblioteka.net">Anarhistička biblioteka</a>
+                </li>
+                
+                <li >
+                  <a href="https://fr.theanarchistlibrary.org">Bibliothèque Anarchiste (French)</a>
+                </li>
+                
+                <li >
+                  <a href="https://da.theanarchistlibrary.org">Det Anarkistiske Bibliotek (Danish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://bibliotecaanarchica.org">Biblioteca anarchica (Italian)</a>
+                </li>
+                
+                <li >
+                  <a href="https://www.anarhisticka-biblioteka.org">Анархистичка библиотека (Macedonian)</a>
+                </li>
+                
+                <li >
+                  <a href="http://anarchistischebibliothek.org">Anarchistische Bibliothek (German)</a>
+                </li>
+                
+                <li >
+                  <a href="http://sv.theanarchistlibrary.org">Det Anarkistiska Biblioteket (Swedish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://pl.anarchistlibraries.net">Anarcho-Biblioteka (Polish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://fi.theanarchistlibrary.org">Anarkistinen kirjasto (Finnish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://tr.anarchistlibraries.net">Anarşist Kütüphane (Turkish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://es.theanarchistlibrary.org">Biblioteca anarquista (Spanish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://kr.theanarchistlibrary.org">아나키스트 도서관 (Korean)</a>
+                </li>
+                
+                <li >
+                  <a href="https://ru.theanarchistlibrary.org">Библиотека Анархизма (Russian)</a>
+                </li>
+                
+                <li >
+                  <a href="https://gr.theanarchistlibrary.org">Η Αναρχική Βιβλιοθήκη (Greek)</a>
+                </li>
+                
+                <li >
+                  <a href="https://a-bieb.nl">De Anarchistische Bibliotheek (Dutch)</a>
+                </li>
+                
+                <li >
+                  <a href="https://sea.theanarchistlibrary.org">Southeast Asian Anarchist Library</a>
+                </li>
+                
+                <li >
+                  <a href="https://ro.theanarchistlibrary.org">Biblioteca Anarhistă</a>
+                </li>
+                
+                <li >
+                  <a href="https://ja.theanarchistlibrary.org">無政府主義図書館 (Japanese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://eo.theanarchistlibrary.org">Esperanto Anarchist Library</a>
+                </li>
+                
+                <li >
+                  <a href="https://anarchistickaknihovna.org">Anarchistická knihovna</a>
+                </li>
+                
+                <li >
+                  <a href="https://zh.anarchistlibraries.net/">中文无治主义图书馆 (Chinese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://bibliotecaanarquista.org/">Biblioteca Anarquista (Portugese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://sq.anarchistlibraries.net/">Biblioteka-Anarkiste (Albanian)</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+
+            
+
+            
+            
+            <li  id="amw-top-nav-bookbuilder">
+              <a href="https://theanarchistlibrary.org/bookbuilder" title="Bookbuilder">
+                
+                <span class="fa fa-book  fa-fw"></span>
+                <span class="visible-lg-inline visible-xs-inline">
+                  Bookbuilder
+                </span>
+                
+              </a>
+            </li>
+            <li id="amw-navbar-opds-link">
+              <a href="https://theanarchistlibrary.org/help/opds" title="Mobile">
+                <span class="fa fa-tablet fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Mobile applications
+                </span>
+              </a>
+            </li>
+            <li id="amw-navbar-feed-link">
+              <a href="https://theanarchistlibrary.org/feed" title="RSS feed">
+                <span class="fa fa-rss fa-fw"></span>
+                <span class="visible-xs-inline">
+                  RSS feed
+                </span>
+              </a>
+            </li>
+            <li id="amw-navbar-opds-random">
+              <a href="https://theanarchistlibrary.org/random" title="Random">
+                <span class="fa fa-random fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Random
+                </span>
+              </a>
+            </li>
+            
+            <li id="amw-navbar-add-new-text-icon">
+              <a href="https://theanarchistlibrary.org/action/text/new" title="Add a new text">
+                <span class="fa fa-plus fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Add a new text
+                </span>
+              </a>
+            </li>
+            
+            
+              <li id="amw-navbar-theme-switcher">
+                <a rel="nofollow" href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property?__switch_theme=1" title="Switch theme">
+                  
+                    <span class="fa fa-moon-o"></span>
+                  
+                </a>
+              </li>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div id="wrap">
+      <div id="main"
+           role="main"
+           class="container clear-top">
+      
+      
+
+
+      <div class="row">
+        <div id="amw-main-layout-column"
+             class="col-sm-12">
+
+          <div id="js-site-settings" style="display:none"
+               data-use-named-toc=""></div>
+
+
+
+        <div id="widepage-container">
+          <div id="widepage">
+            
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">Close</button>
+        <h4 class="modal-title" id="myModalLabel">
+          Table of Contents
+        </h4>
+      </div>
+      <div class="modal-body" id="pop-up-toc"></div>
+      <div class="modal-footer center">
+        <button type="button" class="btn btn-default center" data-dismiss="modal">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<div class="row">
+  <div class="col-sm-10 col-sm-push-1">
+
+
+<div lang="en"
+     id="page" data-text-json-header-api="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property/json">
+  
+  
+  <div id="preamble-container" class="well">
+    <div id="preamble">
+    
+    <div id="texttitle">
+      <span id="texttitle-label">
+        <strong>Title:</strong>
+      </span>
+      Self and Property
+    </div>
+    
+    <div id="textsubtitle">
+      <span id="textsubtitle-label">
+        <strong>Subtitle:</strong>
+      </span>
+      The Production and Consumption Of Self and Property In Locke, Hegel, and Levinas
+    </div>
+    
+
+          <div id="authors">
+      <span id="authors-label">
+        <strong>Author:</strong>
+      </span>
+      
+                <a href="https://theanarchistlibrary.org/category/author/mitchell-cowen-verter" class="text-authors-item">Mitchell Cowen Verter</a>
+        
+      
+      </div>
+          <div id="topics">
+      <span id="topics-label">
+        <strong>Topics:</strong>
+      </span>
+      
+                <a href="https://theanarchistlibrary.org/category/topic/emmanuel-levinas" class="text-topics-item">Emmanuel Levinas</a>,
+                <a href="https://theanarchistlibrary.org/category/topic/hegel" class="text-topics-item">Hegel</a>,
+                <a href="https://theanarchistlibrary.org/category/topic/intellectual-property" class="text-topics-item">Intellectual Property</a>,
+                <a href="https://theanarchistlibrary.org/category/topic/john-locke" class="text-topics-item">John Locke</a>,
+                <a href="https://theanarchistlibrary.org/category/topic/property" class="text-topics-item">property</a>
+        
+      
+      </div>
+    
+
+    
+
+
+    
+    <div id="textdate">
+      <span id="textdate-label">
+        <strong>Date:</strong>
+      </span>
+      May 15, 2009
+    </div>
+    
+
+    
+    
+    
+    
+
+    
+    <div id="preamblesrc">
+      <span id="preamblesrc-label">
+        <strong>Source:</strong>
+      </span>
+      http://www.waste.org/~roadrunner/writing/Levinas/SelfAndProperty_FinalEssay_WEB.htm
+    </div>
+    
+
+    
+
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+
+    
+    
+  </div>
+
+  <!-- end of the preamble -->
+  
+  <div id="downloadformats">
+    <div id="downloadformats-title">
+      <!-- <strong>Downloads</strong> -->
+    </div>
+    <div id="downloadformats-list">
+      
+      
+      
+      <span  id="pdfgeneric" >
+        <span id="download-format-pdf">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="plain PDF"
+                  ></span><span class="sr-only"> plain PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="pdfa4imp" >
+        <span id="download-format-a4.pdf">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.a4.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="a4.pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="A4 imposed PDF"
+                  ></span><span class="sr-only"> A4 imposed PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="letterimp" >
+        <span id="download-format-lt.pdf">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.lt.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="lt.pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Letter imposed PDF"
+                  ></span><span class="sr-only"> Letter imposed PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadepub" >
+        <span id="download-format-epub">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.epub" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="epub">
+            <span class="fa fa-file-epub fa-2x fa-border"
+                  aria-hidden="true"
+                  title="EPUB (for mobile devices)"
+                  ></span><span class="sr-only"> EPUB (for mobile devices)</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadhtml" >
+        <span id="download-format-html">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.html" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="html">
+            <span class="fa fa-print fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Standalone HTML (printer-friendly)"
+                  ></span><span class="sr-only"> Standalone HTML (printer-friendly)</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadtex" >
+        <span id="download-format-tex">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.tex" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="tex">
+            <span class="fa fa-file-code-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="XeLaTeX source"
+                  ></span><span class="sr-only"> XeLaTeX source</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadsrc" >
+        <span id="download-format-muse">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.muse" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="muse">
+            <span class="fa fa-file-text-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="plain text source"
+                  ></span><span class="sr-only"> plain text source</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadzip" >
+        <span id="download-format-zip">
+          <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property.zip" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="zip">
+            <span class="fa fa-file-archive-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Source files with attachments"
+                  ></span><span class="sr-only"> Source files with attachments</span></a>
+        </span>
+      </span>
+      
+      
+      
+      
+        
+      <span id="filehistory">
+        <a href="https://theanarchistlibrary.org/git/en/log/m/mc/mitchell-cowen-verter-self-and-property.muse?showmsg=1" rel="nofollow">
+          <span class="fa fa-history fa-2x fa-border"
+                aria-hidden="true"
+                title="View history"
+                ></span><span class="sr-only" >View history</span></a>
+      </span>
+        
+      
+      
+      <span id="text-edit-button">
+        <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property/edit">
+          <span class="fa fa-edit fa-2x fa-border"
+                aria-hidden="true"
+                title="Edit this text"
+                ></span><span class="sr-only" >Edit this text</span></a>
+      </span>
+      
+      
+      <span id="book-builder-add-text">
+        <a href="https://theanarchistlibrary.org/bookbuilder/add/mitchell-cowen-verter-self-and-property"
+           id="add-to-bookbuilder"
+           rel="nofollow"
+           class="amw-register-stat"
+           data-amw-register-stat-type="bookbuilder">
+          <span class="fa fa-book fa-2x fa-border"
+                aria-hidden="true"
+                title="Add this text to the bookbuilder"
+                ></span><span class="sr-only" >Add this text to the bookbuilder</span></a>
+      </span>
+      <span id="book-builder-add-text-partial">
+        <a href="https://theanarchistlibrary.org/library/mitchell-cowen-verter-self-and-property/bbselect?selected=pre-post"
+           class="amw-register-stat"
+           id="add-to-bookbuilder-partial"
+           rel="nofollow"
+           data-amw-register-stat-type="bookbuilder">
+          <span class="fa fa-list-alt fa-2x fa-border"
+                aria-hidden="true"
+                title="Select individual parts for the bookbuilder"
+                ></span><span class="sr-only" >Select individual parts for the bookbuilder</span></a>
+      </span>
+      
+      
+          </div>
+  </div>
+  
+
+  <script>
+   if (!$('#downloadformats-list').children().length) {
+       $('#preamble').css('padding-bottom', '0px');
+   }
+  </script>
+
+  </div>
+  
+  
+  <div class="center">
+    <div id="amw-title-page-header" class="page-header">
+      
+      <h3 id="text-author">Mitchell Cowen Verter</h3>
+      
+      <h1 id="text-title">Self and Property
+        
+        <br>
+        <small id="text-subtitle">The Production and Consumption Of Self and Property In Locke, Hegel, and Levinas</small>
+        
+      </h1>
+    </div>
+  </div>
+  
+  <div id="htmltextbody">
+    
+    
+    <div id="amw-blog-container-prepended"></div>
+    
+<div class="table-of-contents" dir="ltr">
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc1">Introduction</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc2">Locke</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc3">Hegel</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc4">Levinas</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc5">Conclusion</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="mitchell-cowen-verter-self-and-property#toc6">Bibliography</a></p>
+
+</div>
+
+<div id="thework" dir="ltr">
+<h4 id="toc1">Introduction</h4>
+
+
+<p>
+One of the pillars of modern political economy is the notion of property ownership. This idea has been important throughout the history of a country like the United States of America, whose 18<sup>th</sup> century struggle for independence was largely motivated by the desire to prevent the British from infringing upon its citizens’ “life, liberty, and property.” This idea still motivates the contemporary US domestic and international efforts to create “ownership societies” that would turn socialized goods into private property. Although property relations may seem inevitable to us living in today’s society, this idea of private ownership is one whose importance depends on certain historical and cultural conditions. Writing in 1821, G.F.W. Hegel expresses its recent emergence saying “But it is only since yesterday, so to speak, that the <em>freedom of property</em> has been recognized here and there as a principle” (§62). Although property was an important legal category in ancient Rome and throughout the medieval era, it was a privilege reserved only to the portion of the populace whose status entitled them to own. In contrast, modern political thinking is predicated on the notion that all individuals are free persons, and that the general right to possess is one component of this universal freedom. Because the relationship of ownership is historical and dependent on a variety of cultural factors, it should not be considered an inevitable one, but rather something that is subject to change. With this in mind, this paper will endeavour to examine the idea of property, starting with its most influential modern exponent John Locke, and then looking at G.F.W. Hegel and Emmanuel Levinas’s critiques of the ideas he presents.
+</p>
+
+<p>
+The idea of property ownership is one that implies a certain kind of relationship between the individual and the world. In order for the world to be opened to ownership, it must appear as an assemblage of objects that could potentially become possessions, and the human person must be manifested as a subject who could potentially become an owner. Furthermore, if the relationship between the owner and her property is considered definitive for her identity, it might also entail that persons relate to each other as owners, interacting with one another through their properties. These roles for self, world, and other are exemplified in the modern ideology which C. B. MacPherson calls “possessive individualism”
+</p>
+
+<p>
+Its possessive quality is found in its conception of the individual as essentially the proprietor of his own person or capacities, owing nothing to society for them. The individual was seen neither as a moral whole, nor as part of a larger social whole, but as an owner of himself.... The individual, it was thought, is free inasmuch as he is proprietor of his person and capacities. â€¦ Society becomes a lot of free equal individuals related to each other as proprietors of their own capacities and of what they have acquired by their exercise (3).
+</p>
+
+<p>
+According to MacPherson’s model, the modern conception of individual freedom derives several intertwined ownership claims. First of all, the individual is seen as the proprietor of her own internal nature; she owes neither her identity nor her position to the surrounding social and political environment. Secondly, property rights emerge from and are justified by this initial possession: by exercising her internal capacities through labour, she acquires the right to possess objects in the external world. Finally, having no prior social debts to other persons, each individual relates to the others through the medium of her internal capacities and her external properties.
+</p>
+
+<p>
+The idea that the capacities internal to the subject allow him to appropriate something external raises the deeper question: what does it mean to appropriate? The idea of the “self” is already complicated enough, one which various philosophers and psychologists have sought to define. Even if we understood what the self is, what would it then mean to say that the self owns something, that (1) a thing which is not the self nevertheless acquires the attribute of being-owned by the self, and (2) the self extends some element of its selfhood onto things that are not the self? This paper will argue that there are two possible ways of construing this relationship between self and things. The first model is an extrovertive and productive one: the self expands outwards into the world, leaving marks of its selfhood upon things. The most influential modern exemplar of this argument is John Locke’s <em>Two Treatises on Government</em>, which argues that the self appropriates things by exerting its labour upon external objects. Although Hegel is quite critical of aspects of the Lockean theory of property, he even more directly grounds property in the self’s extroversion. In contrast, Levinas construes the relationship between the self and the world as an introvertive and consumptive one: the self is created by internalizing the world, through a process which he describes using metaphors of eating. By substituting a consumptive model for the productive one, Levinas helps to undermine the notion of property. The conclusion of this paper will meditate upon the revolutionary implications of this substitution.
+</p>
+<h4 id="toc2">Locke</h4>
+
+
+<p>
+John Locke’s <em>Two Treatises on Government</em> provides perhaps the most important and influential modern defense of individual property rights. Locke’s thinking exemplifies MacPherson’s notion of “possessive individualism” by defining the individual as a self-sufficient being who employs his talents to appropriate property and relates to other individuals through this property. Furthermore, Locke constitutes a prototypical example what this paper considers to be an extrovertive and productive theory of appropriation. Locke asserts that that exerting one’s own internal energy onto external things â€“ that labouring upon things â€“ is the foundation for claiming things as property. Whereas most readers typically recognize Locke’s espousal of a productive labour theory of property in the <em>Second Treatise</em>, we will also draw attention to a prior grounding of property that Locke asserts in the <em>First Treatise</em>.
+</p>
+
+<p>
+In order to understand Locke’s notions of property ownership, it is useful to trace its emergence from the tradition of natural law. According to Karl Olivecrona, natural law theories of property began with the Stoic principle <em>suum cuique tribuere</em>, according to everybody his own (222). This maxim was typically interpreted negatively as a prohibition against causing <em>inuria</em> (injury)<em>,</em> forbidding one person from harming another person and from infringing upon her belongings. Olivecrona explains that this Stoic conception was grounded on the notion that each person had a certain sphere that pertained to itself, its <em>suum</em>. Assuming that nature itself provided individuals with this sphere, various teachers of natural law delineated what was already within it and how it could be extended. For example, Hugo Grotius argued that each person owned things such as her life, body, limbs, reputation, and honour. In addition to encompassing these various entities, the <em>suum</em> also included a productive capacity, one’s <em>actiones propriae</em> (own actions). According to Grotius, natural law also allowed one to sustain one’s <em>suum</em> by collecting from nature means of subsistence.
+</p>
+
+<p>
+Not only did the sphere of the <em>suum</em> already have some latitude within nature, various covenants further allowed the human will to establish <em>dominium</em> (legal property ownership). Natural law theorists argued that all <em>dominium</em> originated from God’s original dispensation to Adam, as described in the book of Genesis:
+</p>
+
+<p>
+Have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in which is the fruit of a tree yielding seed; to you it shall be for meat. And to every beast of the earth, and to every fowl of the air, and to every thing that creeps upon the earth, wherein there is life, I have given every green herb for meat: and it was so (1:28–30).
+</p>
+
+<p>
+Most legal scholars interpreted these verses to mean that God had given all earthly creation to mankind in common. Therefore, they were left with the problem of how individual ownership could have arisen from this original communism. Early in human history, they posited, people must have agreed to divide the whole of creation among themselves into separate parcels, while still leaving a portion available for common consumption. Writers had conflicting opinions about the nature of these compacts: whereas Grotius maintained that individuals had a natural right to acquire things necessary for subsistence, Samuel von Pufendorf argued that even this private acquisition from the commons would constitute an injury against others. Instead, he reasoned, there must have already been some form of prior general consent.
+</p>
+
+<p>
+In contrast to both Grotius and Pufendorf, Robert Filmer dispensed with the idea that any general agreement was necessary to establish dominium. In his justification of absolute political power and exclusive ownership, Filmer argued that the only significant covenant was the one detailed in the Bible. Whereas Grotius and Pufendorf interpreted Genesis as an account of God’s dispensation of the earth to the entirety of mankind in general, Filmer’s <em>Patriarcha</em> argued that God gave dominion specifically to one man, Adam (7). From this first patriarch descended genealogically all rightful political power and property ownership. This divinely-sanctioned dominion, Filmer claimed, was ultimately inherited by contemporary monarchs, who continued to maintain “a natural right of a supreme father over every multitude” (11).
+</p>
+
+<p>
+John Locke wrote <em>Two Treatises on Government</em> as a direct refutation of Filmer’s absolutism. Against Filmer, he endorsed Grotius and Pufendorf’s interpretation of the divine dispensation, explaining “it was not to <em>Adam</em> in particular, exclusive of all other men: whatever <em>dominion</em> he had thereby, it was not a <em>private dominion,</em> but a dominion in common with the rest of mankind” (1<sup>st</sup>, §29). Like the natural law theorists, Locke was then compelled to confront the question of how private appropriation became possible. “But I shall endeavour to shew, how men might come to have a <em>property</em> in several parts of that which God gave to mankind in common, and that without any express compact of all the commoners” (2<sup>nd</sup>, §25).
+</p>
+
+<p>
+In the <em>Second Treatise</em>, Locke returns to the classical theme of the <em>suum</em> and proceeds to explain how ownership arises through an extension of one’s personal sphere. “Though the earth, and all inferior creatures be common to all men, yet every man has a property in his own person; this no body has any right to but himself” (<em>2<sup>nd</sup>,</em> §28). Not only are property rights grounded in the very fact of one’s own identity as a self and a body, Locke argues that this initial fact enables one to extend one’s physical ownership to things in the outside world. Locke seems to adapt within his own conception of labour the natural law idea that one’s own actions (<em>actiones propriae</em>) are an extension of one’s <em>suum</em>. He goes beyond the natural law concept by claiming that not only does one own one’s actions, but also that the exertion of this embodied action upon external things converts these objects into one’s property. “His <em>labour</em> hath taken it out of the hands of nature â€¦ and <em>hath</em> thereby <em>appropriated</em> it to himself.” (2<sup>nd</sup>, §29) With his labour theory of property, Locke exemplifies the notion the extrovertive idea of appropriation, that a force inside the self is projected upon external objects, transforming those things into its property.
+</p>
+
+<p>
+Although Locke claims that the self’s internal power of labour allows it to appropriate things outside of the self, he does not seem to treat all selves equally. Locke’s individualistic theory of appropriation becomes problematic because not all individuals have their efforts rewarded with property. Locke emphasizes throughout his treatise that labour is what establishes personal property rights out of the common good. For example, he states that labour “excludes the common right of other men: for this labour being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to” (2<sup>nd</sup>, §27). However, the achievement of this right seems to apply to those labourers who are fully capable of asserting their dominion. In contrast, another class of persons do not acquire property rights from their labour. C.B. MacPherson argues that, by correlating labour with property, Locke’s analysis not only justifies the acquisition of property through labour, but also allows labour to be treated as a commodity that can be owned or alienated (215ff).
+</p>
+
+<p>
+Locke’s attitude towards the labouring class can be read most clearly in his assertion that my property results not only from my own direct labour but also from “the grass my horse has bit; the turfs my servant has cut, and the ore I have digged in any place, where I have a right to them in common with others, become my property, without the assignation or consent of anybody. The labour that was mine, removing them out of that common state they were in, hath fixed my property in them.” (2<sup>nd</sup>, §28) Without fully explaining why, Locke asserts that the labour of the servant does not establish his own property right, but instead constitutes part of the labour of the master and helps to establish the property right of the master. Although Locke neglects to consider the position of the wage-labourer in the <em>Two Treatises</em>, MacPherson points out that elsewhere he explains that labourers lack all resources but their wages (216–7). Therefore, Locke seems to posit labour both as a means to property and as itself a property that can be exchanged for any other property. The fact that labour has this odd double relationship with property would seem to indicate that it could not be the simple root of ownership. If the person who labours is also the person who lacks property, then one would be wise to re-examine Locke’s labour theory of property.
+</p>
+
+<p>
+Locke presents his theory of appropriation in his <em>Second Treatise,</em> in the chapter entitled “Property,” famously asserting:
+</p>
+
+<p>
+Though the earth, and all inferior creatures, be common to all men, yet every man has a <em>property</em> in his own <em>person:</em> this no body has any right to but himself. The <em>labour</em> of his body, and the <em>work</em> of his hands, we may say, are properly his. Whatsoever then he removes out of the state that nature hath provided, and left it in, he hath mixed his <em>labour</em> with, and joined to it something that is his own, and thereby makes it his <em>property.</em> It being by him removed from the common state nature hath placed it in, it hath by this <em>labour</em> something annexed to it, that excludes the common right of other men: for this <em>labour</em> being the unquestionable property of the labourer, no man but he can have a right to what that is once joined to, at least where there is enough, and as good, left in common for others.
+</p>
+
+<p>
+Although Locke’s words are well known, Karl Olivecrona points out that the process of appropriation is still obscure and requires further investigation. What does it mean to “annex” a thing to oneself? According to Olivecrona, Locke expresses this idea most clearly in the following passage, “The fruit, or venison, which nourishes the wild Indian, who knows no enclosure, and is still a tenant in common, must be his, and so his, i.e. a part of him, that another can no longer have any right to it, before it can do him any good for the support of his life.” (2<sup>nd</sup>, §26) Olivecrona interprets Locke to mean that one owns something because that thing has become a part of oneself. He argues that Locke is assuming here that the personality is something that can be extended — an assumption, Olivecrona claims, that Locke borrows from natural law.
+</p>
+
+<p>
+This extension of the personality was no random construction by the teachers of natural law. They built on an idea that seems to be universal. We all of us assume the existence of a spiritual ego. The “I” is not identical with the body. But it is immanent in the body. In that sense the body “belongs” to the ego. An attack on the body is experienced as an attack on the ego itself. The same is the case with an attack on, e.g., one’s reputation or honour. This is an attack on oneself, on the spiritual ego. Similarly my actions are “my own” because they are directed by the ego.
+</p>
+
+<p>
+â€¦
+</p>
+
+<p>
+Since being one’s own means being a part of oneself, making a thing one’s own means making it part of oneself. This is what Locke wants to say in this passage. Something of oneself is infused into an object. Then the object contains something of oneself; in this sense it is part of oneself. Nobody else can have any right to it. That would imply that he had a right over another free individual, which is out of the question. (224–25).
+</p>
+
+<p>
+Olivecrona’s analysis seems dubious on two points. First of all, he asserts the self-evidence of the separation between spirit and body. He claims that this is a “universal idea,” but there are countless examples of thinkers and cultures that refuse to make this split. It seems especially unlikely that Locke — an empiricist who grounds mental processes in sensible phenomena — would separate the spiritual ego from the physical body. Secondly and more importantly, Olivecrona collapses together two inverse processes which may or may not be equivalent, extension and incorporation. The first process, the extension of personality, implies that some part of oneself marks the external object or, as Olivecrona puts it, “is infused into an object.” The second process, the incorporation into personality, implies that one brings external things into one’s selfhood. The two processes work in opposite directions: the first is externalizing and producing; the second is internalizing and consuming. Olivecrona simply equates these two dynamics, “Then the object contains something of oneself; in this sense it is part of oneself” (225). In this assertion, Olivecrona seems to be reiterating Locke’s idea that mixing oneself into a thing makes that thing one’s own: “Whatsoever then he removes out of the State that Nature hath provided, and left it in, he hath mixed his Labour with, and joyned to it something that is his own, and thereby makes it his Property (2<sup>nd</sup>, §27).” Despite Olivecrona’s explanation, it is unclear what Locke means here by â€˜mixing labour’ with Nature. Even if one’s own actions belong to one’s personal sphere, does that necessarily mean that the things acted upon also become part of that same personal sphere? Why would this cause the sphere of selfhood to expand rather than just dispersing pieces of the self into the external world? This question brings up an even deeper problem with the notions of appropriation and acquisition: can acquisition even be considered as a type of labour? Why should taking something as one’s own be considered a positive, productive act? Doesn’t this seem more like an act of <em>consumption</em> than of <em>production</em>?
+</p>
+
+<p>
+When one reexamines the entirety of the <em>Two Treatises</em> to find how Locke solves the mystery of property — the question of how a part of the common good can become the property of a single individual â€“ one quite a discovers a more complicated answer than is often noticed. Whereas he asserts his “labour theory of property” in the <em>Second Treatise</em>, this explanation of appropriation is already predicated upon an argument from the <em>First Treatise.</em> Locke’s egotistical theory of production is already justified by an egotistical theory of consumption. Although Locke argues that the earth was given to all men in common, he pays little attention to the notion of communal well-being. Instead, he argues that welfare is an individual matter, emphasizing the particular interests of each separate individual. “The first and strongest desire God planted in men, and wrought into the very principles of their nature, being that of self-preservation, that is the foundation of a right to the creatures for the particular support and use of each individual person himself” (1<sup>st</sup>, §88). In this statement Locke seems to be staking out a distinct opinion in the debate that had separated Grotius and Pufendorf. Locke explicitly rejects Pufendorf’s notion that all humanity must have reached a common agreement to divide property; people would have starved to death while they waited for these negotiations to conclude (2<sup>nd</sup>, §28). In addition, Locke also goes much further than Grotius: Grotius claimed that persons have an immediate natural right only to self-subsistence, but more substantial property rights require various types of social agreement. In contrast, Locke argues that the individual drive to self-preservation is so powerful that it validates all ownership. He explains, “But how far has [God] given us [all things]? <em>To enjoy.</em> As much as any one can make use of to any advantage of life before it spoils, so much he may by his labour fix a property in” (2<sup>nd</sup>, §31). Thus, Locke defines the matter of welfare as an individual one rather than a social one. By doing so, he justifies the appropriation of the commons with the idea that the individual has an unlimited right to self-preservation and enjoyment.
+</p>
+
+<p>
+In addition to claiming that one’s own personal welfare is the original and primary right, Locke furthers his defence of private property by arguing that the institution of ownership benefits the welfare of others. He asserts that private labour creates the value of utility. According to him, things left in their common natural state possess no intrinsic value. It is only human industriousness that creates use value, and enclosure of the commons that increases productivity. Thus, Locke claims that the labour which determines private property ultimately benefits the welfare of all, boasting that common labourers in England are better clad than the native chiefs in America because British industry has created value whereas everything in the Americas has been left in its natural state.
+</p>
+
+<p>
+Although Locke’s concern for social utility does seem to indicate a concern for the well-being of others, he also employs this idea to legitimate the concentration of ownership in the hands of a certain class. Given that men have the natural right to promote their own well-being and that human labour creates real use value from the raw material of nature, those who most diligently expand their enterprise are also those who most fully realize their purpose as human beings. Locke argues that “God gave the world â€¦ to the use of the industrious and rational, (and labour was to be his title to it;) not to the fancy or covetousness of the quarrelsome and contentious.” (2<sup>nd</sup>, §36) David McNally points out that Locke’s <em>Two Treatises</em> express the attitudes of a nascent capitalist class identifying itself in opposition to the feudal class that had maintained power and property solely by virtue of heritage. He explains that Locke’s patron, the Earl of Shaftesbury, represented a new breed of landowner who “looked on his estates not as a passive <em>rentier</em> but, rather, as an improver who used his intelligence and his capital to augment the productive powers of nature” (24). In contrast to this rising class of rational capitalists, Locke regularly remarks on the lack of rationality among the working class, explaining that they never have the “opportunity to raise their thoughts above [bare subsistence]” and that “when the hand is used to the plough and the spade, the head is seldom elevated to sublime notions” (Quoted in MacPherson, 223–4).
+</p>
+
+<p>
+Locke’s discussion of spoilage similarly demonstrates how he assumes the perspective of the proprietary class in considerations of social well-being. As mentioned above, natural law theory expounded upon the idea of <em>inuria</em>, the negation of one’s <em>suum.</em> Whatever rights one had to one’s own personal sphere, one was always forbidden from injuring the personal sphere of anyone else. Locke adopts this notion in his discussion of spoilage. Given that the promotion of usefulness validates the ownership of property, allowing things to degenerate into uselessness would cause injury to others. Thus, Locke argues that if an owner allowed his property to spoil, it would damage the potential rights of other persons to promote their own well beings. “God has given us all things richly â€¦ But how far has he given it us? To enjoy. As much as any one can make use of to any advantage of life before it spoils, so much he may by his labour fix a property in: whatever is beyond this, is more than his share, and belongs to others.” (2<sup>nd</sup>, §31) Although one does not need the common consent of mankind to establish positively a property claim, dissent over negligence could theoretically negate it. However, Locke quickly introduces an argument that circumvents this apparent limitation to accumulation. Olivecrona explains that the spoilage limitation only presented a real problem for people during the first ages of the world. However, it also required them to develop a solution to this problem. Locke explains that, through mutual consent, men agreed upon establishing a standard that would not spoil, affixing value to pieces of metal that would function as money. Olivecrona explains that the effect of this agreement “was as follows: One was no longer prohibited from appropriating more than one could immediately consume” (230). This capacity to stockpile and accumulate effectively enabled a class of owners to maintain control over the items that would fulfill the consumer needs of other people, thereby compelling them to labour for their subsistence. MacPherson cites Locke’s economic treatises to explain how this occurs.
+</p>
+
+<p>
+[Money] by compact transfers that profit, that was the reward of one man’s labour into another man’s pocket. That which occasions this, is the unequal distribution of money; which inequality has the same effect too upon land, that it has upon money â€¦ For as the unequal distribution of land, (you having more than you can, or will manure, and another less) brings you a tenant for your land; â€¦ the same unequal distribution of money (I having more than I can, or will employ, and another less) brings me a tenant for my money (206)
+</p>
+
+<p>
+Thus, Locke’s defence of property right is already predicated on inequality: the accumulation of the proprietary class depends upon the neediness of the other classes.
+</p>
+
+<p>
+Locke’s inequitable view of consumption becomes apparent when he presents his skewed understanding of the general welfare. He articulates his notion of general social welfare when he explains why it is necessary to form a political union. Locke defines society narrowly to protect only a certain set of interests. What he calls a “<em>common-wealth</em>” is formed through “the consent of any number of freemen capable of a majority to unite and incorporate into such a society” (2<sup>nd</sup>, §99). Locke’s analysis seems to beg the question of what would criterion make a freeman “capable” of constituting a member of either the consenting majority or the dissenting minority. Locke clarifies throughout his justification of legitimate government that what makes these freemen capable is their membership in the proprietary class. He explains that government arises among people who are “willing to join in society with others, who are already united, or have a mind to unite, for the mutual <em>preservation</em> of their lives, liberties and estates, which I call by the general name, <em>property</em>” (2<sup>nd</sup>, §123). In this passage and throughout the <em>Two Treatises,</em> Locke equates the notion of social well being, of common-wealth, with the promotion of the aggregated self-interests of those classes which are socially and economically privileged enough to acquire and maintain property.
+</p>
+
+<p>
+Given that political societies are formed to protect the private interests of property owners, Locke further argues that political power is the capacity to make laws and penalties “for the regulating and preserving of property, and of employing the force of the community, in the execution of such laws, and in the defence of the common-wealth from foreign injury; and all this only for the public good.” (§3) Locke’s definition can again be understood as an adaptation of the Stoic and natural law conception of <em>inuria</em> as the infringement upon <em>suum.</em> However, throughout the <em>Two Treatises</em>, Locke always assumes the perspective of the proprietor who is defending himself from injuries committed by forces that are typically described as “foreign.” Locke justifies the usage of absolute force in defence against this alien trespass. Already within the pre-political state of nature, the right to self-preservation is so paramount that it allows for murder. Locke asserts, “This makes it lawful for a man to kill a thief, who has not in the least hurt him, nor declared any design upon his life, any farther than, by the use of force, so to get him in his power, as to take away his money, or what he pleases, from him” (§18). The absolute right to protect one’s property against any invasion applies not just to petty cutpurses but to the sovereign himself.
+</p>
+
+<p>
+Locke explains that acts akin to foreign injury can even emanate from within the state, explaining “As conquest may be called a foreign usurpation, so usurpation is a kind of domestic conquest” (§197). Once men have consented to band together in order to protect their property, Locke argues that it would be contradictory for any government to infringe upon this right. No political power can ever have an absolute power over the propertied class. If a ruler attempts to seize the property of the people without its consent or even to impose a non-consensual tax, this would effectively render this government illegitimate and place it into a state of war with its citizens. Under such conditions, Locke argues, one may “oppose the unlawful violence of those who were their magistrates” in the same way that an “honest man may oppose robbers or pirates” (§228). Just as an individual maintains the right to kill the thief who invades his home, he may fight against the ruler who endeavours to seize his property. Once the government has dared to throw its people into a state of war, the people have a similar right to respond in their own defence and to rebel, to bring back the war (<em>re + bellare</em>, to war), against their government (§226).
+</p>
+
+<p>
+Given that Locke attributes such importance to private property and selfish enjoyment, it seems unclear how individuals could band together for long enough to form a government. If individuals were motivated only by self-interest, than any coalition between individuals would constantly be threatened with disintegration, as various interests would inevitably clash with each other. In contrast, G.F.W. Hegel’s <em>Elements of the Philosophy of Right</em> proposes a new political model which presents a more compelling case for a stable social order. For Hegel, the state unites and supersedes the personalities which compose it, giving actual shape to their interests while integrating them into the will of the state. Rebalancing the interaction between the individual and the social further requires Hegel to rethink the status of property and welfare, and of production and consumption. The next section of this paper will investigate these complex interactions.
+</p>
+<h4 id="toc3">Hegel</h4>
+
+
+<p>
+Like Locke, G.F.W. Hegel understands the central importance of individual property for the modern era. Even more dramatically than Locke, Hegel proposes an externalizing theory of property: property is the first way that the individual expresses herself in the external world. However, this initial expression of particular personality is consummated and superseded by the universality of the ethical sphere, which imposes social limits upon property rights and the expression of personality. Whereas Hegel echoes Locke’s individually productive notion of property, his analysis of consumption does not begin with individual self-preservation but rather with social welfare. Nevertheless, Hegel contends that individual particularity impacts the universal social realm in a way that ultimately makes individual welfare dependent upon productivity.
+</p>
+
+<p>
+Within <em>Philosophy of Right,</em> Hegel employs logical terminology to explain his political concepts. He explains that the basis of right is the freedom of the will. At first, however, this freedom is expressed only negatively, as the fleeing away from all commitments. To overcome this stage, the will must strive to give a concrete actuality to its freedom by positing itself as a particular, individual person. Private property is one of the expressions of the subjective particularity, which Hegel claims is “the pivotal and focal difference between antiquity and the modern era” (§124). Unlike Locke, Hegel does not try to ground ownership in the human necessity of self-preservation, but rather insists that it has its own separate value. “In relation to needs â€“ if these are taken as primary â€“ the possession of property appears as a means; but the true position is that, from the point of view of freedom, property, as the first <em>existence</em> of freedom, is an essential end for itself” (§45). For Hegel, property is the initial way that the will establishes its freedom in the world. The only way that a freedom becomes determinate is when the subject fixes itself in a particular content, by establishing its objective presence through property. In an even more radical manner than Locke, Hegel describes property as the foundation of human right. Jay Lampert explains, “It is not that we have <em>a</em> right to property but rather that that right <em>is</em> at first property” (58). That is, property is the manner in which self-determination is first enacted. In order for the free subjective will to emerge as something actual, it must posit itself as something in the external world, externalizing its interior will in an object that becomes its property.
+</p>
+
+<p>
+Whereas the person has a right to externalize himself, the external world has no contrary capacity to resist acquisition. Only the human being has a free will that can determine ends; raw matter does not. Hegel assumes that the environment has no rights of its own. Nature is volitionally empty, awaiting its animation by the human spirit. “A person has as his substantive end the right of putting his will into any and every thing and thereby making it his, because it has no such end in itself and derives its destiny and soul from his will. This is the absolute right of appropriation which man has over all ‘things’” (§44). In this and other statements, Hegel clearly articulates the idea that Olivecrona attributed already to Locke: the spirit of the self can infuse itself into things, incorporating them into its personal sphere and making them part of its property. Even more emphatically than Locke, Hegel justifies ownership with the logic of productive extroversion.
+</p>
+
+<p>
+Hegel employs the concept of <em>res nullis</em> to explain further how things become capable of being owned. For a thing to become private property, it must not already have a will attached to it; it must be a null thing, a <em>res nullis</em>. According to Hegel, the actuality of ownership depends upon the persistence of a present will. He asserts that a will is present within a possessed object over the course of a certain time. When this time elapses, all will is absented from the object. According to Hegel, this justified the reappropriation of historical artefacts, as well as the seizure of Church property during the Reformation (§64). Hegel’s employment of the ancient legal concept of <em>res nullis</em> raises important questions about how the world is constituted. Hegel insists that one’s property claims persist as long as one’s will continues to be expressed in them, and becomes <em>res nullis</em> after this. However, doesn’t the fact that the world has been constructed by the labours of other people already place an individual into a certain kind of debt? How does one determine when the presence of a will has expired? There are many cases in which a certain group of people fights to regain rights to the artefacts of their culture. For examples, natives in the Americas still petition for the repatriation of their ancestors’ burial remains from the museums that display them as curiosities (“Reclaiming Identity”). The question of whether or not to consider a given thing a <em>res nullis</em> can easily become a contentious issue, with one party claiming that a disputed item had been abandoned and the other party claiming it had been usurped.
+</p>
+
+<p>
+As a counterpoint to this notion of a will-annulled world, Hegel insists that one’s property claims must necessarily respect the free wills of others. A thing can become property (1) because things have no wills of their own, and (2) when other wills have been absented from it. In contrast, a thing could not become property if it were already possessed by someone else. A will cannot appropriate something that is already infused by the will of another. Because the will has absolute power over things, ownership must be free, complete, and exclusive: at any given time, property rights can only be claimed by one particular entity. Therefore, Hegel explains that ownership and first occupancy are correlative notions, because one can never make a claim on something already occupied and one can always make a claim on something unoccupied (§50).
+</p>
+
+<p>
+Because a single property manifests an exclusive will, the totality of properties can function as a medium through which various wills can communicate. One person can interact with another through this objectivity. According to Dudley Knowles, Hegel’s imperative of right “Be a person and respect others as persons” (§36) thus results in a corollary, “claim property rights and respect the property rights of others” (56). Through property, the person establishes a concrete existence in the external world. This substance is not merely a hunk of anonymous matter: when one claims possession of a thing, one imposes a representative mark upon it, indicating the presence of one’s will in it, externalizing the subject into an objective thing that others can recognize. By doing so, one indicates to others that one is the rightful owner of this thing and that their acquisitive wills are excluded from it. Thus, property provides the initial means through which one person can rightfully recognize another. The first way in which this type of mutual recognition can be exercised is the contract.
+</p>
+
+<p>
+Contracts interest Hegel for the way that they transform the human will. In a contract, separate parties relate to and exist for each other as property owners. One person creates a bond with another by identifying a common will that binds them. In an exchange of properties, each party alienates his own possessive will infusing an object so that the other party may possess it. At the same time, however, the contract itself already expresses this wilful abandonment of the will: although the particular will attached to the particular object is negated, volition persists in a higher form. Thus, contract does not merely exchange two objects but more importantly affects a synthesis between separate wills, in which different wills surrender their differences to form a greater unity, a common will, while still maintaining their own separation and distinctiveness.
+</p>
+
+<p>
+Whereas contracts create a common will out of two or more separate wills, they can never produce the universal will embodied by the state. The universality of the state conditions and makes possible every transformation of individual particularity and every common agreement. Hegel applies this argument to criticize the idea — found in Rousseau but equally resonant with Locke — that the state emerges out of contractual relationship of everyone with everyone.
+</p>
+
+<p>
+In a contract, there are two identical wills, both of which are persons and wish to remain owners of property â€¦. But in the case of the state, this is different from the outset, for the arbitrary will of individuals is not in a position to break away from the state, because the individual is already by nature a citizen of it. It is the rational destiny of human being to live in the state. (§75)
+</p>
+
+<p>
+Against the idea that the assemblage of individual wills is sufficient to comprise the totality of the state, Hegel insists that the imperatives of the state transcends the arbitrary interests of particular personalities collected together. Thus, Hegel also dispenses with the Lockean notion that the goal of the state is merely to promote private interests. According to Locke, the state originates out of a general contract made among all individual property owners to promote and protect their separate properties. Although Hegel agrees that the state provides a context within which each individual will can express her individuality, it also constitutes a larger social unity. “<em>Union</em> as such is itself the true content and end, and the destiny of individuals is to lead a universal life; their further particular[ity] have this â€¦substantial and universally valid basis as their point of departure and result” (§258). According to Hegel, one only achieves genuine individuality when one becomes a member of the state (§258), when one’s particular will is integrated into its universal will. Therefore, the destiny of the state necessarily supersedes the interests of the individual, transcending the mere protection of private property.
+</p>
+
+<p>
+For Hegel, man’s substantial existence culminates with the development of the state. However, the state does not eliminate the rights of the individual but rather fulfills them in a concrete manner. The state must respect individuality and safeguard the abstract rights of persons. As mentioned above, Hegel asserts that the most significant development of the modern age is its assertion of subjective personality. This spirit only becomes manifested in the modern state: “The principle of modern states has enormous strength and depth because it allows the principle of subjectivity to attain fulfillment in the <em>self-sufficient extreme</em> of personal particularity, while at the same time <em>bringing it back to substantial unity</em> and to preserving this unity in the principle of subjectivity itself” (§260). Thus, he criticizes Plato’s <em>Republic</em> for denying the general value of individual personality and for violating the specific right to hold private property (§262, §48). Because it is such a fundamental part of being an individual, Hegel asserts that everyone must have property, even though the amount does not necessarily have to be equal.
+</p>
+
+<p>
+Hegel explains how the state promotes and protects property through a variety of institutions. Acquisitions of property and transactions between owners do not occur in some pre-civilized state of nature, but rather already within a social context. The rights of the person already depend upon the laws of the state. In order to ensure that one can exercise the freedom to acquire things and that one’s claim will be respected by others, this appropriation must be given a universal sanction. The ownership of this property must be socially recognized through abiding with social formalities, such as physical boundary markers and notarized deeds and state registries (§217). According to Hegel, most property is acquired through contracts, which also must accord with the legal norms stipulated by the government. Because property is sanctioned and validated by society, crimes against it are not just wrongs committed against individuals, but rather against society as a whole (§218). For this reason, the state therefore must maintain the security of society by enforcing the rights of property owners through its administration of justice (§208).
+</p>
+
+<p>
+As the universal element that sanctions the particular interests of individuals, the state also maintains the capacity to curtail those interests. Hegel thus disagrees with Locke’s notion that the right to property is paramount above all else, even above any governmental attempt to infringe upon it. Hegel directly contradicts this idea, explaining that the state’s “substantial essence does not consist unconditionally in the <em>protection</em> and <em>safeguarding</em> of the lives and property of individuals as such. The state is rather that higher instance which may even itself lay claim to the lives and property of individuals and require their sacrifice” (§100). Hegel further asserts that when the state supersedes an individual’s immediate self-interest, it is actually fulfilling his more profound rights. The first place where this is demonstrated is in the realm of criminal wrong. In the <em>Second Treatise,</em> Locke focuses only on the injury of theft, the unjust seizure of personal property. In contrast, Hegel argues that crime develops from personality itself. When the person attaches more importance to individual particularity than the universal, she can become evil. Hegel asserts that “self-consciousness is capable of making into its principle either <em>the universal in and for itself,</em> or the arbitrariness of its <em>own particularity,</em> giving the latter precedence over the universal and realizing it through its actions â€“ i.e. it is capable of being <em>evil</em>” (§139). The individual’s moral agency allows him both to act out of particularity and to be held responsible for those actions. Whereas one would have the freedom to do whatever one wished if one lived in isolation, one already exists within a social sphere in which one’s particular will and one’s private property maintains relationships with the external world. Under such circumstances, one’s arbitrary actions can potentially act bring harm to others. For this reason, the state maintains a police force and other regulatory powers to curb the potential misuse of property “<em>with</em> or <em>without</em> the consent of individuals.” (§100) In the end, though, Hegel argues that these punishments do not merely harm but actually honour the criminal individual by treating him as a rational person.
+</p>
+
+<p>
+Hegel declares that there is one moment within the ethical life of the state in which it absolutely overrides all rights of personality and property. In times of war, citizens have the substantial duty to defend the sovereign state even at the sacrifice of their own lives and property. Hegel remarks, “It is a grave miscalculation if the state when it requires this sacrifice is simply equated with civil society and if its ultimate end is seen merely as the security of the life and property of individuals” (§324). He reasons that, because life and property only take upon a concrete significance within the universal realm of the state, it would be contradictory to refuse to support it on selfish grounds. Moreover, war itself has an ethical meaning relative to property. War is not a terrible accident that befalls unfortunate nations, but rather is a necessary negative moment in the dialectical development of world spirit, shaking nations free from stagnation and strengthening them through conflict. Under such conditions, the particularity of persons and their property is revealed as that which should be sacrificed in order to reach a higher level of universality: “War is that condition in which the vanity of temporal things and temporal goods â€“ which tends at other times to be merely a pious phrase â€“ takes on a serious significance, and it is accordingly the moment in which the ideality of the particular attains its right and becomes actuality” (§324). For Hegel, war is thus the ultimate example of how universality can assert its prerogative over particularity, disintegrating individual interests and property rights in favour of its grander destiny.
+</p>
+
+<p>
+One’s particular interests are limited by the universal not just in the form of the state, but also within intersubjective relationships. Hegel insists that any legitimate contract must allow each individual to maintain the universal part of himself, his own free will. One can rightfully alienate only what is alienable, either things produced or moments of labour, but not the entirety of personality. Therefore, Hegel claims that slaves always preserve an absolute right to free themselves from their bondage (§66). In addition, Hegel also argues that certain rights of other people are more universal than my own right to property. As mentioned above, Hegel argues that property ownership is an expression of human freedom rather than a fulfillment of human need. In contrast, Locke had directly concluded the right to appropriate from the right to self-preservation, the right to accumulate upon the right to enjoy. Locke further claimed that this would allow one to kill a thief because of the way he infringes upon this natural right. In contrast, Hegel states that
+</p>
+
+<p>
+Life, as the totality of ends, has a right in opposition to abstract right. If, for example, it can be preserved by stealing a loaf, this certainly constitutes an infringement on someone’s property, but it would be wrong to regard such an action as common theft. If someone whose life is in danger were not allowed to take measures to save himself, he would be destined to forfeit all his rights, and since he would deprived of life, his entire freedom would be negated (§127).
+</p>
+
+<p>
+Thus, Hegel claims that the right to property is a restricted embodiment of freedom, whereas the right to human life is an infinite right, the very right to have any rights at all. Here, Hegel’s analysis seems more sensible than Locke’s. Locke’s assertion that one has the right to murder a thief seems unreasonable, a punishment whose severity far exceeds the nature of the crime. Theft is a crime that is (1) inflicted upon a thing and (2) damages part of one’s estate; whereas capital punishment is (1) inflicted upon a person and (2) damages the entirety of their life. In justifying the right to murder, Locke seems to be taking the self’s right to self-preservation and property to a dangerous extreme. Furthermore, Hegel’s analysis seems notable for the way that it transcends the perspective of the property-owning self. Although he agrees that theft constitutes a criminal wrong, Hegel recognizes that even the criminal has rights. In certain cases, therefore, a crime against a property-owning self might be mitigated because of the other, criminal person’s more fundamental right to self-preservation.
+</p>
+
+<p>
+Whereas property rights emerge initially from one’s particular freedom, Hegel explains that the notion of welfare already involves the welfare of other people. Not only does moral duty compel one to work towards the general good (§134), one is already involved in the dynamic interactions of civil society, which coordinates the self-interests of the multiplicity of individuals. For this reason, one’s own personal needs already relate to the needs of other people. Hegel explains “particularity â€¦ is <em>subjective need</em>, which attains its satisfaction by means of external things which are likewise the <em>property</em> and product of the needs and <em>wills</em> of others” (§189). Within a political economy that weaves together aggregate commercial relationships, an individual discovers new social requirements and possibilities that are created by other individuals.
+</p>
+
+<p>
+Like Locke, Hegel asserts that human labour creates social value, enabling one to transcend to the merely natural. However, Locke tends to consider labour mostly from the perspective of the person who owns labour power. When he discusses its role in fulfilling needs â€“ for example, when he contrasts the comforts of the native American with those of the English day-labourer â€“ he does so in order to promote the concept of private ownership and private industry. In contrast, Hegel provides a more multifaceted analysis of the economic dynamic, explaining:
+</p>
+
+<p>
+The mediation whereby appropriate and <em>particularized</em> means are acquired and prepared for similarly <em>particularized</em> needs is <em>work.</em> By the most diverse processes, work specifically applies to these numerous ends the material which is immediately provided by nature. The process of formation gives the means their value and appropriateness, so that man, as a consumer, is chiefly concerned with <em>human</em> products, and it is human effort which he consumes (§196).
+</p>
+
+<p>
+In this passage, Hegel considers not only the role of the producer in creating value but also that of the consumer who enjoys things produced by others. Given that the productive effort of mankind generates the capacity to consume, Hegel one must again confront the question of how human welfare is distributed, of how the right to consume is predicated on the duty to produce.
+</p>
+
+<p>
+For Hegel, differences between particular individuals entail differences in the degree to which one can partake in consuming value. Because it is such a fundamental part of being an individual, Hegel asserts that everyone must have property. However, he dispenses with the notion that the amount should be equal, calling the notion that everyone should be able to meet the needs of their subsistence a “moral wish” (§49). Instead, he contends that the each person’s particular skills and resources will inevitably produce inequality (§200). Nevertheless Hegel argues that civil society must endeavour to provide basic livelihood and social welfare for everyone, through the administration of civil society’s regulatory police powers (§230), and through the corporations that tend to the concerns of the commercial classes (§250).
+</p>
+
+<p>
+By consistently linking together welfare and livelihood, however, Hegel ultimately roots the right of consumption in the capacity for production. Hegel’s logic is most evident in his discussion of the social underclass, the rabble. Society, he argues, not only must be concerned with the right to subsistence, but also with the duty to perform. “It is not just starvation that is at stake here; the wider viewpoint is the need to prevent a rabble from emerging. Since civil society is responsible for feeding its members, it also has the right to press them to provide for their own livelihood” (§240). Although Hegel does assert that people should have enough to survive, he also warns that the state should not indulge them. They must also maintain the honour that comes from supporting themselves with their own labour. Even subsistence consumption should require some sort of productive activity — perhaps, Hegel suggests, the poor should be directed to beg (§245).
+</p>
+
+<p>
+Hegel’s analysis of property and welfare advances significantly upon the Locke’s model, introducing a social and ethical dimension into processes which Locke considers to be fundamentally individual. Although Hegel proposes a notion of property that is even more explicitly productive and externalizing than Locke’s, he introduces social limits upon ownership. Furthermore, he grounds the concept of welfare in social life rather than in individual self-preservation. However, Hegel asserts that the productive powers of the particular individual should rightfully determine the extent to which one should be allowed to consume social welfare. In contrast, Emmanuel Levinas’s notion of selfhood begins with consumption rather than production, leading him to reconceptualise radically the role of property.
+</p>
+<h4 id="toc4">Levinas</h4>
+
+
+<p>
+The work of Emmanuel Levinas attempts to rethink the position of the individual self, reconsidering the way it is structured as a responsibility to the other person. Such an inquiry into selfhood necessarily raises the question of what is subsumed within the personal sphere, the <em>suum.</em> In his first <em>magnum opus, Totality and Infinity</em>, Levinas expresses this idea with a phrase borrowed from both Hegel and Sartre, writing that individual is â€˜for-itself.’ “The subject is â€˜for itself.’ It represents itself and knows itself as long as it is. But in knowing or representing itself, it possesses itself, dominates itself, extends its identity to what of itself comes to refute its identity” (87). Selfhood, Levinas explains, is not a stable identity but a process of self-identification, of appropriating the diversity of otherness and integrating it back into a unitary selfhood. Within <em>Totality and Infinity</em>, he delineates the steps by which this procedure occurs. Before the self involves itself in productive self-creation, he explains, its experience begins through consumption.
+</p>
+
+<p>
+Levinas explains that the ego is first produced as something that enjoys existence. The ego is neither a particular instance of a universal category nor something that partakes of elemental forces or codes, but rather something that lives a contented life, living from its contents, fulfilling itself by filling itself. Levinas describes this initial relationship to the world using the metaphorical language of eating, stating “Nourishment â€¦ is the transmutation of the other into the same, which is in the essence of enjoyment: an energy that is other, recognized as other â€¦ becomes, in enjoyment, my own energy, my strength, me. All enjoyment is in this sense alimentation” (111). This description of the dynamic emergence of selfhood contrasts dramatically with the analyses of Hegel and Locke. For Hegel, particularity first develops through the exercise of freedom, by the way one expresses oneself through the externalization of one’s will in property. Although Locke begins with self-preservation and the biblical dispensation for enjoyment, it is productive labour that turns the world into one’s own. In contrast, Levinas explains that the self initially relates to the other through a process of incorporation and not externalization, through consumption and not production. By emphasizing consumption, Levinas seems to be drawing attention the way in which one begins one’s existence — not as an agent asserting its sovereign will and projecting its spirit onto things but rather as someone vulnerable who needs to be sustained by the world in order to survive.
+</p>
+
+<p>
+More than a reaction to either Locke or Hegel, Levinas’s emphasis on consumption seems to be a response to the way that Heidegger initially situates <em>Dasein</em> (human being). According to Heidegger, <em>Dasein</em> finds itself already thrown into a situation that surpasses it (174:135). Although this state of thrownness indicates certain susceptibility within its constitution, <em>Dasein</em> overcomes this passivity by recognizing how it is already engaged in the world. <em>Dasein</em> is already involved in a variety of productive relationships; it is related to things through relationships of utility that beckon to its <em>hand</em>. Once <em>Dasein</em> recognizes its engaged existence through the possessive relationships of mine-ness (<em>Jemeinenigkeit)</em> and authenticity / own-ness (<em>Eigenlich</em>), it can actively grasp things as they refer to it as ready-to-hand (<em>Vorhanden</em>)<em>,</em> concerning itself by “producing, manipulating, and the like” (88) <em>.</em> According to Levinas, one first relates to the world through the mouth that eats rather than the hand that uses: man’s initial relationship is consuming the elemental rather than acting within Being. He remarks, “The consumption of foods is the food of life” (114). Therefore, he criticizes Heidegger’s analysis for its overemphasis on productivity at the expense of consumption, remarking, “[Heidegger’s model of the] world as a set of implements ... bears witness to a particular organization of labour in which foods take on the signification of fuel in the economic machinery.... <em>Dasein</em> in Heidegger is never hungry” (134).
+</p>
+
+<p>
+Levinas describes several phenomenological transformations that respond to this dynamic of hunger. Part of this process entails the development of an economy in which personal property can exist. In itself, pure enjoyment does not engender any property ownership. Levinas employs the notion of the “elemental” to explain why this is so. Whereas Hegel finds a lack of will, a <em>res nullis,</em> within the natural world, Levinas describes it as permeated by anonymous elemental forces. Qualities without substances content sensible enjoyment. For example, Levinas states that one enjoys the “blue of the sky” (141). Here, he seems to be claiming that affectivity responds to the adjectival <em>blue</em> rather than a nominal thing such as the ideal of <em>blueness</em>, or the particular object described by blue, <em>the sky</em>. Affect responds to intensities, not to objects. Thus, Levinas states that these elements are “<em>coming always</em> without my being able to <em>possess</em> the source” (141). That is, within sensibility, one does not find concrete things which could be seized as property. Furthermore, Levinas explains enjoyment as a passive process, in which one is affected, undergoing waves of sensation. Levinas thus claims that ownership is ambiguous within this realm, writing “to possess by enjoying is also to be possessed” (158). In order for private property to emerge, the relationship of enjoyment must be transformed into a new configuration, a phenomenon which Levinas calls the Home.
+</p>
+
+<p>
+Levinas’s notion of the Home seems to be an adaptation of Heidegger’s description of how the individual relates to the world. In <em>Being and Time</em>, Heidegger argues that the self is not separated from things as a subject is from an object, but is already engaged in the world. According to Heidegger, the reason why <em>Dasein</em> is always already in a productive, manipulative relationship with the world is because it is always already “dwelling alongside” the world (54:80ff). Levinas’s discussion of the “Home” seems to indicate his ironic critique of this idea. For Levinas, the Home is precisely the event that terminates engagement, separating the individual from the immediacy of his enjoyment. “Man abides in the world as having come to it from a private domain, from being at home with himself, in which at each moment that he retires” (152). Emerging from the welcome granted to him by an other person’s hospitality, the home establishes a private being, walled off from the anonymity of sensible elements.
+</p>
+
+<p>
+By situating oneself inside the private realm of one’s domicile, one can relate the outside world back to oneself, laying claim to things within it as one’s property. This home enables labour and possession by creating a breach between the self and the elements in which it had been absorbed. Through this distance, one can exercise the power of a labouring hand which exercises labour and identifies property. Overcoming the transience of sensual affect, the hand draws from the element concrete things, objects that endure through time. In many ways, Levinas’s description of how property is acquired echoes Hegel’s notion that possession negates the independence of the thing (§59): “labour in its possessive grasp suspends the independence of the elementâ€¦ as property the thing is an existent that has lost its being” (158). For Levinas as for Hegel, possession entails the absolute domination of the property by the owner.
+</p>
+
+<p>
+According to Levinas, my encounter with the other person prevents the spread of this domination. This transcendental experience of confronting another person is not akin either to sensual enjoyment or to masterful possession. The other person is an exterior entity, someone that cannot be absorbed into my internal sphere or made into part of my identity. However, this encounter is not experienced as a negative limit but rather as a something that is overly positive. The other person, according to Levinas, is not something that eludes the grasp of possession but someone who overwhelms it. In this experience, he claims, “the I, nonetheless, contains in itself what it can neither contain nor receive solely by virtue of its own identity” (27). Envisioning the other person’s visage, one’s mind is confronted with a paradoxical experience of containing more than its capacity, something that could not have come from consciousness itself and that consciousness can not integrate into the self’s own identity. When the other person expresses herself, she produces an image or a work that can be appropriated, yet simultaneously she also expresses a transcendence that cannot be dominated. However she presents herself, she both preserves her own privacy and maintains the ability to respond in unforeseeable ways. According to Levinas, the other person transcends not just the self’s power, but its power for power (198). The only way that one could attempt to exercise absolute power over another person, to appropriate them as property, would be to murder them. However, murder would grant one possession of only a corpse, not the person herself.
+</p>
+
+<p>
+The encounter with the other person alters the self’s intimate relationship to the world it possesses and allows for the emergence of a common sphere. Complementing the phenomenology of the Home, Levinas describes another process that conditions ownership, the genesis of the general. He explains that, because the other person halts the self’s effort to appropriate, it both throws property into question and conditions it. “Possession itself refers to more profound metaphysical relations: a thing does not resist acquisition. Other possessors â€“ those whom one cannot possess â€“ contest and therefore can sanction possession itself” (162). The presence of other persons challenges my immediate enjoyment of goods, and removes me from my solitary experience of them. Paradoxically, however, this same interaction also allows for the establishment of property. In order for appropriation to occur, a subject must be counterposed against a field of objects. According to Levinas, one achieves this separation by presenting oneself and one’s goods to the outside gaze of the visage, to the other person’s vision. “In order that I be able to see things in themselves, that is, represent them to myself, refuse both enjoyment and possession, I must know how <em>to give</em> what I possess” (171). According to Levinas, I become aware of the general sphere once I generously offer my world to the other person.
+</p>
+
+<p>
+With this analysis, Levinas’s account of the commons differs dramatically from Locke and Hegel. Although Locke believes that the world was given to man in common, only the negative duty to avoid injuring others remains after creation. Since the right to existence and the right to property are individuated, generality can only emerge from a consent reached between separated persons pursuing their own ends. On the other hand, Hegel understands the universal order of the state as that which already conditions the substantial objectification of the particular person. In contrast, Levinas asserts that I move from my own solitary enjoyment to the common world through communicating with the other person and entering into commerce with him. Levinas’s analysis of the commons seems to be preferable than that of Locke, who treats the commons either as a something natural that should be privatized or as the epiphenomenal outcome of aggregated interests. The contrast between Hegel and Levinas, the question of whether we move from the general to the interpersonal or the interpersonal to the general, is much more subtle. Here it seems worth noting, though, that within <em>The Philosophy of Right</em>, Hegel only seems to consider the logical categories of particularity and universality. He has no comparable term for alterity, no way to discuss the unique phenomenon of the other person, as he did in the <em>Phenomenology of Spirit.</em>
+</p>
+
+<p>
+For Levinas, the realm of generality is populated not by property or by objects, but by works. Labour not only incorporates things into my existence, it also produces a thing exterior to myself, a work, a thing that attests to the absence of the worker. Levinas uses this notion of the work to argue against Locke and Hegel’s assertion that labour creates property. “The product of labour is not an inalienable possession, and it can be usurped by the Other. Works have a destiny independent of the I, are integrated into an ensemble of works: they can be exchanged, that is, be maintained in the anonymity of money” (176). Whereas Hegel explained how property expresses the self by the way it embodies the human will, Levinas insists that the work expresses the will as something from which the will has removed itself. Production for Levinas does not expand the personal sphere, but rather creates something external to it, something that can be expropriated and manipulated by other wills. For Levinas, my labour not only secures what belongs to me, but also situates those expressions of myself in a general economy where they can be appropriated by anyone. Therefore, the very act of self-assertion and self-manifestation is already a primary exposure and self-alienation. “The other can dispossess me of my work, take it or buy it, and thus direct my very behaviour; I am exposed to instigation. The work is destined to this alien <em>Sinngebung</em> [meaning-giving] from the moment of its origin in me” (227).
+</p>
+
+<p>
+Levinas describes the reverse process in a manner that further complicates the idea of ownership. Just as our absence is signalled in the ways that we express ourselves in our works, we also appropriate absences through our acquisitions. The other person, Levinas explains, is symbolized through the way that he has expressed himself in his works. Thus, I can acquire a certain kind of access to him through the way the person has expressed himself, but, Levinas explains, “we penetrate into this interior world as by burglary” (177). Levinas’s metaphor of burglary seems particularly striking in this discussion of property. As mentioned before, the primary threat against which Locke’s treatise defends is that of robbery: because the primary right of individuals is to promote their own self-interest, any infraction upon this privilege legitimates severe retribution. In contrast, Levinas’s describes how property is already theft: property is already situated in a public realm, and thus already subject to the economic dynamics of dispossession. More strikingly, Levinas’s example reconstrues the notion of thievery and the way it affects the personal sphere. For Levinas, the thief does not represent someone who takes property away from the sphere of selfhood, the <em>suum</em>, but rather someone who penetrates into it<em>.</em>
+</p>
+
+<p>
+Levinas further explores the susceptibility of the personal sphere in his second major book, <em>Otherwise than Being. Otherwise than Being</em> reworks the conceptual architecture of <em>Totality and Infinity</em>, focusing more closely on how the personal sphere develops from its responsibility to other persons. According to Levinas, the Western idea of selfhood is based on the idea that the self can possess itself through an act of identification. “In self-consciousness we identify ourselves across the multiplicity of temporal phases. It is as though subjective life in the form of consciousness consisted in being itself losing itself and finding itself again so as to <em>possess itself</em> by showing itself, proposing itself as a theme, exposing itself in truth” (99). In this statement, Levinas seems to be locating the problem of self-consciousness in what he refers to in an early essay as Heraclitus’s problem of the “illusory present” (“Reflections,” 65). Given that everything changes through the dynamic flux of time, how could one ever posit a stable identity for a thing such as the self? If one is always changing, isn’t the self already dispersed in otherness? Levinas claims that philosophy has consistently tried to resolve these problems by developing ways that one can integrate this diversity. It has proposed various themes through which one can grasp phenomena, allowing one to convert the external other into internal property and thereby establish self-possession.
+</p>
+
+<p>
+Levinas challenges the authority of these thematic organizing principles by demonstrating that before consciousness can appropriate the ex-ternal, the self is already ex-posed, already open to otherness. From the very beginning, the <em>suum</em> is already directed by its responsibility to other people. <em>Otherwise than Being</em> explains this prior exposure by clarifying one of the most puzzling aspects of <em>Totality and Infinity</em>: how is the “other” related to the “Other.” <em>Totality and Infinity</em> had presented two stages of the self’s development. First, the self emerges by integrating the “other” into the same, creating the identity of the self. Secondly, the self relates to the human “Other” as a transcendental entity that can not be appropriated. In <em>Otherwise than Being,</em> Levinas looks more carefully at the first stage of this process, explaining how sensible enjoyment and consumption is already ethical. Within sensibility, the self does not yet exist as a self-sufficient entity. As in <em>Totality and Infinity,</em> Levinas explains that consumption is the process by which the self achieves its identity. “The taste is the way a sensible subject becomes a volume, or the irreducible event in which the spatial phenomenon of biting becomes the identification called me, which becomes me through the life that lives from its very life” (73). Levinas argues that within this eating there is already a hunger that drives it. Whereas consciousness is driven to fulfill itself with contents, there is an underlying emptiness that perpetually troubles this fullness. According to Levinas, this emptiness indicates the presence of the other person’s absence. “The relationship with the other puts me into question, empties of myself and empties me without end, showing me ever new resources. I didn’t know I was so rich, but I no longer have the right to keep anything for myself” (“Meaning”, 94). One’s responsibility towards the other splits me open, preventing me from isolating myself as a self-sufficient, self-possessed identity. Levinas describes this process as an inversion and reversal of consumption: eating not only creates identity by internalizing the outside; it is also a “gnawing away at this very identity â€“ identity gnawing away at itself â€“ in a remorse” (<em>OTB,</em> 114).
+</p>
+
+<p>
+According to Levinas, the phenomenology of sensibility indicates an underlying vulnerability and exposedness to other persons. In contrast to <em>Totality and Infinity</em>‘s claim that the self could be characterized as “for itself,” Levinas describes it in <em>Otherwise than Being</em> as a “for-the-other.” The very movement of incorporating otherness is also equivalent to being haunted by others already within oneself. The self is already committed to others before it is concerned with itself: it is exposed, posited in an external space filled with the wills of others. In <em>Totality and Infinity,</em> Levinas explained that the sphere of generality was comprised by works that testified to the absent wills of other people. This would suggest that, when we consume what the world offers, we are appropriating the remnants of others, incorporating their works and their actions as our own. We are thus claimed by others from the inside; we are created as entities who are already responsible for the legacy that other persons have left behind. Levinas explains “There is a paradox in responsibility, in that I am obliged without this obligation having begun in me, as though an order slipped into my consciousness like a thief, smuggled itself in me” (13). As in <em>Totality and Infinity</em>, Levinas’s reference to the thief refers not to the act of taking away an external object, but of penetrating into the interior. In <em>Otherwise than Being,</em> Levinas pushes this metaphor even further, to assert that consumption animates one’s own identity from the inside as a responsibility towards others.
+</p>
+
+<p>
+With this understanding of the world, Levinas helps us to reconsider and perhaps to overcome the prominence that the notion of private property has assumed in this moment of history. Levinas does so by reconsidering the notions of self, world, and other upon which are founded the ideology of possessive individualism and the institution of ownership, as well as the theories of both Hegel and Locke. In both of these writers, (1) the self is understood as an agent who exercises his labour to extend his sphere of selfhood; and (2) the world is understood as an empty vessel awaiting animation by the human will. Locke and Hegel do differ significantly with regard to their views on other people. Locke practically ignores social duties, whereas Hegel shows how universal social concerns always limit individual actions. Nevertheless, even Hegel argues that the particularity of each individual’s capacities and resources counterbalance the general right to social welfare, thereby sanctioning inequities in property ownership and modes of subsistence. In contrast, Levinas does not understand the world as merely an empty field awaiting human agency. For Levinas, the world is already occupied, haunted by the efforts of past generations of workers. The self begins its existence not as a productive labourer but as a consumer already enjoying the environment that others have created. Whereas Levinas’s viewpoint seems to be a vast improvement over both Locke and Hegel’s, he still shares a blind spot with the two of them. All three writers seem excessively humanist: for all of them, what matters the most in the world is the presence of human wills, either the self’s or the other person’s or society’s. The natural world itself exerts no significant claim on its own behalf. For this reason, we still need to consider what sorts of new ethical thinking will be adequate to respond to the environmental challenges confronting our planet today.
+</p>
+<h4 id="toc5">Conclusion</h4>
+
+
+<p>
+By analysing the primary encounter between self and world as one of consumption rather than production, Levinas becomes interesting for modern political-economic thought. He dislodges the central category of property ownership, conceiving selfhood as an absolute generosity. “The subjectivity of a man of flesh and blood â€¦ is a being torn up from oneself for another in the giving to other of the bread from one’s mouth” (142). Although Levinas’s hyperbolic language is rhetorically radical, it is not entirely clear the extent to which it can be read as being politically radical. Despite Levinas’s occasional references to Marx and his philosophical usage of the term “anarchy,” he still seems to support politically the “pathos of liberalism” (<em>TI,</em> 120). Nevertheless, this paper will conclude by trying to push Levinas’s thought in a more revolutionary direction. This will be done by analysing how this essay’s themes of property, production, and consumption are discussed by the Peter Kropotkin in his seminal declaration of anarchocommunism, <em>The Conquest of Bread.</em>
+</p>
+
+<p>
+Kropotkin criticizes the idea of property ownership because, like Levinas, he understands the world to be constituted by the works of other people. Thus, Kropotkin argues that no individual can lay claim to any particular object because the value of each thing depends on the efforts of an incalculable number of others. “And even to-day; the value of each dwelling, factory, and warehouse, which has been created by the accumulated labour of the millions of workers, now dead and buried, is only maintained by the very presence and labour of legions of the men who now inhabit that special corner of the globe” (6). According to Kropotkin, property claims are impossible because one’s existence already depends upon an infinite debt to others. The world within which one acts is already constituted by the historical deeds of past workers; one’s actions only become significant because they occur within a contemporary environment where other people currently labour.
+</p>
+
+<p>
+Given that everyone’s personal effort depends radically upon the efforts of others, Kropotkin further argues that ownership claims cannot be based on labour. Here, his claim is quite different from the critique of private property levelled by Karl Marx. In Although Marx’s early “humanist” writings are quite concerned with social needs (Heller, 40), his later critique of capitalism focuses more intensely on the inequity of social production, on an analysis of how the capitalist extracts surplus value from the labourer. In <em>Capital</em>, Marx roots the source of social value in human labour. In the first chapter, he claims that the total labour power of society can be divided into discrete units of average labour expended in a given hour (129), further distinguishing between simple and skilled labour. Kropotkin objects that Marxists and other collectivists place too much emphasis on determining the appropriate value of various kinds of labour. Thus, he argues:
+</p>
+
+<p>
+It is utterly impossible to draw a distinction between the work of each of these men. To measure the work by its results leads us to an absurdity; to divide the total work and to measure its fractions by the number of hours spent on the work also leads us to absurdity. One thing remains: to put <em>needs</em> above <em>works</em>, and first of all to recognize <em>the right to live</em>, and later on <em>the right to well-being</em> for all those who took their share in production. (231)
+</p>
+
+<p>
+Rather than focusing on labour, ownership, and production, Kropotkin asserts that people should organize themselves in such a way as to satisfy the human needs of consumption.
+</p>
+
+<p>
+Kropotkin criticizes the tradition of political economy from Adam Smith to Marx for consistently commencing their analyses with production rather than consumption. He defends his own decision to reverse the order by explaining
+</p>
+
+<p>
+Perhaps you will say [putting production before consumption] is logical. Before satisfying needs you must create the wherewithal to satisfy them. But before producing anything, must you not feel the need of it? Is it not necessity that first drove man to hunt, to raise cattle, to cultivate land, to make implements, and later on to invent machinery? Is it not the study of needs that should govern production? It would therefore be quite as logical to begin by considering needs and afterwards to discuss the means of production in order to satisfy these needs (238).
+</p>
+
+<p>
+Our capacity to produce, he claims, is sufficient to produce well-being for all, enough housing, clothing, luxury items, and food. The thing that prevents people from meeting their needs is the exploitation practiced within the contemporary system of private ownership, a system that reduces the majority of people to the barest subsistence. Instead of allowing this economic system to legitimate itself with the alibi that it practices efficient production, Kropotkin argues that we must begin by considering consumption. Society, he declares could only hope to meet the needs of all if it returns to the most fundamental question, the question of bread. “We have the temerity to declare that all have a right to bread, that there is enough bread for all, and that with this watchword of <em>Bread for All</em> the revolution will triumph” (69).
+</p>
+<h4 id="toc6">Bibliography</h4>
+
+
+<p>
+Filmer, Robert. <em>Patriarcha and Other Writings</em>, ed. J. P. Somerville. Cambridge: Cambridge University Press, 1991.
+</p>
+
+<p>
+Friends Committee on National Legislation. “Reclaiming Identity: The Repatriation of Native Remains and Culture.” March 17, 2008. <a class="text-amuse-link" href="http://www.fcnl.org/issues/item.php?item_id=1470&amp;issue_id=96">http://www.fcnl.org/issues/item.php?item_id=1470&amp;issue_id=96</a>. (Accessed September 5, 2008)
+</p>
+
+<p>
+Heidegger, Martin. <em>Being and Time</em>, trans. J. Macquarrie and E. Robinson. New York: Harper &amp; Row, 1962.
+</p>
+
+<p>
+Hegel, G. F. W. <em>Elements of the Philosophy of Right</em>, ed. Allen W. Wood<em>.</em> Cambridge: Cambridge University Press, 1991.
+</p>
+
+<p>
+Heller, Agnes. <em>The Theory of Need in Marx.</em> New York: Saint Martin’s Press, 1976.
+</p>
+
+<p>
+Knowles, Dudley. “Hegel on Property and Personality” <em>The Philosophical Quarterly</em> 33:130 (Jan 1983), 45–62.
+</p>
+
+<p>
+Lampert, Jay. “Locke, Fichte, and Hegel on the Right to Property.” In <em>Hegel and the Tradition: Essays in Honour of H. S. Harris</em>, ed. Michael Baur and John Russon, 40–73. Toronto: University of Toronto Press, 1997.
+</p>
+
+<p>
+Levinas, Emmanuel: “Meaning and Sense,” trans. Alphonso Lingis. In <em>Collected Philosophical Papers.</em> New York: Kluwer, 2004, 75–108.
+</p>
+
+<p>
+------. <em>Otherwise than Being or Beyond Essence,</em> trans. Alphonso Lingis. Pittsburgh: Duquesne Press, 2004.
+</p>
+
+<p>
+------. “Reflections on the Philosophy of Hitlerism,” trans. Sean Hand. <em>Critical Inquiry</em> 17:1 (Autumn 1990), 62–71.
+</p>
+
+<p>
+------. <em>Totality and Infinity,</em> trans. Alphonso Lingis. Pittsburgh: Duquesne Press, 1998.
+</p>
+
+<p>
+Locke, John. <em>Two Treatises on Government</em>, ed. Peter Laslett<em>.</em> New York: New American Library, 1965.
+</p>
+
+<p>
+MacNally, David. “Locke, Levellers and Liberty: Property and Democracy in the Thought of the First Whigs.” <em>History of Political Thought.</em> X:1 (Spring 1989), 17–42.
+</p>
+
+<p>
+MacPherson, C. B. <em>The Political Theory of Possessive Individualism: Hobbes to Locke.</em> Oxford: Oxford University Press, 1977
+</p>
+
+<p>
+Marx, Karl. <em>Capital: Volume 1,</em> trans. B. Fowkes. New York: Penguin, 1990.
+</p>
+
+<p>
+Olivecrona, Karl. “Locke’s Theory of Appropriation.” <em>The Philosophical Quarterly</em> 24:96 (Jul. 1974), 220–234.
+</p>
+
+<p>
+Wood, Allen W. <em>Hegel’s Ethical Thought.</em> Cambridge: Cambridge University Press, 1990.
+</p>
+
+</div>
+
+
+  </div>
+
+  <script>
+   /* don't load it at document ready, but right now, otherwise Chrome will not jump */
+   use_named_toc();
+  </script>
+
+  <div class="clearfix"></div>
+  <div id="text-optional-footer"></div>
+
+  
+
+
+  
+  
+
+  
+  <div>  </div>
+  
+
+  
+</div>
+
+  </div>
+  <div class="col-sm-pull-10 col-sm-1">
+    <div class="hidden-xs" style="height: 100px">
+    </div>
+    
+  </div>
+  <div class="col-sm-1">
+    <div class="hidden-xs" style="height: 100px">
+    </div>
+    
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.amw-register-stat').click(function() {
+            $.ajax({
+                type: 'POST',
+                data: {
+                    id: 8408,
+                    type: $(this).data('amw-register-stat-type'),
+                },
+                url: 'https://theanarchistlibrary.org/stats/register',
+            });
+        });
+    });
+</script>
+
+
+
+
+
+<script src="../static/js/amw-footnotes.js?v=1"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".footnotebody").click(function() {
+        var source = $(this).attr('id');
+        var target = source.replace(/fn/, '#fn_back');
+        $(target).effect("highlight", {}, 10000);
+    });
+    $(".footnote").click(function() {
+        var source = $(this).attr('id');
+        var target = source.replace(/fn_back/, '#fn');
+        $(target).effect("highlight", {}, 10000);
+    });
+});
+
+$(document).ready(function () {
+    var api = $('#page').data('text-json-header-api');
+    if (api) {
+        // console.log("Api is " + api);
+        $.ajax({
+            url: api,
+            dataType: 'json',
+            success: function(response) {
+                if (response.centerchapter) {
+                    $('#page h1,#page h2,#page h3').css('text-align', 'center');
+                }
+                if (response.centersection) {
+                    $('#page h1,#page h2,#page h3,#page h4,#page h5,#page h6').css('text-align', 'center');
+                }
+            }
+        });
+    }
+});
+
+</script>
+
+
+          </div>
+        </div>
+          <div>&nbsp;</div>
+          <div>&nbsp;</div>
+        </div>
+        
+        
+      </div>
+      <!-- end of row  -->
+      
+      <div class="clearfix">&nbsp;</div>
+      <div class="clearfix">&nbsp;</div>
+    </div><!-- end of main -->
+    </div><!-- end of wrap -->
+    <div id="footer" role="contentinfo">
+      <div class="footer">
+        <div class="center">
+        <span id="amw-footer-link-random">
+          <a href="https://theanarchistlibrary.org/random" title="Random">Random</a>
+        </span>
+        <span id="amw-footer-link-random-sep">|</span>
+        <span id="amw-footer-link-feeds">
+          <a href="https://theanarchistlibrary.org/feed">RSS feed</a>
+        </span>
+        <span id="amw-footer-link-feeds-sep">|</span>
+        <span id="amw-footer-link-library">
+      <a href="https://theanarchistlibrary.org/listing"
+		 title="texts sorted by title">Titles</a>
+        </span>
+
+        
+          <span id="amw-footer-link-authors-sep">|</span>
+          <span id="amw-footer-link-authors">
+            <a href="https://theanarchistlibrary.org/category/author"
+		       title="Authors">Authors</a>
+          </span>
+        
+          <span id="amw-footer-link-topics-sep">|</span>
+          <span id="amw-footer-link-topics">
+            <a href="https://theanarchistlibrary.org/category/topic"
+		       title="Topics">Topics</a>
+          </span>
+        
+
+        <span id="amw-footer-link-latest-sep">|</span>
+        <span id="amw-footer-link-latest">
+      <a href="https://theanarchistlibrary.org/latest">Latest entries</a>
+        </span>
+        <span id="amw-footer-link-opds-sep">|</span>
+        <span id="amw-footer-link-opds">
+      <a href="https://theanarchistlibrary.org/help/opds">Mobile</a>
+        </span>
+      
+        <span id="amw-footer-link-newtext">
+        <span id="amw-footer-link-newtext-sep">|</span>
+      <a href="https://theanarchistlibrary.org/action/text/new">Add a new text</a>
+        </span>
+      
+        </div>
+        
+        <div>
+          <div class="center">
+<a href="https://theanarchistlibrary.org">theanarchistlibrary.org</a> Ⓐ <a href="https://anarchistnews.org">anarchistnews.org</a>
+</div>
+        </div>
+        
+      </div>
+    </div>
+    <script src="../static/js/amw-autosuggest.js"></script>
+    <script src="../static/js/amw-navbar.js?v=2"></script>
+  </body>
+</html>
+

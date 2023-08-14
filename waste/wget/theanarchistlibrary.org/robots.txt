@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /edit/
+Disallow: /bookbuilder/
+Disallow: /bookbuilder
+Disallow: /random
+Disallow: /git/
+Sitemap: https://theanarchistlibrary.org/sitemap.txt
+# Instant mirror:
+# wget -q -O - https://theanarchistlibrary.org/mirror.txt | wget -x -N -q -i -

@@ -1,0 +1,1538 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>The Anarchism of the Other Person | The Anarchist Library</title>
+    <meta name="generator" content="AMuseWiki - https://amusewiki.org" />
+    <meta name="description" content="Mitchell Cowen Verter The Anarchism of the Other Person" />
+    <link rel="shortcut icon"
+          href="../sitefiles/en/favicon.ico" />
+    
+    <link rel="icon"             href="../sitefiles/en/opengraph.png" type="image/png" />
+    <link rel="apple-touch-icon" href="../sitefiles/en/opengraph.png" type="image/png" />
+    <link rel="search" href="https://theanarchistlibrary.org/opensearch.xml"
+          type="application/opensearchdescription+xml"
+          title="The Anarchist Library">
+    <link rel="alternate" type="application/rss+xml"
+          title="The Anarchist Library" href="https://theanarchistlibrary.org/feed" />
+    <link rel="alternate" type="application/atom+xml;profile=opds-catalog;kind=navigation"
+          href="https://theanarchistlibrary.org/opds" title="OPDS"/>
+    
+
+    
+
+    <!-- open graph stanza -->
+    <meta property="og:title" content="The Anarchism of the Other Person" />
+    <meta property="og:type" content="article" />
+    <meta property="og:article:author" content="Mitchell Cowen Verter" />
+    <meta property="og:article:tag" content="Emmanuel Levinas" />
+    <meta property="og:image" content="https://theanarchistlibrary.org/sitefiles/en/opengraph.png" />
+    <meta property="og:image:width" content="300" />
+    <meta property="og:image:height" content="238" />
+    <meta property="og:url" content="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person" />
+    <meta property="og:site_name" content="The Anarchist Library" />
+    <meta property="og:description" content="Mitchell Cowen Verter The Anarchism of the Other Person" />
+    <!-- end graph stanza -->
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="../static/js/jquery-3.7.0.min.js">
+    </script>
+    <link rel="stylesheet"
+          href="../static/css/bootstrap.amusewiki.css?v=4" />
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../static/js/bootstrap.min.js?v=5">
+    </script>
+
+    <link rel="stylesheet"
+          href="../static/css/fork-awesome.min.css?v=3" />
+
+    <!-- jquery-ui for the highlight effect everywhere and autocompletion
+         source in https://theanarchistlibrary.org/static/js/jquery-ui-1.13.2.custom/jquery-ui.js -->
+
+    <script src="../static/js/jquery-ui-1.13.2.custom/jquery-ui.min.js" >
+    </script>
+
+    
+
+    
+    <link rel="stylesheet" type="text/css"
+          href="../static/css/amuse.css?v=9" />
+
+    
+
+    
+    <link rel="stylesheet" type="text/css"
+          href="../static/css/amusewiki.css?v=44" />
+    <script src="../static/js/amuse.js?v=6"></script>
+    <script>
+      function amw_confirm() { return confirm('Are you sure?') }
+    </script>
+
+    
+
+    <script src="../static/js/imagesloaded.pkgd.min.js?v=1"></script>
+    <script src="../static/js/amw-anchors.js?v=2"></script>
+    <script type="application/ld+json">
+{
+   "@context" : "http://schema.org",
+   "@type" : "WebSite",
+   "potentialAction" : {
+      "@type" : "SearchAction",
+      "query-input" : "required name=search_term_string",
+      "target" : "https://theanarchistlibrary.org/search?query={search_term_string}"
+   },
+   "url" : "https://theanarchistlibrary.org/"
+}
+
+    </script>
+  </head>
+  <body>
+    <div id="amw-nav-bar-top" class="navbar navbar-default" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse"
+                  data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <span>          <a class="amw-navlogo" href="https://theanarchistlibrary.org/">
+            <img src="../sitefiles/en/navlogo.png"
+                 title="The Anarchist Library"
+                 class="amw-navlogo-img"
+                 alt="The Anarchist Library" />
+          </a>
+                    </span>
+        </div>
+        <div class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right"
+                method="get" role="search"
+                id="formsearchbox" action="https://theanarchistlibrary.org/search">
+            <div class="form-group">
+              <div class="input-group">
+		        <input type="text" class="form-control search-autocomplete"
+                       aria-label="Search"
+                       placeholder="Search"
+                       name="query" value=""/>
+                <div class="input-group-btn">
+                  <button type="submit" class="btn btn-primary">
+                    <span class="sr-only">Search</span>
+                    <span class="fa fa-search fa-fw"></span>
+                  </button>
+                </div>
+              </div>
+            </div>
+          </form>
+          <ul id="amw-top-nav-right-menu" class="nav navbar-nav navbar-right">
+            <li class="dropdown hidden-when-no-toc" style="display:none">
+              <a class="amw-navlogo dropdown-toggle" href="anonymous-the-anarchism-of-the-other-person#"
+                 data-toggle="dropdown"
+                 title="Table of Contents">
+                <span class="fa fa-list text-primary fa-fw"></span>
+                <span class=" visible-xs-inline">
+                  Table of Contents
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul id="amw-top-nav-toc" class="dropdown-menu dropdown-menu-left">
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="anonymous-the-anarchism-of-the-other-person#" class="dropdown-toggle"
+                 id="amw-top-nav-archive-menu"
+                 title="texts by authors, title, topic..."
+                 data-toggle="dropdown">
+                <span class="fa fa-heart fa-fw"></span>
+                <span class="hidden-sm" id="amw-catalog-label">
+                  Archive
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+	            <li class="active" 
+                      id="amw-nav-bar-titles">
+                  <a href="https://theanarchistlibrary.org/listing"
+		             title="texts sorted by title">
+                    Titles
+                  </a>
+                </li>
+
+                
+                  <li
+                                                     id="amw-nav-bar-authors">
+                    <a href="https://theanarchistlibrary.org/category/author"
+		               title="Authors">
+                      Authors
+                    </a>
+                  </li>
+                
+                  <li
+                                                     id="amw-nav-bar-topics">
+                    <a href="https://theanarchistlibrary.org/category/topic"
+		               title="Topics">
+                      Topics
+                    </a>
+                  </li>
+                
+                
+                <li role="presentation" class="divider"
+                    id="amw-nav-bar-latest-separator"></li>
+                <li
+                   id="amw-nav-bar-latest">
+                  <a href="https://theanarchistlibrary.org/latest"
+		             title="Latest entries">
+                    Latest entries
+                  </a>
+                </li>
+
+                
+
+                
+                
+                <li >
+                  <a href="https://theanarchistlibrary.org/stats/popular">Popular Texts</a>
+                </li>
+                
+                
+
+
+                
+                <li role="presentation" class="divider"></li>
+                <li>
+                  <a href="https://theanarchistlibrary.org/action/text/new">
+                    Add a new text
+                  </a>
+                </li>
+                
+                
+              </ul>
+            </li>
+            
+
+            
+            <li class="dropdown" id="amw-top-nav-specials">
+              <a href="anonymous-the-anarchism-of-the-other-person#" class="dropdown-toggle"
+                 title="about, links..."
+                 data-toggle="dropdown">
+                <span class="fa fa-ellipsis-h fa-fw"></span>
+                <span class="visible-lg-inline visible-xs-inline" id="awm-special-label">
+                  More
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/about">About the project</a>
+                </li>
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/webchat">Live Chat (IRC/Matrix)</a>
+                </li>
+                
+                <li>
+                  <a href="https://theanarchistlibrary.org/special/tor-onion-services">Tor Onion Services</a>
+                </li>
+                
+                <li>
+                  <a href="https://bookshelf.theanarchistlibrary.org/">Bookshelf (wiki)</a>
+                </li>
+                
+                <li>
+                  <a href="https://littleblackcart.com/index.php?dispatch=products.view&amp;product_id=852">Donate</a>
+                </li>
+                
+                <li>
+                  <a href="https://shh.anarchyplanet.org/">SHH! THIS IS A LIBRARY! (forums)</a>
+                </li>
+                
+                <li>
+                  <a href="https://bookshelf.theanarchistlibrary.org/library/librarian-picks">Librarian Picks</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+
+            
+            <li class="dropdown" id="amw-top-nav-projects">
+              <a href="anonymous-the-anarchism-of-the-other-person#" class="dropdown-toggle"
+                 title="Other languages"
+                 data-toggle="dropdown">
+                <span class="fa fa-th fa-fw"></span>
+                <span class="hidden-sm" id="amw-sitegroup-label">
+                  Other languages
+                </span>
+                <b class="caret hidden-sm"></b>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-left">
+                
+                <li >
+                  <a href="https://anarhisticka-biblioteka.net">Anarhistička biblioteka</a>
+                </li>
+                
+                <li >
+                  <a href="https://fr.theanarchistlibrary.org">Bibliothèque Anarchiste (French)</a>
+                </li>
+                
+                <li >
+                  <a href="https://da.theanarchistlibrary.org">Det Anarkistiske Bibliotek (Danish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://bibliotecaanarchica.org">Biblioteca anarchica (Italian)</a>
+                </li>
+                
+                <li >
+                  <a href="https://www.anarhisticka-biblioteka.org">Анархистичка библиотека (Macedonian)</a>
+                </li>
+                
+                <li >
+                  <a href="http://anarchistischebibliothek.org">Anarchistische Bibliothek (German)</a>
+                </li>
+                
+                <li >
+                  <a href="http://sv.theanarchistlibrary.org">Det Anarkistiska Biblioteket (Swedish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://pl.anarchistlibraries.net">Anarcho-Biblioteka (Polish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://fi.theanarchistlibrary.org">Anarkistinen kirjasto (Finnish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://tr.anarchistlibraries.net">Anarşist Kütüphane (Turkish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://es.theanarchistlibrary.org">Biblioteca anarquista (Spanish)</a>
+                </li>
+                
+                <li >
+                  <a href="https://kr.theanarchistlibrary.org">아나키스트 도서관 (Korean)</a>
+                </li>
+                
+                <li >
+                  <a href="https://ru.theanarchistlibrary.org">Библиотека Анархизма (Russian)</a>
+                </li>
+                
+                <li >
+                  <a href="https://gr.theanarchistlibrary.org">Η Αναρχική Βιβλιοθήκη (Greek)</a>
+                </li>
+                
+                <li >
+                  <a href="https://a-bieb.nl">De Anarchistische Bibliotheek (Dutch)</a>
+                </li>
+                
+                <li >
+                  <a href="https://sea.theanarchistlibrary.org">Southeast Asian Anarchist Library</a>
+                </li>
+                
+                <li >
+                  <a href="https://ro.theanarchistlibrary.org">Biblioteca Anarhistă</a>
+                </li>
+                
+                <li >
+                  <a href="https://ja.theanarchistlibrary.org">無政府主義図書館 (Japanese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://eo.theanarchistlibrary.org">Esperanto Anarchist Library</a>
+                </li>
+                
+                <li >
+                  <a href="https://anarchistickaknihovna.org">Anarchistická knihovna</a>
+                </li>
+                
+                <li >
+                  <a href="https://zh.anarchistlibraries.net/">中文无治主义图书馆 (Chinese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://bibliotecaanarquista.org/">Biblioteca Anarquista (Portugese)</a>
+                </li>
+                
+                <li >
+                  <a href="https://sq.anarchistlibraries.net/">Biblioteka-Anarkiste (Albanian)</a>
+                </li>
+                
+              </ul>
+            </li>
+            
+
+            
+
+            
+            
+            <li  id="amw-top-nav-bookbuilder">
+              <a href="https://theanarchistlibrary.org/bookbuilder" title="Bookbuilder">
+                
+                <span class="fa fa-book  fa-fw"></span>
+                <span class="visible-lg-inline visible-xs-inline">
+                  Bookbuilder
+                </span>
+                
+              </a>
+            </li>
+            <li id="amw-navbar-opds-link">
+              <a href="https://theanarchistlibrary.org/help/opds" title="Mobile">
+                <span class="fa fa-tablet fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Mobile applications
+                </span>
+              </a>
+            </li>
+            <li id="amw-navbar-feed-link">
+              <a href="https://theanarchistlibrary.org/feed" title="RSS feed">
+                <span class="fa fa-rss fa-fw"></span>
+                <span class="visible-xs-inline">
+                  RSS feed
+                </span>
+              </a>
+            </li>
+            <li id="amw-navbar-opds-random">
+              <a href="https://theanarchistlibrary.org/random" title="Random">
+                <span class="fa fa-random fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Random
+                </span>
+              </a>
+            </li>
+            
+            <li id="amw-navbar-add-new-text-icon">
+              <a href="https://theanarchistlibrary.org/action/text/new" title="Add a new text">
+                <span class="fa fa-plus fa-fw"></span>
+                <span class="visible-xs-inline">
+                  Add a new text
+                </span>
+              </a>
+            </li>
+            
+            
+              <li id="amw-navbar-theme-switcher">
+                <a rel="nofollow" href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person?__switch_theme=1" title="Switch theme">
+                  
+                    <span class="fa fa-moon-o"></span>
+                  
+                </a>
+              </li>
+            
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+    <div id="wrap">
+      <div id="main"
+           role="main"
+           class="container clear-top">
+      
+      
+
+
+      <div class="row">
+        <div id="amw-main-layout-column"
+             class="col-sm-12">
+
+          <div id="js-site-settings" style="display:none"
+               data-use-named-toc=""></div>
+
+
+
+        <div id="widepage-container">
+          <div id="widepage">
+            
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">Close</button>
+        <h4 class="modal-title" id="myModalLabel">
+          Table of Contents
+        </h4>
+      </div>
+      <div class="modal-body" id="pop-up-toc"></div>
+      <div class="modal-footer center">
+        <button type="button" class="btn btn-default center" data-dismiss="modal">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+<div class="row">
+  <div class="col-sm-10 col-sm-push-1">
+
+
+<div lang="en"
+     id="page" data-text-json-header-api="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person/json">
+  
+  
+  <div id="preamble-container" class="well">
+    <div id="preamble">
+    
+    <div id="texttitle">
+      <span id="texttitle-label">
+        <strong>Title:</strong>
+      </span>
+      The Anarchism of the Other Person
+    </div>
+    
+
+          <div id="authors">
+      <span id="authors-label">
+        <strong>Author:</strong>
+      </span>
+      
+                <a href="https://theanarchistlibrary.org/category/author/mitchell-cowen-verter" class="text-authors-item">Mitchell Cowen Verter</a>
+        
+      
+      </div>
+          <div id="topics">
+      <span id="topics-label">
+        <strong>Topic:</strong>
+      </span>
+      
+                <a href="https://theanarchistlibrary.org/category/topic/emmanuel-levinas" class="text-topics-item">Emmanuel Levinas</a>
+        
+      
+      </div>
+    
+
+    
+
+
+    
+
+    
+    
+    
+    
+
+    
+    <div id="preamblesrc">
+      <span id="preamblesrc-label">
+        <strong>Source:</strong>
+      </span>
+      Retrieved on February 19th, 2019 from https://www.waste.org/~roadrunner/writing/Levinas/AnarchismOtherPerson_WEB.htm
+    </div>
+    
+
+    
+
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+      
+      
+    
+
+    
+    
+  </div>
+
+  <!-- end of the preamble -->
+  
+  <div id="downloadformats">
+    <div id="downloadformats-title">
+      <!-- <strong>Downloads</strong> -->
+    </div>
+    <div id="downloadformats-list">
+      
+      
+      
+      <span  id="pdfgeneric" >
+        <span id="download-format-pdf">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="plain PDF"
+                  ></span><span class="sr-only"> plain PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="pdfa4imp" >
+        <span id="download-format-a4.pdf">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.a4.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="a4.pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="A4 imposed PDF"
+                  ></span><span class="sr-only"> A4 imposed PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="letterimp" >
+        <span id="download-format-lt.pdf">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.lt.pdf" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="lt.pdf">
+            <span class="fa fa-file-pdf-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Letter imposed PDF"
+                  ></span><span class="sr-only"> Letter imposed PDF</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadepub" >
+        <span id="download-format-epub">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.epub" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="epub">
+            <span class="fa fa-file-epub fa-2x fa-border"
+                  aria-hidden="true"
+                  title="EPUB (for mobile devices)"
+                  ></span><span class="sr-only"> EPUB (for mobile devices)</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadhtml" >
+        <span id="download-format-html">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.html" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="html">
+            <span class="fa fa-print fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Standalone HTML (printer-friendly)"
+                  ></span><span class="sr-only"> Standalone HTML (printer-friendly)</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadtex" >
+        <span id="download-format-tex">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.tex" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="tex">
+            <span class="fa fa-file-code-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="XeLaTeX source"
+                  ></span><span class="sr-only"> XeLaTeX source</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadsrc" >
+        <span id="download-format-muse">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.muse" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="muse">
+            <span class="fa fa-file-text-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="plain text source"
+                  ></span><span class="sr-only"> plain text source</span></a>
+        </span>
+      </span>
+      
+      
+      
+      <span  id="downloadzip" >
+        <span id="download-format-zip">
+          <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person.zip" class="amw-register-stat"
+             rel="nofollow"
+             data-amw-register-stat-type="zip">
+            <span class="fa fa-file-archive-o fa-2x fa-border"
+                  aria-hidden="true"
+                  title="Source files with attachments"
+                  ></span><span class="sr-only"> Source files with attachments</span></a>
+        </span>
+      </span>
+      
+      
+      
+      
+        
+      <span id="filehistory">
+        <a href="https://theanarchistlibrary.org/git/en/log/a/at/anonymous-the-anarchism-of-the-other-person.muse?showmsg=1" rel="nofollow">
+          <span class="fa fa-history fa-2x fa-border"
+                aria-hidden="true"
+                title="View history"
+                ></span><span class="sr-only" >View history</span></a>
+      </span>
+        
+      
+      
+      <span id="text-edit-button">
+        <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person/edit">
+          <span class="fa fa-edit fa-2x fa-border"
+                aria-hidden="true"
+                title="Edit this text"
+                ></span><span class="sr-only" >Edit this text</span></a>
+      </span>
+      
+      
+      <span id="book-builder-add-text">
+        <a href="https://theanarchistlibrary.org/bookbuilder/add/anonymous-the-anarchism-of-the-other-person"
+           id="add-to-bookbuilder"
+           rel="nofollow"
+           class="amw-register-stat"
+           data-amw-register-stat-type="bookbuilder">
+          <span class="fa fa-book fa-2x fa-border"
+                aria-hidden="true"
+                title="Add this text to the bookbuilder"
+                ></span><span class="sr-only" >Add this text to the bookbuilder</span></a>
+      </span>
+      <span id="book-builder-add-text-partial">
+        <a href="https://theanarchistlibrary.org/library/anonymous-the-anarchism-of-the-other-person/bbselect?selected=pre-post"
+           class="amw-register-stat"
+           id="add-to-bookbuilder-partial"
+           rel="nofollow"
+           data-amw-register-stat-type="bookbuilder">
+          <span class="fa fa-list-alt fa-2x fa-border"
+                aria-hidden="true"
+                title="Select individual parts for the bookbuilder"
+                ></span><span class="sr-only" >Select individual parts for the bookbuilder</span></a>
+      </span>
+      
+      
+          </div>
+  </div>
+  
+
+  <script>
+   if (!$('#downloadformats-list').children().length) {
+       $('#preamble').css('padding-bottom', '0px');
+   }
+  </script>
+
+  </div>
+  
+  
+  <div class="center">
+    <div id="amw-title-page-header" class="page-header">
+      
+      <h3 id="text-author">Mitchell Cowen Verter</h3>
+      
+      <h1 id="text-title">The Anarchism of the Other Person
+        
+      </h1>
+    </div>
+  </div>
+  
+  <div id="htmltextbody">
+    
+    
+    <div id="amw-blog-container-prepended"></div>
+    
+<div class="table-of-contents" dir="ltr">
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc1">The Anarchism of the Other Person</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc2">anarcian</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc3">Anarchy Before History</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc4">What is Property?</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc5">Autarchy or Anarchy</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc6">University of Nanterre: 1968</a></p>
+<p class="tableofcontentline toclevel3"><span class="tocprefix">&#160;&#160;&#160;&#160;&#160;&#160;</span><a href="anonymous-the-anarchism-of-the-other-person#toc7">Bibliography</a></p>
+
+</div>
+
+<div id="thework" dir="ltr">
+
+<p>
+Throughout his writing<a href="anonymous-the-anarchism-of-the-other-person#fn1" class="footnote" id="fn_back1">[1]</a>, the French philosopher Emmanuel Levinas uses the term <em>anarchy</em> to critique different modes of temporal, thematic, and political ordering. After an exploration of the Greek meanings of anarcian, this paper discusses the way that Levinas uses <em>anarchy</em> to point towards an ethical responsibility that arises before the political time of history. This interruption of time also disrupts the self&#x27;s ownership of personal private property. The political ramifications of Levinas&#x27; distinction between autarchy, the selfish assertion of absolute ownership, and anarchy is illuminated by comparison with the works of various anarchists. Lastly, Levinas&#x27; development of the notion of <em>anarchy</em> is historically situated among the actual anarchist events unfolding around him.
+</p>
+<h4 id="toc1">The Anarchism of the Other Person<a href="anonymous-the-anarchism-of-the-other-person#fn2" class="footnote" id="fn_back2">[2]</a></h4>
+
+
+<p>
+Reading Emmanuel Levinas for his anarchism may at first seem like an improbable task. Most attempts to think the political in Levinas have sought to bolster the ethical imperatives of the liberal state or to justify the oftentimes questionable — sometimes horrible — actions of the state of Israel. Certain writers have reduced Levinas’ profound cry for ethics to a dull moralism, a rhetorical rod used to beat down various trends of radical thought. As Simon Critchley remarks, “There is a danger in the canonization of Levinas … as some sort of apologist for a conservative republicanism whose vapid universalism would somehow be caught in Levinas’s slogan ‘ethics is first philosophy’”<a href="anonymous-the-anarchism-of-the-other-person#fn3" class="footnote" id="fn_back3">[3]</a> To the extent that Levinas might indicate support for such interpretations, this paper questions whether even he himself should be considered an authoritative interpreter of his own writing. As works passed on from generation to generation through an anonymous public sphere, they are radically vulnerable to critique, reinterpretation, commentary, and exegesis. Any responsible reading of Levinas’ writing must necessarily hold it up to judgment and reappropriate the legacy of what has been said in order to say again. As a response to the messianic urging that inspires Levinas, this paper will attempt to smash any interpretations that simply idolize his work in order to produce a new, iconoclastic reading.
+</p>
+<h4 id="toc2">anarcian</h4>
+
+
+<p>
+Levinas employs the word “anarchy” in all of his post-war writings as a counterpoint to both temporal and thematic orders, but in his 1968 essays <em>Humanism and An-archy</em> and <em>Substitution</em>, he focuses more closely on how one may state this anarchy in a final term. In <em>Substitution</em>, he defines ontological self-consciousness as a movement that loses and finds itself through “an ideal principle, an <em>arch</em>.”<a href="anonymous-the-anarchism-of-the-other-person#fn4" class="footnote" id="fn_back4">[4]</a> His usage of Greek terminology seems to be a deliberate attempt to engage philosophy at its Greek origin in the same manner as Martin Heidegger. Heidegger, and Reiner Schürmann after him, argue that the term <em>archē</em> enters the philosophical lexicon with Aristotle. Aristotle begins <em>Physics</em> — which Heidegger considers the foundation of Western metaphysics — by explaining that all scientific knowledge, <em>epistemē</em>, derives from a proper acquaintance with <em>archē</em>. Whereas Aristotle describes the history of Greek thought as a series of attempts to define the true nature of physical <em>archē</em>, many commentators have suggested that Aristotle himself retrospectively imposed this origin upon previous thinkers in order to position his own philosophy as the culmination of a distinguished legacy.
+</p>
+
+<p>
+Heidegger and Schürmann criticize the Aristotelian notion of <em>archē</em> for correlating the inception of a phenomenon with its domination by a principle. In the same manner that “to lead” can both signify “to initiate” and “to rule”, the term <em>archē</em> has always been used — even in the most ancient Greek writings — to signify both a commencement and a political authority. Aristotle refers to these everyday significations in Book D of the <em>Metaphysics</em>, defining <em>archē</em> as the commencement of motion, the preliminary manifestation from nature, the first knowable part, and the creation by something external. Among these meanings of <em>archē</em> as origination, Aristotle defines <em>archē</em> in another sense as rulership: “that in accordance with whose deliberate choice that which is moved is moved, such as magistracies, authorities, and despotisms.”[5]
+</p>
+
+<p>
+The collusion of the inceptive and dominative meanings of <em>archē</em> are further illuminated in <em>Politics</em>. Throughout the book, Aristotle employs the fundamental distinction between whole and part to rationalize domination. He explains that the parts of a <em>polis</em> consist of households, and that part of the art of household management, <em>oikonomos</em> (economy)<em>,</em> is acquiring property. The first kind of property Aristotle discusses is the slave, explaining that it is also the part of a whole. “Again, a possession is spoken of as a part is spoken of; for the part is not only a part of something else, but wholly belongs to it; and this is also true of a possession. The master is only the master of the slave; he does not belong to him, whereas the slave is not only the slave of his master, but wholly belongs to him.”<a href="anonymous-the-anarchism-of-the-other-person#fn6" class="footnote" id="fn_back6">[6]</a> Because the slave is always compelled to maintain his exclusive relationship of servitude to his master, one can consider his very existence to be subsumed by his master’s existence. Aristotle further justifies slavery by founding the <em>archē</em> of rulership upon the <em>archē</em> of genesis. “Authority and subordination are conditions not only inevitable but also expedient: in some cases things are marked out from the moment of birth to rule or to be ruled.”<a href="anonymous-the-anarchism-of-the-other-person#fn7" class="footnote" id="fn_back7">[7]</a> (<em>kai euthus ek genetês enia diestêke ta men epi to archē sthai ta d’ epi to archē in</em>.) He similarly naturalizes the domination of husbands over wives and of fathers over children using the same logic and the same doubling of <em>archē</em>.<a href="anonymous-the-anarchism-of-the-other-person#fn8" class="footnote" id="fn_back8">[8]</a>
+</p>
+
+<p>
+Whereas Aristotle insists that the dominative <em>archē</em> of men over women emerges from an original <em>archē</em>, the first active political (or antipolitical) usage of the term “anarchy” seems to have emerged from the speech of a female. Although the nominative <em>anarchos</em> does occur in the earliest Greek composition, Homer’s <em>Iliad</em>, it typically describes a faction’s lack of leader. The word was also used to describe years in which no Archon (magistrate) was elected to direct Athens. The poem of Parmenides, written approximately 300 years after Homer’s <em>Iliad</em> and approximately 150 years before Aristotle’s <em>Physics,</em> uses the term <em>anarchos</em> to signify “without beginning.” Roughly contemporary with Parmenides, the word also occurs in Aeschylus’ drama <em>Seven Against</em> <em>Thebes</em><em>.</em> In contrast to the privative usages of the term, the tragic character Antigone employs the term in the accusative, declaring that not only is she willing to risk punishment for burying her brother, she “is not ashamed to act in anarchist opposition to the rulers of the city.” (<em>oud’ aischunomai echous’ apiston tênd’ anarchian polei</em>).<a href="anonymous-the-anarchism-of-the-other-person#fn9" class="footnote" id="fn_back9">[9]</a> Fifty years later, Sophocles confirms this image of Antigone as the first anarchist when Creon condemns Antigone, asserting “there is no evil worse than anarchy” (<em>anarchias de meizon ouk estin kakon.</em>)<a href="anonymous-the-anarchism-of-the-other-person#fn10" class="footnote" id="fn_back10">[10]</a>
+</p>
+
+<p>
+In the myth of Antigone, Creon — whose very name signifies “ruler” in Greek — represents the power of the State. Creon’s foundation of the <em>polis</em> can be understood through Carl Schmitt’s description of the political as the distinction between friend and enemy, “the utmost degree of intensity of a union or separation, of an association or disassociation.”<a href="anonymous-the-anarchism-of-the-other-person#fn11" class="footnote" id="fn_back11">[11]</a> His inauguration speech is a long meditation on the significance of friendship and enmity. “Anyone thinking another man more a friend than his own fatherland, I rate him nowhere .... I would not count any enemy of my fatherland as a friend.”<a href="anonymous-the-anarchism-of-the-other-person#fn12" class="footnote" id="fn_back12">[12]</a> Creon concludes his inauguration speech with a law that establishes the boundaries of the political. “I here proclaim to the city that this man shall no one honor with a grave. ... But he that is loyal to the state in death shall have my honor.”<a href="anonymous-the-anarchism-of-the-other-person#fn13" class="footnote" id="fn_back13">[13]</a> Through this edict, Creon effectively incorporates the memory and the body of one of Oedipus’ sons within the physical borders of the State as its historical friend; he incorporates the memory and the body of the other son by excluding him beyond the physical borders of the State as its historical enemy.
+</p>
+
+<p>
+Rather than opposing civic morality to family morality as Hegel asserts, Creon explicitly correlates political leadership with patriarchal domination. Every fraternal citizen must be loyal to his fatherland, and must demonstrate this loyalty among his brother citizens in the battle line. Conversely, the family also has the essential political function of maintaining animosities and friendships. “It is for this that fathers pray to have obedient sons begotten in their halls, that they may requite with ill their father’s enemy and honor his friend no less than he would himself.”<a href="anonymous-the-anarchism-of-the-other-person#fn14" class="footnote" id="fn_back14">[14]</a> A man who successfully controls his family will be a respected citizen in the political realm, but one who allows disobedience from within his kinship group will invite the same hostility from an external enemy.
+</p>
+
+<p>
+In addition to defining the enemy as “existentially something different and alien,”<a href="anonymous-the-anarchism-of-the-other-person#fn15" class="footnote" id="fn_back15">[15]</a> Carl Schmitt notes the every political entity must necessarily develop a “formula for the declaration of an internal enemy.”<a href="anonymous-the-anarchism-of-the-other-person#fn16" class="footnote" id="fn_back16">[16]</a> Because a man may be a citizen in a fraternal patriarchy, he can also be a member of external enemy state or betray the state to a foreign power. As demonstrated by the conflict between Oedipus’ sons, fraternity can degenerate into fratricide, and the allegiance to a patriarchal state can devolve into a bloody fight over patrimony. However, a more insidious threat comes from a person who can never be a citizen. In Creon’s second major discourse on the nature of the political, he explains that woman can be the most subversive threat within both the state and the family; whose anarchy “destroys cities (<em>polis</em>)” and “demolishes homes (<em>oikos).</em>” Creon warns Antigone’s fiancé, his son Haemon, that a woman who provides pleasure before marriage may become evil and frigid once she enters the home. Therefore, he urges Haemon to abandon his marriage plans, “What greater wound can there be than a false friend? No. Spit on her, throw her out like an enemy.”<a href="anonymous-the-anarchism-of-the-other-person#fn17" class="footnote" id="fn_back17">[17]</a>
+</p>
+
+<p>
+Antigone’s very name already identifies her as an anarchist in another sense. Etymologically, it decomposes into <em>anti,</em> “against,” and <em>gonē,</em> “birth<em>.</em>” For the Greeks, she is named as one who opposes the <em>archē</em> of genesis. She recognizes her solidarity with her brother as their shared experiences of accursed origin: “of a common womb were we born, of a wretched mother and unfortunate father. Therefore, my soul, willingly shares his evils, even though they are unwilling, and live in kindred spirit with the dead.”<a href="anonymous-the-anarchism-of-the-other-person#fn18" class="footnote" id="fn_back18">[18]</a> Heiress to a doomed bloodline, Antigone represents the determination to terminate the Oedipal curse. Not only does she embrace death, she refuses to give birth. Practically confirming Creon’s warning that she is unfit for normative heterosexual matrimony, she deprecates marriage and maternity in favor of an almost incestuous bond of sisterhood. “A husband lost, another might have been found, and if bereft of a child, there could have been a second from some other man. But when a father and mother are hidden in Hades, no brother could ever bloom for me again.”<a href="anonymous-the-anarchism-of-the-other-person#fn19" class="footnote" id="fn_back19">[19]</a>
+</p>
+
+<p>
+Antigone challenges the political order constructed by fathers and brothers by upholding the ethic of sisterhood. For her, each brother is unique and irreplaceable, and she finds herself responsible to each one even after his death. As a sister, she refuses to recognize the distinction between friend and enemy, anarchically subverting the foundation of the <em>polis</em>. Her rebellion does not originate from a political sphere as something against which Creon could struggle on a field of battle. Rather, it is produced from her radical vulnerability, her commitment to ethics. It is Antigone’s obsession by her brother — not an abstract Divine Law or Filial Piety — that allows her to take responsibility for her brother’s treachery, transforming it into her own guilt and persecution, making her a “sister soul” of “substitution and sacrifice.”<a href="anonymous-the-anarchism-of-the-other-person#fn20" class="footnote" id="fn_back20">[20]</a>
+</p>
+
+<p>
+Antigone expresses her solidarity with her brother by burying his corpse in order to prevent it from being consumed by vultures and wolves. Contrary to the political logic of exclusion and animosity, burial signifies an inclusion in society: among the animal kingdom, humans are the only ones who bury their dead. This image of consuming the dead can also be taken as a metaphor for the writing of history. Antigone anarchically protests Creon’s erection of a State upon human graves by preventing her brother’s corpse from being consumed as carrion for the history of the <em>polis</em>,
+</p>
+<h4 id="toc3">Anarchy Before History</h4>
+
+
+<p>
+Levinas employs the term <em>anarchy</em> throughout his work to critique the question of history posed by his former teacher, German thinker Martin Heidegger. In <em>Being and Time</em>, Heidegger associates the historical character of the world with <em>Dasein’</em>s (human being’s) historical nature as something that <em>has-been-there</em>. “Nature is historical as a countryside, as an area that has been colonized or exploited, as a battlefield, or as the site of a cult. ... [World-historical] signifies, for one thing, the historizing of the world in its essential existent unity with <em>Dasein</em>.”<a href="anonymous-the-anarchism-of-the-other-person#fn21" class="footnote" id="fn_back21">[21]</a> Not only does history emerge through humanity’s interaction with its environment, <em>Dasein</em> realizes itself most authentically when it connects its own historical activity to its social Being-with-Others, and together they take over their heritage and determine their destiny. “This is how we designate the historizing of a community, of a people (<em>Volk</em>).”<a href="anonymous-the-anarchism-of-the-other-person#fn22" class="footnote" id="fn_back22">[22]</a>
+</p>
+
+<p>
+Right after the Nazis took power, Levinas warns that this Germanic assertion of an ineluctable chain to the past, history, and destiny correlates to a political ideal of war and conquest. In contrast, Jewish, Christian, and Enlightenment thought have promoted various ways that man<a href="anonymous-the-anarchism-of-the-other-person#fn23" class="footnote" id="fn_back23">[23]</a> is freed from the bonds of the past and is granted a new beginning in a new present moment: “speaking absolutely, [man] has no history.”<a href="anonymous-the-anarchism-of-the-other-person#fn24" class="footnote" id="fn_back24">[24]</a> After his anticipation of Nazi violence was confirmed by the horrors of the second world war, Levinas, like Antigone, critiques the institution of history for the way it consumes the murdered. He writes, “Historiography recounts the way the survivors appropriate the works of dead wills to themselves; it rests on the usurpation carried out by the conquerors, that is, by the survivors; it recounts enslavement, forgetting the life that struggles against slavery.” By definition, history can only be written by survivors, by those who those live [<em>vivir</em>] on top [<em>sur</em>] of the corpses of those whose past has already passed away.
+</p>
+
+<p>
+Levinas employs the term “anarchy” in <em>Totality and Infinity</em> to elaborate this distinction between living historical speech and the silenced dead. <a href="anonymous-the-anarchism-of-the-other-person#fn25" class="footnote" id="fn_back25">[25]</a>
+</p>
+
+<p>
+Both the historical and the past are defined as themes of which one can speak. They are thematized precisely because they no longer speak. The historical is forever absent from its very presence. This means that it disappears behind its manifestations; its apparition is always superficial and equivocal; its origin, its principle, always elsewhere. … This world that has lost its principle, an-archical, a world of phenomena, does not answer to the true.
+</p>
+
+<p>
+A historical fact is a raw datum: a dead, silent piece of evidence. By itself, it is enigmatic. Precisely for this reason, a historian can impose a theme upon it, assembling it into a meaningful system with other connected facts. Ultimately, however, this collection is arbitrary; the facts themselves remain ambiguous and open to interpretation. For example, even if I know that Heidegger joined the Nazi party during May 1933, I can never know the true meaning of that information. From my interiority, I can never penetrate the exteriority of his psychic life, even through the testimonials he himself left behind; no explicit remark or concrete action would ever provide the crucial piece of evidence for discerning his precise intention. Not only does this enigmatic anarchy cast doubt on any possible interpretation of the past, it also underlines the urgency of continuing to interpret it.
+</p>
+
+<p>
+Levinas deepens his analysis of anarchy and history in his later work. Although <em>Totality and Infinity</em> does consider the past, it ultimately points towards the future. It recounts how the Other confronts me as someone who can not be fully comprehended, whose unforeseeable responses resurrect me for an infinite future of responsible fecundity. A book dedicated to the memory of his family members murdered by the Nazis and of all victims of the same hatred of the other man, <em>Otherwise than Being</em> more intensely focuses on reconciliation with the past. As in <em>Totality and Infinity,</em> it is something incomprehensible — the enigma of the silenced and forgotten past — that manifests itself as an ethical obligation. Prior to one’s origination as a historical being, one is already created as someone responsible for a world created by others. Anarchical responsibility is “a responsibility of the creature, a responsibility of one who comes too late into being to avoid supporting it in its entirety. This way of being, without human commitment, responsible for the other, amounts to the fact of human fellowship prior to freedom.”<a href="anonymous-the-anarchism-of-the-other-person#fn26" class="footnote" id="fn_back26">[26]</a>
+</p>
+
+<p>
+This notion that one is anarchically responsible for a world created by others echoes a foundational assertion of the ethical anarchist Petr Kropotkin. Kropotkin explains that one’s present well-being upon the earth depends upon a legacy inherited from an infinity of others. Our very material grounding rests upon the corpses of dead laborers. “The value of each dwelling, factory, and warehouse has been created by the accumulated labor of millions of workers, now dead and buried.”<a href="anonymous-the-anarchism-of-the-other-person#fn27" class="footnote" id="fn_back27">[27]</a> Given this radical indebtedness, Kropotkin concludes that the very notion of private property is absurd because every thing a self creates is radically dependant on the work of others: “There is not even a thought, or an invention, which is not common property, born of the past and the present. Thousands of inventors, known and unknown, who have died in poverty, have co-operated in the invention of each of these machines which embody the genius of man.” <a href="anonymous-the-anarchism-of-the-other-person#fn28" class="footnote" id="fn_back28">[28]</a>
+</p>
+<h4 id="toc4">What is Property?</h4>
+
+
+<p>
+For Levinas, the critique of history has always been echoed by a critique of property ownership. In the opening section, <em>Principle and Anarchy</em>, of his 1968 essay “Substitution,” Levinas explains that in Western ontology, essence fluctuates by losing itself and finding itself out of an <em>archē</em>, allowing it to “possess itself” and to instantiate a “moment of <em>having</em> in <em>being</em>.”<a href="anonymous-the-anarchism-of-the-other-person#fn29" class="footnote" id="fn_back29">[29]</a> This doubling of having and being occurs throughout Levinas’s writing. In his 1935 article against ‘Hitlerism,’ he contrasts the way that fascist thought figures the body as an inevitable bondage to history with the way that Western thought spiritually detaches man from time and physicality. He characterizes this as a “power given to the soul to free itself from <em>what has been</em>”, italicizing the pluperfect combination of <em>to have</em> and <em>to be</em> that grammatically converts the past into a possession.
+</p>
+
+<p>
+Immediately after World War II, Levinas introduces the notion of an “<em>il y a</em>” (there is), the undifferentiated whole of existence that compels part-icipation, possessing and nullifying any private separation. Not only does this term parody Heidegger’s idea of a generous “<em>es gibt”</em> (idiomatically “there is”, literally “it gives”), it redefines Being as an anonymous it (<em>il)</em> in a there (<em>y</em>) that has (<em>a</em>) existence. Emerging from this flux as someone who can <em>be</em> requires becoming someone who can <em>have:</em> the me (<em>moi</em>) that I am doubles as the self (<em>soi</em>) that I own. Through this hypostasis, the self posits itself in a particular space at a particular moment. This self-mastery allows the self to convert exteriority into personal property by exerting its labor.
+</p>
+
+<p>
+John Locke is generally credited as being the first thinker to propose a labor theory of property. He bases the right to private property in an individual’s self-identity and self-ownership. “Though the earth and all inferior creatures be common to all men, yet every man has a ‘property’ in his own ‘person’”<a href="anonymous-the-anarchism-of-the-other-person#fn30" class="footnote" id="fn_back30">[30]</a> For Locke, all property ownership ultimately originates in the fact that a man is his own, proper person -- not merely an abstract personhood, but also the concrete materiality of one’s body. By combining the efforts of his own physical body with the objects in the external world, a man can turn these objects into his own personal property.
+</p>
+
+<p>
+Whereas Locke defines property as that which can be integrated back into a person’s dominion through his bodily labor, Marx argues that, under capitalism, private property emerges as the thing that is alienated from the labor of the proletariat. “Private property is therefore the product, result, and necessary consequence of alienated labor, of the external relation of the worker to nature and to himself.”<a href="anonymous-the-anarchism-of-the-other-person#fn31" class="footnote" id="fn_back31">[31]</a> Through his labor, the worker establishes himself as a subject creating a world of external objects, a totality of cultural products. Under capitalism, the worker experiences this self-objectification as self-estrangement because the fruits of his labor do not belong to him: they are delivered over to an Other, the capitalist. “If the product of labor does not belong to the worker, this is only possible because it belongs to another man than the worker.”<a href="anonymous-the-anarchism-of-the-other-person#fn32" class="footnote" id="fn_back32">[32]</a> A process of self-mortification, alienated labor converts the living essence of the worker into dead matter, sacrificing him to a stranger. Work is “vitality as a sacrifice of life, production of the object as loss of the object to an alien power, an <em>alien</em> person ... who is <em>alien</em> to labor and the worker.”<a href="anonymous-the-anarchism-of-the-other-person#fn33" class="footnote" id="fn_back33">[33]</a>
+</p>
+
+<p>
+Levinas’ economic analyses in <em>Totality and Infinity</em> draw from these classic sources. Like Locke, he defines the act of possession as an appropriation of external being. One is born into a sensuous element whose <em>arche</em> escapes ownership, something that is “<em>coming</em> always, without my being able to <em>possess</em> the source.”<a href="anonymous-the-anarchism-of-the-other-person#fn34" class="footnote" id="fn_back34">[34]</a> Labor stills this anonymous flux and postpones the unforeseeable future of Infinity by allowing one to maintain oneself in a present. It breaks me free of my dependence on the element by suspending its independence. “Possession neutralizes this being: as property the thing is an existent that has lost his being.”<a href="anonymous-the-anarchism-of-the-other-person#fn35" class="footnote" id="fn_back35">[35]</a> By generating a total ensemble of things that answer to the needs of a separated ego, ownership thereby establishes the self’s mastery over external reality.
+</p>
+
+<p>
+Levinas inveighs against the ontological tradition for reducing the world to Being and beings that ultimately refer back to ownership. Despite his insistence that <em>Dasein</em> is not a human person<em>,</em> even Heidegger poses the question of Being as <em>eigenlichtkeit</em>, “own-like-ness” or “authenticity,” and as <em>ereigen,</em> “en-own-ing” or “the event of appropriation.” Levinas argues: “The relation with Being that is enacted as ontology consists in neutralizing the existent in order to comprehend or grasp it. It is hence not a relation with the other as such, but the reduction of the other to the same. … a suppression or possession of the other.” Although this possession establishes one’s sovereign ownership over otherness, it also indicates “a certain form of economic life” with an Other, a stranger.
+</p>
+
+<p>
+Levinas’s analysis of labor combines and generalizes Locke’s understanding of property as integration with Marx’s understanding of it as alienation, “an estrangement of man from man.”<a href="anonymous-the-anarchism-of-the-other-person#fn36" class="footnote" id="fn_back36">[36]</a> Labor relates the world to the self by positing entities as graspable objects. Because these works are positioned with a social ensemble of work, they also relate to the possessive grasp of an Other who presents himself as a Master and property owner. “The inexpressive character of the product is reflected in its market value, in its suitability for others, in its capability to assume the meaning others will give it, to enter into an entirely different context from that which engendered it.”<a href="anonymous-the-anarchism-of-the-other-person#fn37" class="footnote" id="fn_back37">[37]</a> Not just commercial products, but one’s will and one’s body are alienated in the instant that they are manifested. The projects a will initiates are always co-opted by another person. As an owned body (“<em>corps propre</em>”<a href="anonymous-the-anarchism-of-the-other-person#fn38" class="footnote" id="fn_back38">[38]</a>), one positions oneself as a corporeal being, exposing one’s material self to being bought for gold or being murdered by steel. Therefore, one’s birth into a present moment is experienced as a kind of suicide. One becomes registered in history through the mortified material products of one’s labor, “the works of dead wills.”
+</p>
+
+<p>
+As an act of appropriation, property ownership necessarily proceeds from violence and ultimately from murder. Levinas’ discussion of the first ethical commandment, <em>You Shall Not Commit Murder</em>, is sometimes misunderstood to be simply an ultimate moral prohibition. However, Levinas explains, “this interdiction is to be sure not equivalent to pure and simple impossibility, and even presupposes the possibility which precisely it forbids.”<a href="anonymous-the-anarchism-of-the-other-person#fn39" class="footnote" id="fn_back39">[39]</a> Although murder is an <em>ethical</em> impossibility, it is preeminently an event that occurs within every single instant of time. The Other is <em>always</em> approached and appropriated through a doubling of his origination and his death: through his production in a work, his incarnation in a body, and his representation under a concept. At every instant, I seize the Other through his manifestation, suspending his existence, and grasping him historically through the records of his past. This everyday occurrence can be grasped most clearly on the digital commons where, online, one encounters the preservation of moments from different past identities; the real lives of real people reduced to and articulated as a multiplicity of media.<a href="anonymous-the-anarchism-of-the-other-person#fn40" class="footnote" id="fn_back40">[40]</a>
+</p>
+
+<p>
+This murder is enacted at every moment as cannibalism, as consumption of another person’s corpse. All of Levinas’s analyses of materiality, of need and eating, of the content of elemental <em>jouissance</em>, of the goods encountered in a home, and even of hunger and destitution, must be understood in relation to this vampirism, this flesh-eating. Levinas explains, “in satiety the real I sank my teeth into is assimilated, the forces that were in the other become <em>my</em> forces, become me.”<a href="anonymous-the-anarchism-of-the-other-person#fn41" class="footnote" id="fn_back41">[41]</a> The past of the other, his death, has become retrospectively incorporated into my own present moment of consumption. Therefore, I — as a consumer, through the things I purchase and use — become entangled in a net of works, in networks of responsibility. These responsibilities manifest in consciousness once I understand that the products which result in my enjoyment are ultimately the results of human and environmental degradation and death.
+</p>
+
+<p>
+Taking into account the relationship between death and consumable products, one can deduce that the first ethical commandment, <em>You Shall Not Kill</em>, results in a corollary: <em>You Shall Not Steal</em>. Levinas explicitly recognizes this relationship between ownership and robbery. “To approach someone from works is to enter into his interiority by burglary; the other is surprised in his intimacy, where, like the personages of history, he is, to be sure, exposed, but does not express himself.”<a href="anonymous-the-anarchism-of-the-other-person#fn42" class="footnote" id="fn_back42">[42]</a> As mentioned above, these ethical impossibilities point to everyday realities: not only does one murder in every moment of consumption, one’s ownership of Property is Theft, as the anarchists teach.
+</p>
+<h4 id="toc5">Autarchy or Anarchy</h4>
+
+
+<p>
+Like many anarchist-communists, Levinas understands that the very existence of other persons necessarily casts doubt on my alleged right to individual personal property. “Possession itself refers to more profound metaphysical relations; a thing does not resist acquisition; the other possessors — those whom one can not possess — contest and therefore can sanction possession itself.” Whereas Aristotle grounds slave ownership on the subsuming logic of part and whole, post-Enlightenment thought considers each person to be separate individuals, and understands that ownership arises out of the social relation between them. The absolute assertion of one self’s individual freedom over the existence of others Levinas terms “autarchy.” “Such is the definition of [ontological] freedom: to maintain oneself against the other, despite every relation with the other and to ensure the autarchy of an I.” Autarchy retrospectively refers entities back to a self (<em>auto</em>) by re-presenting otherness through a theme (<em>archē)</em>. “Thematization and conceptualization, which moreover are inseparable, are not peace with the other but suppression or possession of the other.” Subsuming otherness under a general theme is ultimately war and violence exercised as “the imperialism of the same” and instituted as “the tyranny of the State.”<a href="anonymous-the-anarchism-of-the-other-person#fn43" class="footnote" id="fn_back43">[43]</a>
+</p>
+
+<p>
+Just like <em>anarchy</em> disrupts the genetic <em>archē</em> of history, it also disorders the dominating <em>archē of</em> thematization imposed by an existential state or a political state or a propositional statement. Levinas remarks, “The I’s form no totality; there exists no privileged plane where these I’s could be grasped in their principle. There is an anarchy essential to multiplicity.”<a href="anonymous-the-anarchism-of-the-other-person#fn44" class="footnote" id="fn_back44">[44]</a> Even though I and the Other posit a common world using social categories, we maintain our independence through our anarchical enjoyments of the world. Even in our relationships, I always preserve my separated interiority, and the Other always maintains his separated exteriority. No matter how revealing we are to each other, we can never render our experiences entirely transparent to each other. In the words of collectivist anarchist Mikhail Bakunin, no totality could be “mighty enough and massive enough to encompass the infinite multiplicity and diversity of substantive interests, aspirations, wishes, and needs.”<a href="anonymous-the-anarchism-of-the-other-person#fn45" class="footnote" id="fn_back45">[45]</a> Anarchically, we resist any common category, any plane of signification that would pretend to encompass us.
+</p>
+
+<p>
+Levinas further explains this anarchy, stating “multiplicity can be produced only if the individuals retain their secrecy.”<a href="anonymous-the-anarchism-of-the-other-person#fn46" class="footnote" id="fn_back46">[46]</a> The importance of this privacy is illuminated by anarchist Max Stirner’s careful distinction between freedom and individuality. Stirner recognizes that, in any relationship, one will necessarily have one’s freedom limited by the powers of others. “Even so, were I the autocrat of all the Russians, I could not enjoy absolute freedom. But as far as my individuality, I do not want anyone tampering with it. Now it is precisely individuality that society targets and means to subject to its powers.”<a href="anonymous-the-anarchism-of-the-other-person#fn47" class="footnote" id="fn_back47">[47]</a> The State attempts to repress the uniqueness of an individual by subsuming his identity within its dominion. It ultimately does so by restricting the most essential freedom of the individual: his freedom to make and break associations with other individuals. An individual not only maintains the indivisible integrity of his own ego, he also retains the freedom to divide himself from any whole that would encompass him as a part. Conversely, the State compels one to maintain a constant relationship with it, denying the sovereign power for separation and reattachment. “Once an association has crystallized in society, it has ceased to be an association, since association is an ongoing act of re-association.”<a href="anonymous-the-anarchism-of-the-other-person#fn48" class="footnote" id="fn_back48">[48]</a>
+</p>
+
+<p>
+Like Stirner, Levinas understands freedom as the capacity to break from bondage. No matter what commitments one has made in the past, one can betray history in a new present moment. “Man can regain control and go back on his choice.”<a href="anonymous-the-anarchism-of-the-other-person#fn49" class="footnote" id="fn_back49">[49]</a> The ego’s individual consciousness allows it to eschew absorption into any totalizing categories and to evade enslavement to any tyrannical state. Just as Levinas refers to this capability to break with participation as “atheism”, Stirner explains that “our individuality acknowledges no injunction to ‘fidelity’ and ‘commitment’: it permits everything, including apostasy and desertion.”<a href="anonymous-the-anarchism-of-the-other-person#fn50" class="footnote" id="fn_back50">[50]</a>
+</p>
+
+<p>
+The Italian anarchist Enrique Malatesta explains that the distinction between autarchy and anarchy undergirds the difference between cooperative association and the State. Authoritarian political theory justifies itself with Thomas Hobbes’ claim that the State is necessary for preventing wars between selfish and brutal human natures.
+</p>
+
+<p>
+If, say the theorists of the authoritarian school, the interests, tendencies, and desires of an individual are in opposition to those of another individual, or perhaps all society, who will have the right and the power to oblige the one to respect the interests of the other or others? Who will be able to prevent the individual citizen from offending the general will? The liberty of each, they say, has for its limit the liberty of others: but who will establish those limits, and who will cause them to be respected? The natural antagonism of interests and passions creates the necessity for government, and justifies authority. Authority intervenes as moderator of the social strife and defines the limits of the rights and duties of each.
+</p>
+
+<p>
+Authoritarian political thought imposes two types of domination, converting the enlightenment notion of free individuality into pure selfishness,<a href="anonymous-the-anarchism-of-the-other-person#fn51" class="footnote" id="fn_back51">[51]</a> and then justifying the state as a neutral party that can neutralize all conflict. However, Malatesta points out that the state actually works to enforce the power of propertied classes and to sanction the exploitation of the rest of the populace. Against this domination, Malatesta asserts that “there exists in Man another feeling which draws him closer to his neighbor.”<a href="anonymous-the-anarchism-of-the-other-person#fn52" class="footnote" id="fn_back52">[52]</a> Without any coercion from the state, people draw to work in “voluntarily formed associations.”<a href="anonymous-the-anarchism-of-the-other-person#fn53" class="footnote" id="fn_back53">[53]</a> That is, man’s will, his voluntarism, necessarily refers to an allegiance to other people.
+</p>
+
+<p>
+Like Malatesta, Levinas criticizes the Hobbesian model of egotistic subjectivity that justifies the war of all against all. “Being’s interest takes dramatic form in egoisms struggling with one another, each against all, in the multiplicity of allergic egoisms which are at war with one another and are thus together.”<a href="anonymous-the-anarchism-of-the-other-person#fn54" class="footnote" id="fn_back54">[54]</a> An authoritarian order grows out of this pure self-interest that outlines “the birth of hierarchy”, both genesis and rule, ultimately producing political domination, “[It] is the very egoism of the ego that posits itself as its own origin, as uncreated, sovereign principle, a prince.”<a href="anonymous-the-anarchism-of-the-other-person#fn55" class="footnote" id="fn_back55">[55]</a> In contrast, Levinas asserts that the self is created as someone who is radically responsible for the world of creation, anarchically committed to the Other. One’s own origin is ‘preceded by a pure passivity that is responsibility… it is my responsibility for the freedom of others’<a href="anonymous-the-anarchism-of-the-other-person#fn56" class="footnote" id="fn_back56">[56]</a> Anarchist Mikhail Bakunin similarly asserts this priority of the Other over my Self “Far from being a limitation or negation of my freedom, the freedom of my neighbor is instead its precondition and confirmation.”<a href="anonymous-the-anarchism-of-the-other-person#fn57" class="footnote" id="fn_back57">[57]</a>
+</p>
+<h4 id="toc6">University of Nanterre: 1968</h4>
+
+
+<p>
+In a footnote that has not yet been adequately analyzed, Levinas claims that his own usage of the term anarchy “precedes the political (or antipolitical) meaning popularly ascribed to it.”<a href="anonymous-the-anarchism-of-the-other-person#fn58" class="footnote" id="fn_back58">[58]</a> However, this very statement indicates that he was seriously contemplating political (or antipolitical) anarchism while developing his later work. The two texts in which Levinas begins to seriously consider the problem of saying “anarchy” as a term<em>, Humanism and An-archy</em> and <em>Substitution</em>, were written in 1968 when he was teaching at the University of Paris Nanterre. A few months prior to the publication of these two essays, Nanterre was the epicenter of the revolutionary events of May ‘68. During this period, group after group was pulled into an anarchy of political responsibility for the suffering of Others. On May 3, eight students were to be expelled from Nanterre for protesting the senseless war that was murdering innocent Vietnamese. Students at University of Paris Sorbonne protested the injustice shown to these other students at Nanterre. In response to the violence shown to students during a succession of brutal police riots, factory workers declared a general strike that shut down the State of France.
+</p>
+
+<p>
+Several of Levinas’ essays specifically meditate on the meaning of these events. He understood the 1968 political tumult as a crisis of modernity and bourgeois humanism. For him, the overwhelming problem was the same as the one that confronted Antigone: what should one do about the corpses that still haunt the living; how can one make sense of history after so much mass murder? “The unburied dead in wars and extermination camps ... render tragic-comic the concern for oneself and illusory the pretension of the rational animal to have a privileged place in the cosmos.”<a href="anonymous-the-anarchism-of-the-other-person#fn59" class="footnote" id="fn_back59">[59]</a> Throughout their writings, various radicals similarly denounce the ways that modernity manifests as murder, through the actual slaughter committed against foreign peoples, through the transformation of human existence into commodity, and through the politics practiced by authoritarian leftists.
+</p>
+
+<p>
+Not only was culture permeated by death, even the possibility of vital revolution seemed doubtful. Many graffiti quoted situationist Raoul Vaneigem’s condemnation of the institutional left: “People who talk about revolution and class struggle without referring explicitly to everyday life, without understanding what is subversive about love and what is positive in the refusal of constraints, such people have corpses in their mouths.” <a href="anonymous-the-anarchism-of-the-other-person#fn60" class="footnote" id="fn_back60">[60]</a> The brutality of institutional revolutionary regimes in Russia and China shocked many young radicals, and many felt alienated by the authoritarian regimentation of Stalinist and Maoist parties. Levinas explained “Today’s anxiety is more profound. It comes from the experience of revolutions that sink into bureaucracy and repression, and totalitarian violences that pass as revolutions. <em>For in them the disalienation is in itself alienated.</em>”<a href="anonymous-the-anarchism-of-the-other-person#fn61" class="footnote" id="fn_back61">[61]</a> Ultimately, these bureaucracies obstructed the ethical relationship with the other person by thematizing everything according to a universal principle.
+</p>
+
+<p>
+Levinas observed that the May ‘68 protests arose against the ontological conception of humanity in modern society as a substance with qualities, a bearer of roles, and a thing with properties. “Over and beyond capitalism and exploitation what was contested were their condition: the person understood as an accumulation of being, by merits, titles, professional competence, an ontological tumefaction weighing on others and crushing them, instituting a hierarchized society maintained beyond the necessities of consumption, which no religious breath any longer succeeds in rendering egalitarian.” Even in the very cadence of its voice, this articulation echoes the many graffiti protesting the inhumanity of institutions. “We refuse to be highrised, diplomaed, licensed, inventoried, registered, indoctrinated, suburbanized, sermonized, beaten, telemanipulated, gassed, booked.”<a href="anonymous-the-anarchism-of-the-other-person#fn62" class="footnote" id="fn_back62">[62]</a> According to situationists like Guy DeBord, this reduction of a human existence was produced by the regime of representation in the society of the spectacle, the product of the capitalism that transforms <em>being</em> into <em>having</em> and further commodifies <em>having</em> into <em>appearing</em>. Against this, Levinas asserts in <em>Humanism and Anarchy</em>. “There where I might have remained a spectator, I am responsible.”<a href="anonymous-the-anarchism-of-the-other-person#fn63" class="footnote" id="fn_back63">[63]</a> Neither absorbed by egoism nor captivated by the world, the human subject finds itself ethically responsible for the freedom of the Other.
+</p>
+
+<p>
+In his reflections on May ‘68, Levinas deliberately employs his ethical terminology to describe the revolutionary anarchism of the student revolutionaries. He identifies Youth as the one whose vulnerability makes him responsible for the suffering of the Other. “Youth, which the philosopher loves, is the ‘before being,’ the ‘otherwise than being’”<a href="anonymous-the-anarchism-of-the-other-person#fn64" class="footnote" id="fn_back64">[64]</a> He explains<a href="anonymous-the-anarchism-of-the-other-person#fn65" class="footnote" id="fn_back65">[65]</a>
+</p>
+
+<p>
+The youth is the break in a context, the trenchant, Nietzschean prophetic word, without status in being. Yet it is not arbitrary, for it has come from sincerity, that is, from responsibility for the other. This unlimited responsibility is not felt as a state of the soul, but signifies in the oneself of the self, consuming itself, the subjectivity of the subject, as embers covered with ashes – and blazing up into a living torches. The responsibility, a wound smarting with cruelties and evils suffered by others, characterizes our epoch as much as these very cruelties and evils. Youth consisted in contesting a world long since denounced. … Able to find responsibilities under the thick stratum of literature that undo them, youth ceased to be the age of transition and passage and is shown to be man’s humanity.
+</p>
+
+<p>
+According to Levinas, political radicalism ultimately finds its origin in this anarchical responsibility for other people. Revolution does not come from mere activism, from violent overthrow, or even from self-sacrifice. These are also qualities admired by fascists — today, by terrorists. Instead, “Revolution must be defined by its content, by values: revolution takes place when one frees man; that is, revolution takes place when one tears man away from economic determinism.”<a href="anonymous-the-anarchism-of-the-other-person#fn66" class="footnote" id="fn_back66">[66]</a> Accepting responsibility for economic and social injustice is at the root of radicalism. Levinas identifies the degradation of the worker with the alterity of the other, saying “the economic deprivation of the proletarian – to be sure, his condition as one who is exploited – constitutes this absolute stripping of the other as other.”<a href="anonymous-the-anarchism-of-the-other-person#fn67" class="footnote" id="fn_back67">[67]</a> Alluding to the solidarity between students and workers during May ‘68, Levinas asserts, “To affirm that the working man is not negotiable, that he can not be bargained about, is to affirm that which begins a revolution.”<a href="anonymous-the-anarchism-of-the-other-person#fn68" class="footnote" id="fn_back68">[68]</a>
+</p>
+
+<p>
+The radicals of ‘68, and indeed all revolutionaries “who best merit the name revolutionary,”<a href="anonymous-the-anarchism-of-the-other-person#fn69" class="footnote" id="fn_back69">[69]</a> are characterized by their capacity to substitute ethically their selves for the suffering of other people. Whenever people stand up to power, they do so not merely to fight for their own rights or for the politics of their own identities. Instead, they willingly stand in for the other, declaiming the injustice shown unto him. One hears this sentiment all over the world in every revolutionary statement. For Levinas, the most poignant example of this revolutionary sincerity occurred when the revolutionary masses proclaimed “We are all German Jews” to protest the government’s refusal to allow anarchist Daniel Cohn-Bendit, the son of two Jews who had narrowly escaped Nazi Germany, from reentering France because was not a legal citizen of any country. As an ethical substitution for the suffering of the foreigner, the stranger, the Other, revolution is the most profound ethical responsibility of anarchy. As one May 68 graffito explained, “We must destroy and replace the system when it falls into a position of weakness, not just for our own sakes but for the future of humanity.”<a href="anonymous-the-anarchism-of-the-other-person#fn70" class="footnote" id="fn_back70">[70]</a>
+</p>
+<h4 id="toc7">Bibliography</h4>
+
+
+<p>
+Abensour, Miguel. “An-archy between Metapolitics and Politics.” <em>Parallax</em> 3 (July 2002), 5-18.
+</p>
+
+<p>
+———. ‘Savage Democracy’ and ‘Principle of Anarchy’. Philosophy and Social Criticism, vol. 28, no. 6, pp. 703-726, November 2002
+</p>
+
+<p>
+Aeschylus. <em>Seven against</em> <em>Thebes</em><em>,</em> trans. H. W. Smyth, Cambridge: Harvard Univ. Press, 1926.
+</p>
+
+<p>
+Agamben, Giorgio. <em>Homo Sacer: Sovereign Power and Bare Life</em>. Stanford: Stanford Univ. Press, 1998.
+</p>
+
+<p>
+———. <em>Means Without End: Notes on Politics.</em> Minneapolis: Univ. of Minnesota Press, 2000.
+</p>
+
+<p>
+Anderson, Travis. “The Anarchy of the Spectacle: Emmanuel Levinas on Separated Subjectivity and the Myth of Gyges.” <em>Graduate Faculty Journal</em> 20/21 (1998): 321-334.
+</p>
+
+<p>
+Aristotle. The Basic Works of Aristotle. Ed. Richard McKeon New York: Random House, 1941.
+</p>
+
+<p>
+Butler, Judith. <em>Antigone’s Claim. Kinship Between Life and Death.</em> New York: Columbia Univ. Press, 2004.
+</p>
+
+<p>
+Chanter, Tina. “Antigone’s Dilemma.” In <em>Re-Reading</em> <em>Levinas</em>, ed. Robert Bernasconi and Simon Critchley. Bloomington: Indiana Univ. Press, 1991.
+</p>
+
+<p>
+Critchley, Simon. “Five Problems in Levinas’s View of Politics and the Sketch of a Solution to Them.” <em>Political Theory: An International Journal of Political Philosophy</em> 32:2 (April 2004), 172-185.
+</p>
+
+<p>
+———. The Ethics of Deconstruction: Derrida and Levinas. Lafayette, IN: Purdue Univ. Press, 1999.
+</p>
+
+<p>
+———. “Persecution Before Exploitation--A Non-Jewish Israel?” <em>Theory and Event 3.4</em> (2000): 30-36.
+</p>
+
+<p>
+Debord, Guy. <em>The Society of the Spectacle</em>. trans. Ken Knabb. Oakland, CA: AK Press, 2005.
+</p>
+
+<p>
+Deleuze, Gilles and Felix Guattari. A Thousand Plateaus: Capitalism and Schizophrenia. Trans. Brian Massumi. Minneapolis: Univ. of Minnesota Press, 1987.
+</p>
+
+<p>
+Derrida, Jacques, “Violence and Metaphysics.” In <em>Writing and Difference,</em> trans. Alan Bass. Chicago, Chicago Univ. Press, 1978.
+</p>
+
+<p>
+Freud, Sigmund. <em>Civilization and its Discontents.</em> trans. James Strachey. New York: W. W. Norton, 1989.
+</p>
+
+<p>
+Gibbs, Robert, <em>Correlations in Rosenzweig and Levinas.</em> Princeton, NJ: Princeton Univ. Press, 1992.
+</p>
+
+<p>
+Guerin, Daniel. <em>No Gods, No Masters: An Anthology of Anarchism.</em> Oakland, CA: AK Press, 2005.
+</p>
+
+<p>
+Hegel, G. W. F. <em>Phenomenology of Spirit,</em> trans. A. V. Miller. New York: Oxford Univ. Press, 1977.
+</p>
+
+<p>
+Heidegger, Martin. <em>Basic Philosophical Papers.</em> San Francisco: Harper, 1993.
+</p>
+
+<p>
+———. <em>Being and Time,</em> trans. John Macquarrie and Edward Robinson. San Francisco: Harper &amp; Row, 1962.
+</p>
+
+<p>
+———. <em>Pathmarks</em>, ed. by William McNeill . Cambridge: Cambridge Univ. Press, 1998.
+</p>
+
+<p>
+Kant, Immanuel. <em>Critique of Pure Reason,</em> trans. Norman Kemp Smith. New York: Macmillan, 1963.
+</p>
+
+<p>
+Knabb, Kenneth (ed.) Situationist International Anthology Chicago: Bureau of Public Secrets, 1995. http://www.bopsecrets.org/SI/
+</p>
+
+<p>
+Kropotkin, Petr. <em>The Conquest of Bread</em>. New York: G. P. Putnam&#x27;s Sons, 1906. http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/conquest/toc.html.
+</p>
+
+<p>
+Levinas, Emmanuel. <em>Basic Philosophical Writings</em>, edited by Adrian Peperzak, Simon Critchley and Robert Bernasconi. Bloomington: Indiana Univ. Press, 1996.
+</p>
+
+<p>
+———. <em>Collected Philosophical Papers</em>, trans. Alphonso Lingis. The Hague: Martinus Nijhoff, 1987.
+</p>
+
+<p>
+———. <em>Existence and Existents</em>, trans. Alphonso. Lingis. Pittsburgh: Duquesne Univ. Press, 1995.
+</p>
+
+<p>
+———. <em>The Levinas Reader</em>, ed. Sean Hand. London: Blackwell, 1989.
+</p>
+
+<p>
+———. <em>Nine Talmudic</em> <em>Readings</em><em>,</em> trans. Annette Aronowicz. Bloomington: Indiana Univ. Press, 1990.
+</p>
+
+<p>
+———. <em>On Escape</em>, trans. Bettina Bergo. Stanford: Stanford Univ. Press, 2003.
+</p>
+
+<p>
+———. <em>Otherwise than Being or Beyond Essence,</em> trans. by Alphonso Lingis. The Hague: Martinus Nijhoff, 1981.
+</p>
+
+<p>
+———. “Reflections on the Philosophy of Hitlerism”, trans. Sean Hand. <em>Critical Inquiry</em> 17 (1990): 62-71.
+</p>
+
+<p>
+———. <em>Time and the Other</em>, trans. Richard Cohen, Pittsburgh, Duquesne Univ. Press, 1987.
+</p>
+
+<p>
+———. <em>Totality and Infinity</em>, trans. Alphonso Lingis, Pittsburgh, Duquesne Univ. Press, 1969.
+</p>
+
+<p>
+Levy, Bernard-Henri. <em>Barbarism with a Human Face.</em> San Francisco: Harper 1980.
+</p>
+
+<p>
+Llewelyn, John. <em>Emmanuel Levinas: The Genealogy of Ethics.</em> London: Routledge, 1995
+</p>
+
+<p>
+Locke, John. <em>The Second Treatise of Civil Government.</em> http://www.constitution.org/jl/2ndtreat.htm
+</p>
+
+<p>
+Malatesta, Errico. “Anarchy: A Pamphlet.” http://dwardmac.pitzer.edu/Anarchist_Archives/malatesta/anarchy.html.
+</p>
+
+<p>
+Marx, Karl with Frederich Engels. <em>The Marx-Engels Reader,</em> ed. Robert C. Tucker. New York: W. W. Norton, 1978.
+</p>
+
+<p>
+Peperak, Adriaan. “Freedom.” <em>International Philosophical Quarterly</em> 11 (September 1971): 341-361.
+</p>
+
+<p>
+Perez, Rolando. <em>On An(archy) and Schizoanalysis.</em> New York: Autonomedia, 1990.
+</p>
+
+<p>
+Schmitt, Carl. <em>The Concept of the Political,</em> trans George Schwab. Chicago: Univ. Of Chicago Press, 1976.
+</p>
+
+<p>
+Schürmann, Reiner. <em>Heidegger on Being and Acting: From Principles and Anarchy.</em> Bloomington: Indiana Univ. Press,1990.
+</p>
+
+<p>
+Sophocles. <em>Antigone,</em> trans. David Greene. Chicago. Univ. of Chicago, 1991.
+</p>
+
+<p>
+Vaneigem, Raoul. <em>The Revolution of Everyday Life,</em> trans. Daniel Nicholson-Smith<em>.</em> London: Rebel Press, 1994.
+</p>
+
+<p>
+[5]Aristotle, <em>Metaphysics</em>, in <em>The Basic Works of Aristotle</em>, ed. Richard McKeon (New York: Random House, 1941), 1013 a 10-15.
+</p>
+
+<p>
+§ 26.
+</p>
+
+<p>
+A Levinasian critique of technology would require a meditation on The Turing Test, in which artificial intelligence is assessed by whether a computer’s responses seem human to its interlocutor. In what way does an Other person’s freedom to respond forever transcends the programming of any automated network?
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back1" id="fn1">[1]</a> The author would like to acknowledge those whose authorities guided him towards knowledge, without whom this paper would not have been possible. My thanks go to Alphonso Lingis; to Georges Hansel and Simone Levinas; and to Simon Critchley (in a most un-towards manner) and the rest of my teachers at the New School for Social Research: Jacob Blumenfeld, Andreas Kalyvas, Agnes Heller, Jay Bernstein, Dmitri Nulkin, James Dodd, Nancy Fraser, Claudia Barrachi, and Rainer Forst.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back2" id="fn2">[2]</a> The author would like to acknowledge those whose authorities guided him towards knowledge, without whom this paper would not have been possible. My thanks go to Alphonso Lingis; to Georges Hansel and Simone Levinas; and to Simon Critchley (in a most un-towards manner) and the rest of my teachers at the New School for Social Research: Jacob Blumenfeld, Andreas Kalyvas, Agnes Heller, Jay Bernstein, Dmitri Nulkin, James Dodd, Nancy Fraser, Claudia Barrachi, and Rainer Forst.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back3" id="fn3">[3]</a> Simon Critchley, “Levinas’s View of Politics” (Political Theory, 32:2 [2004]), 177.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back4" id="fn4">[4]</a> Emmanuel Levinas, <em>Otherwise than Being or Beyond Essence,</em> trans. Alphonso Lingis (The Hague: Martinus Nijhoff, 1981), 99.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back6" id="fn6">[6]</a> Aristotle, <em>Politics,</em> in <em>The Basic Works of Aristotle</em>, 1254 a 12-17.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back7" id="fn7">[7]</a> Aristotle, <em>Politics</em> 1255 b 7-10.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back8" id="fn8">[8]</a> Aristotle, <em>Politics</em> 1259 a 36 – b 16.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back9" id="fn9">[9]</a> Aeschylus, <em>Seven Against</em> <em>Thebes</em><em>,</em> trans. H. W. Smyth, (Cambridge: Harvard Univ. Press, 1926), 1035-6<em>.</em>
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back10" id="fn10">[10]</a> Sophocles, <em>Antigone</em>, <em>Antigone,</em> trans. David Greene, (Chicago. Univ. of Chicago, 1991), 673.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back11" id="fn11">[11]</a> Carl Schmitt, <em>The Concept of the Political</em>, trans. George Schwab (Chicago: Univ. Of Chicago Press, 1976), 26.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back12" id="fn12">[12]</a> Sophocles, <em>Antigone</em>, 182-187.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back13" id="fn13">[13]</a> Sophocles, <em>Antigone</em>, 202-212.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back14" id="fn14">[14]</a> Sophocles, <em>Antigone</em>, 640-644.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back15" id="fn15">[15]</a> Schmitt, <em>Concept,</em> 27.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back16" id="fn16">[16]</a> Schmitt, <em>Concept,</em> 46.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back17" id="fn17">[17]</a> Sophocles, <em>Antigone</em>, 640-681.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back18" id="fn18">[18]</a> Aeschylus, <em>Seven against</em> <em>Thebes</em><em>,</em> 1036-1041.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back19" id="fn19">[19]</a> Sophocles, <em>Antigone</em>, 909-913.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back20" id="fn20">[20]</a> Whereas Hegel explicitly refers to Antigone as a figure of filial morality, she may also appear as a hidden character in Levinas’ work. Levinas mentions in <em>Totality and Infinity</em> (trans. Alphonso Lingis, Pittsburgh, Duquesne Univ. Press, 1969) that erotic love can be “seek but a connatural being, a sister soul, present itself as incest.” (254) Even more suggestively, he states in <em>Otherwise than Being</em> “the ego involved in responsibility is me and no one else, me with whom one would have liked to pair up a sister soul, from whom one would require substitution and sacrifice.” (126).
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back21" id="fn21">[21]</a> Martin Heidegger, <em>Being and Time</em>, <em>Being and Time,</em> trans. John Macquarrie and Edward Robinson, (San Francisco: Harper &amp; Row, 1962), 440:389.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back22" id="fn22">[22]</a> Heidegger, <em>Being</em>, 436/384.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back23" id="fn23">[23]</a> Because gender is such an important problem in Levinas and throughout philosophy, I will use masculine pronouns to discuss human persons and neuter pronouns for abstractions, but will try not to masquerade this issue by alternating with feminine pronouns.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back24" id="fn24">[24]</a> Emmanuel Levinas, “Reflections on the Philosophy of Hitlerism,” trans. Sean Hand, <em>Critical Inquiry</em> 17 [1990]: 62-71), 64.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back25" id="fn25">[25]</a> Levinas, <em>Totality</em>, 65.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back26" id="fn26">[26]</a> Emmanuel Levinas, “Substitution (1968)”, in Emmanuel Levinas, <em>Basic Philosophical Writings,</em> ed. Adrian Peperzak, Simon Critchley and Robert Bernasconi (Bloomington: Indiana Univ. Press, 1996), 91.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back27" id="fn27">[27]</a> Petr Kropotkin, <em>The Conquest of Bread</em> (http://dwardmac.pitzer.edu/anarchist_archives/kropotkin/conquest/ch1.html), Chapter 1.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back28" id="fn28">[28]</a> Kropotkin, <em>Conquest.</em>
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back29" id="fn29">[29]</a> Levinas, <em>Otherwise</em>, 99.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back30" id="fn30">[30]</a> John Locke, <em>Second Treatise on Government</em>,(http://www.constitution.org/jl/2ndtreat.htm)
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back31" id="fn31">[31]</a> Karl Marx, “Economic and Philosophic Manuscripts of 1844”, in <em>The Marx-Engels Reader</em> (ed. Robert C. Tucker. New York: W. W. Norton, 1978), 79.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back32" id="fn32">[32]</a> Marx, “Economic,” 78.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back33" id="fn33">[33]</a> Marx, “Economic,” 81.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back34" id="fn34">[34]</a> Levinas, <em>Totality,</em> 141.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back35" id="fn35">[35]</a> Levinas, <em>Totality</em>, 158.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back36" id="fn36">[36]</a> Marx, “Economic,” 77.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back37" id="fn37">[37]</a> Levinas, <em>Totality</em>, 227
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back38" id="fn38">[38]</a> Levinas, <em>Totality</em>, 229
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back39" id="fn39">[39]</a> Levinas, <em>Totality</em>, 232-233.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back40" id="fn40">[40]</a> Perhaps Levinas’ phenomenology of conversation can be most clearly observed in an internet chat room, in which one party makes a statement, forever etched in memory, but retains the possibility to respond in ways that can not be anticipated.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back41" id="fn41">[41]</a> Levinas, <em>Totality</em>, 129. Alphonso Lingis’ strategy of capitalizing “Other” in his translations unfortunately obscures the relationships between the human Other and the elemental Other.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back42" id="fn42">[42]</a> Levinas, <em>Totality</em>, 66-67. In <em>Otherwise Than Being</em>, Levinas similarly describes responsibility for the Other as something that affects the self anarchically, prior to its own identity “slipping into me like a thief.” (p. 13, 148, 150)
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back43" id="fn43">[43]</a> Levinas, <em>Totality</em>, 46.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back44" id="fn44">[44]</a> Levinas, <em>Totality</em>, 294.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back45" id="fn45">[45]</a> Daniel Guerin, <em>No Gods, No Masters : An Anthology of Anarchism,</em> (Oakland, CA; AK Press, 2005), 207.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back46" id="fn46">[46]</a> Levinas, <em>Totality</em>, 120.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back47" id="fn47">[47]</a> Guerin, <em>No Gods,</em> 23.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back48" id="fn48">[48]</a> Guerin, <em>No Gods,</em> 22.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back49" id="fn49">[49]</a> Levinas, “Reflections,” 59.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back50" id="fn50">[50]</a> Guerin, <em>No Gods,</em> 28.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back51" id="fn51">[51]</a> Malatesta, “Anarchy: A Pamphlet” (http://dwardmac.pitzer.edu/Anarchist_Archives/malatesta/anarchy.html).
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back52" id="fn52">[52]</a> Malatesta, “Anarchy.”
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back53" id="fn53">[53]</a> Malatesta, “Anarchy.”
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back54" id="fn54">[54]</a> Levinas, <em>Otherwise,</em> 4.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back55" id="fn55">[55]</a> Emmanuel Levinas, “Humanism and An-archy,” in <em>Collected Philosophical Papers</em> (trans. Alphonso Lingis. The Hague: Martinus Nijhoff, 1987),137-138.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back56" id="fn56">[56]</a> Levinas, “Humanism,” 136.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back57" id="fn57">[57]</a> Guerin, <em>No Gods</em>, 151.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back58" id="fn58">[58]</a> Levinas, “Substitution,” 180.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back59" id="fn59">[59]</a> Levinas similarly notes that the Talmud unconditionally requires the burial of unattended corpse, calling it the “mercy of truth.” Emmanuel Levinas, “Ideology and Idealism” (in <em>The Levinas Reader</em>, ed. Sean Hand. London: Blackwell, 1989)<em>,</em> 248.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back60" id="fn60">[60]</a> Raoul Vaneigem, <em>Revolution of Everyday Life</em>, trans. Daniel Nicholson-Smith (London: Rebel Press, 1994), 26.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back61" id="fn61">[61]</a> Emmanuel Levinas “No Identity” (in <em>Collected Philosophical Papers</em>), 143.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back62" id="fn62">[62]</a> “May 1968 Graffiti,” (in Knabb, Kenneth [ed.] <em>Situationist International Anthology</em> Chicago: Bureau of Public Secrets, 1995. http://www.bopsecrets.org/CF/graffiti.htm).
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back63" id="fn63">[63]</a> Levinas, “Humanism,” 136.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back64" id="fn64">[64]</a> Levinas, “No Identity,” 147.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back65" id="fn65">[65]</a> Levinas, “No Identity,” 151.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back66" id="fn66">[66]</a> Levinas, “Judaism and Revolution” (in <em>Nine Talmudic</em> <em>Readings</em><em>,</em> trans. Annette Aronowicz. Bloomington: Indiana Univ. Press, 1990), 102.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back67" id="fn67">[67]</a> Levinas, “Ideology,” 243.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back68" id="fn68">[68]</a> Levinas, “Judaism,” 102.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back69" id="fn69">[69]</a> Levinas, “Judaism,” 107.
+</p>
+
+<p class="fnline"><a class="footnotebody" href="anonymous-the-anarchism-of-the-other-person#fn_back70" id="fn70">[70]</a> “May 1968 Graffiti”.
+</p>
+
+</div>
+
+
+  </div>
+
+  <script>
+   /* don't load it at document ready, but right now, otherwise Chrome will not jump */
+   use_named_toc();
+  </script>
+
+  <div class="clearfix"></div>
+  <div id="text-optional-footer"></div>
+
+  
+
+
+  
+  
+
+  
+  <div>  </div>
+  
+
+  
+</div>
+
+  </div>
+  <div class="col-sm-pull-10 col-sm-1">
+    <div class="hidden-xs" style="height: 100px">
+    </div>
+    
+  </div>
+  <div class="col-sm-1">
+    <div class="hidden-xs" style="height: 100px">
+    </div>
+    
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.amw-register-stat').click(function() {
+            $.ajax({
+                type: 'POST',
+                data: {
+                    id: 5279,
+                    type: $(this).data('amw-register-stat-type'),
+                },
+                url: 'https://theanarchistlibrary.org/stats/register',
+            });
+        });
+    });
+</script>
+
+
+
+
+
+<script src="../static/js/amw-footnotes.js?v=1"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+    $(".footnotebody").click(function() {
+        var source = $(this).attr('id');
+        var target = source.replace(/fn/, '#fn_back');
+        $(target).effect("highlight", {}, 10000);
+    });
+    $(".footnote").click(function() {
+        var source = $(this).attr('id');
+        var target = source.replace(/fn_back/, '#fn');
+        $(target).effect("highlight", {}, 10000);
+    });
+});
+
+$(document).ready(function () {
+    var api = $('#page').data('text-json-header-api');
+    if (api) {
+        // console.log("Api is " + api);
+        $.ajax({
+            url: api,
+            dataType: 'json',
+            success: function(response) {
+                if (response.centerchapter) {
+                    $('#page h1,#page h2,#page h3').css('text-align', 'center');
+                }
+                if (response.centersection) {
+                    $('#page h1,#page h2,#page h3,#page h4,#page h5,#page h6').css('text-align', 'center');
+                }
+            }
+        });
+    }
+});
+
+</script>
+
+
+          </div>
+        </div>
+          <div>&nbsp;</div>
+          <div>&nbsp;</div>
+        </div>
+        
+        
+      </div>
+      <!-- end of row  -->
+      
+      <div class="clearfix">&nbsp;</div>
+      <div class="clearfix">&nbsp;</div>
+    </div><!-- end of main -->
+    </div><!-- end of wrap -->
+    <div id="footer" role="contentinfo">
+      <div class="footer">
+        <div class="center">
+        <span id="amw-footer-link-random">
+          <a href="https://theanarchistlibrary.org/random" title="Random">Random</a>
+        </span>
+        <span id="amw-footer-link-random-sep">|</span>
+        <span id="amw-footer-link-feeds">
+          <a href="https://theanarchistlibrary.org/feed">RSS feed</a>
+        </span>
+        <span id="amw-footer-link-feeds-sep">|</span>
+        <span id="amw-footer-link-library">
+      <a href="https://theanarchistlibrary.org/listing"
+		 title="texts sorted by title">Titles</a>
+        </span>
+
+        
+          <span id="amw-footer-link-authors-sep">|</span>
+          <span id="amw-footer-link-authors">
+            <a href="https://theanarchistlibrary.org/category/author"
+		       title="Authors">Authors</a>
+          </span>
+        
+          <span id="amw-footer-link-topics-sep">|</span>
+          <span id="amw-footer-link-topics">
+            <a href="https://theanarchistlibrary.org/category/topic"
+		       title="Topics">Topics</a>
+          </span>
+        
+
+        <span id="amw-footer-link-latest-sep">|</span>
+        <span id="amw-footer-link-latest">
+      <a href="https://theanarchistlibrary.org/latest">Latest entries</a>
+        </span>
+        <span id="amw-footer-link-opds-sep">|</span>
+        <span id="amw-footer-link-opds">
+      <a href="https://theanarchistlibrary.org/help/opds">Mobile</a>
+        </span>
+      
+        <span id="amw-footer-link-newtext">
+        <span id="amw-footer-link-newtext-sep">|</span>
+      <a href="https://theanarchistlibrary.org/action/text/new">Add a new text</a>
+        </span>
+      
+        </div>
+        
+        <div>
+          <div class="center">
+<a href="https://theanarchistlibrary.org">theanarchistlibrary.org</a> Ⓐ <a href="https://anarchistnews.org">anarchistnews.org</a>
+</div>
+        </div>
+        
+      </div>
+    </div>
+    <script src="../static/js/amw-autosuggest.js"></script>
+    <script src="../static/js/amw-navbar.js?v=2"></script>
+  </body>
+</html>
+
