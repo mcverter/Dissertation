@@ -1,4 +1,6 @@
 [![Sol Neely Cherokee Introduction](images/CherokeeSol.PNG)](https://www.youtube.com/clip/UgkxpS_nhypcYH4Wj3dLVScyy020w5jWxXC9)
+[(Click to open)](https://www.youtube.com/clip/UgkxpS_nhypcYH4Wj3dLVScyy020w5jWxXC9)
+
 
 > Chalagi gadi soli dagudoa  
 > Sol Neely daguadoa  
