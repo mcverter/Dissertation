@@ -131,8 +131,6 @@ The question of the element is a fundamental one for Levinas, from the very outs
 
 > The article stems from the conviction that the source of the bloody barbarism of National Socialism  … stems from the essential possibility of elemental Evil into which we can be led by logic and against which Western philosophy had not sufficiently insured itself. (original italics)
 
-While this is most likely a reference to Heidegger's embrace of Heraclitus, his belief that force and conflict are fundamental to the dynamic of becoming, to the flow of change over time has been widely influential: atomism, materialism, Spinoza, Hume, Locke, Hobbes, Hegel, Marx, Nietzsche, Deleuze, Foucault, Bradiotti, deep ecology, ecophenomenology, anarchoprimitivism and many others inherit this basic understanding from Heraclitus. 
-
 He begins the 1935 article:
 
 > The philosophy of Hitler is primordial [primaire]. But the primitive powers that burn within it burst open its wretched phraseology under the pressure of an elementary force. They awaken the secret nostalgia within the German soul. Hitlerism is more than a contagion or a madness; it is an awakening of elementary feelings. 
